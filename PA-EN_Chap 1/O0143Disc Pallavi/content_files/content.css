@@ -1,0 +1,6611 @@
+
+
+tr,td{
+	/*border:1px solid #000;*/
+}
+
+.MainBtnTable{
+	height:100%;
+	width:100%;
+}
+.MainBtnTable td{
+	vertical-align:middle;
+}
+
+
+.SubBtn{
+	display: inline-block;
+	color: black;
+	font-weight: bold;
+	background-color: #ffb380;
+	background-image: linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -o-linear-gradient(bottom, #fff) 0%, #ffb380 100%);
+	background-image: -moz-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -webkit-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -ms-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -webkit-gradient( linear, left bottom, left top, color-stop(0, #fff), color-stop(1, #ffb380) );
+   -webkit-transition: all 0s ease-in-out;
+   -moz-transition: all 0s ease-in-out;
+    transition: all 0s ease-in-out;
+	-webkit-transform: rotateX(20deg);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffb380', endColorstr='white',GradientType=0 );
+	box-shadow:none;
+				
+}
+.SubBtn:hover{
+	background-image: linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -o-linear-gradient(top, #fff) 0%, #ffb380 100%);
+	background-image: -moz-linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -webkit-linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -ms-linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -webkit-gradient( linear, left top, left button, color-stop(0, #fff), color-stop(1, #ffb380) );
+	cursor:pointer;
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='white', endColorstr='#ffb380',GradientType=0 );
+	box-shadow:none;
+}
+.SubBtn:active{
+		background-image: linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -o-linear-gradient(bottom, #fff) 0%, #ffb380 100%);
+	background-image: -moz-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -webkit-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -ms-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -webkit-gradient( linear, left bottom, left top, color-stop(0, #fff), color-stop(1, #ffb380) );
+	-webkit-transform: translate(0, 2px);
+	-moz-transform: translate(0, 2px);
+	-ms-transform: translate(0, 2px);
+	transform: translate(0, 2px);
+	box-shadow:none;
+}
+
+ 
+.buttons1,.buttons2{
+	width:72%;
+	position:absolute;
+	z-index:10;
+}
+.gap{margin-left:8px;}
+
+.space{white-space:pre;}
+
+/*// Small devices (landscape phones, 576px and up)*/
+/*// Small devices (landscape phones, 576px and up)*/
+.hid{visibility:hidden;}
+@media (min-width: 450px) and (max-width: 574px) and (orientation:landscape){ 
+.buttons1 {
+    height:20px;
+    background: white;
+}
+.buttons2{
+	 
+	height:35px;
+    background: white;
+}
+	.tickA{
+		position:absolute;
+		color:#090;
+       font-size:8px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 18px;
+   
+	}
+	
+	.tick3,.tick4,.tick7,.tick8{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick31,.tick32,.tick33{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick41,.tick42,.tick43,.tick44{
+		
+	    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick51,.tick52,.tick53,.tick54,.tick55{
+		
+		     margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick61,.tick62,.tick63,.tick64,.tick65,.tick66{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	
+	.hand51,.hand52,.hand53,.hand54,.hand55{
+		
+  margin-top: 16px;
+    margin-left: -35px;
+	}
+	.hand61,.hand62,.hand63,.hand64,.hand65,.hand66{
+		
+		  margin-top: 16px;
+   		  margin-left: -35px;
+	}
+	.SubBtn{
+		height: 12px;
+		float: left;
+		font-size: 6px;
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+
+					
+.FirstButtonCon2,.FirstButtonCon3,.FirstButtonCon4,.FirstButtonCon5,.FirstButtonCon7,.FirstButtonCon8{
+	margin-top:5px;
+}
+.FirstButtonCon6{
+	margin-left:6%;
+}
+
+.table1{
+	width:100%;
+}
+						
+.tab1_1{
+	width:5%;
+	
+}
+.tab1_2{
+	width:24%;
+	
+}
+.tab1_3{
+	width:15%;
+	
+}
+								
+.tab1_4{
+	width:7%;
+	text-align:center;
+	
+}
+	.tab1_5{
+	width:8%;
+	
+	
+	
+}
+				
+	.tab1_6{
+	width:5%;
+	
+	
+}
+						
+.tab1_7{
+	width:24%;
+	
+	
+}
+.tab1_8{
+	width:12%;
+	
+	
+}
+.FirstButtonCon6_1,.FirstButtonCon6_2,.FirstButtonCon6_3,.FirstButtonCon6_4,.FirstButtonCon6_5,.FirstButtonCon6_6,.FirstButtonCon6_7,.FirstButtonCon6_8,.FirstButtonCon6_9,.FirstButtonCon6_10,.FirstButtonCon6_11,.FirstButtonCon6_12,.FirstButtonCon6_13,.FirstButtonCon6_14,.FirstButtonCon6_15,.FirstButtonCon6_16{
+	margin-top:5px;
+}
+.FirstButtonCon6_7{
+	height:30px;
+	border-left: 2px solid #000;
+}
+
+         <!---closed frist btn-->
+tr,td{
+	border: 0px solid #000;
+}
+		 
+
+.SecondButtonCon3,.SecondButtonCon4,.SecondButtonCon5,.SecondButtonCon6,.SecondButtonCon7{
+	margin-top:5px;
+	display:inline-block;
+}
+.SecondButtonCon2 {
+	border-top:2px solid #060;
+
+}
+
+.whole1{
+	border:2px solid #060;
+	display:inline-block;
+	height:220px;
+	width:90%;
+	
+
+	margin-left:3%;
+}
+
+.SecondButtonCon3_1{
+	float:left;
+	width:10%;
+}
+.SecondButtonCon3_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon3_3{
+	float:left;
+	width:90%;
+	margin-left:10%;
+	display:inline-block;
+	
+}
+
+.SecondButtonCon4_1{
+	float:left;
+	width:10%;
+}
+.SecondButtonCon4_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon4_3{
+	float:left;
+	width:90%;
+	margin-left:10%;
+	display:inline-block;
+	
+}
+.SecondButtonCon5{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon5_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon5_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon6{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon6_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon6_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon7{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon7_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon7_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon1{
+	
+width:100%;
+	
+}
+.SecondButtonCon3,.SecondButtonCon4{
+	margin-left:2%;
+}
+
+.table2{
+	width:90%;
+}
+
+.tab2_1{
+	width:5%;
+	vertical-align:top;
+	padding-top:0px;
+}
+.tab2_2{
+	width:45%;
+	vertical-align:top;
+	padding-top:0px;
+}
+.tab2_3{
+	width:50%;
+	vertical-align:top;
+	padding-top:0px;
+}
+
+.SecondButtonCon8{
+	width:100%;
+	
+	
+}
+.SecondButtonCon9{
+	margin-left:4%;
+	
+	
+}
+.SecondButtonCon8{
+
+	display:inline-block;
+	
+}
+.SecondButtonCon9_1,SecondButtonCon9_3,.SecondButtonCon9_4,.SecondButtonCon9_5,.SecondButtonCon9_6,.SecondButtonCon9_7,.SecondButtonCon9_8
+{
+	width:100%;
+}
+    <!----closed second btn--->
+	
+tr,td{
+	border:0px solid #000;
+}
+.ThirdButtonCon2,.ThirdButtonCon3,.ThirdButtonCon4,.ThirdButtonCon5{
+	display:inline-block;
+	margin-top:5px;
+
+	width:100%;
+}
+.ThirdButtonCon7{
+	display:inline-block;
+	margin-top:5px;
+	
+	margin-left:3%;
+}
+.ThirdButtonCon8{
+	display:inline-block;
+	margin-top:5px;
+
+	margin-left:5%;
+}
+.ThirdButtonCon6{
+	display:inline-block;
+	
+	width:100%;
+}
+	
+.ThirdButtonCon4_1{
+	float:left;
+	width:15%;
+}
+	
+.ThirdButtonCon4_2{
+	width:85%;
+	float:left;
+	display:inline-block;
+}
+
+.ThirdButtonCon5_1{
+	float:left;
+	width:15%;
+}
+	
+.ThirdButtonCon5_2{
+	width:85%;
+	float:left;
+	display:inline-block;
+}	
+.gap1{
+	margin-left:1%;
+}
+
+.table3{
+	width:100%;
+	
+}
+
+
+.tab3_1,.tab3_3,.tab3_5,.tab3_7,.tab3_9,.tab3_11,.tab3_13,.tab3_15,.tab3_17,.tab3_19,.tab3_21,.tab3_23,.tab3_25,.tab3_27,.tab3_29,.tab3_31,.tab3_33,.tab3_35,.tab3_37,.tab3_39{
+	width:3.5%;
+    font-weight: bold;
+    text-align:center;
+		border:1px solid #000;
+
+}
+.tab3_2,.tab3_4,.tab3_6,.tab3_8,.tab3_10,.tab3_12,.tab3_14,.tab3_16,.tab3_18,.tab3_20,.tab3_22,.tab3_24,.tab3_26,.tab3_28,.tab3_30,.tab3_32,.tab3_34,.tab3_36,.tab3_38{
+	width:1%;
+}
+
+.tab3_40{
+	width:11%;
+	vertical-align:top;
+	
+}
+.tab3_42,.tab3_44{
+	border:1px solid #000;
+	width:12.5%;
+    font-weight: bold;
+    text-align:center;
+
+}
+.tab3_41{
+	width:6%;
+	vertical-align:top;
+	
+}
+.tab3_43{
+	width:1%;
+	vertical-align:top;
+	
+}
+ .tab3_45{
+	width:72%;
+	vertical-align:top;
+	
+}
+.table5{
+	width:100%;
+}
+      <!-----closed third btn----->
+	  
+tr,td{
+	border:0px solid #000;
+}
+	  
+.table4{
+	width:100%;
+	
+}
+.tab4_1{
+	width:5%;
+
+	vertical-align:top;
+	padding-top:0px;
+}
+
+.tab4_2{
+	width:55%;
+	
+	vertical-align:top;
+	padding-top:0px;
+}
+.tab4_3{
+	width:40%;
+
+	vertical-align:top;
+	padding-top:0px;
+}
+
+.FourthButtonCon1,.FourthButtonCon2{
+	
+	display:inline-block;
+}
+
+.FourthButtonCon3{
+	margin-left:5%;
+	
+}
+.FourthButtonCon4{
+	
+	text-align:right;
+	
+	width:100%;
+	
+}
+.FourthButtonCon5{
+	border-top:2px solid #C60;
+	
+}
+.FourthButtonCon14{
+     
+	 width:100%;
+	text-align:right;
+}
+.FourthButtonCon13{
+	border-bottom:2px solid #C60;
+	margin-bottom:1px;
+}
+
+
+.img1{
+	width:60%;
+}
+.FourthButtonCon6_1{
+	float:left;
+	width:10%;
+}
+.FourthButtonCon6_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+}
+.FourthButtonCon7,.FourthButtonCon8,.FourthButtonCon9,.FourthButtonCon10,.FourthButtonCon11,.FourthButtonCon12{
+	margin-left:10%;
+	margin-top: 0px;
+	display:inline-block;
+}
+.FourthButtonCon6{
+	margin-top:-12px;
+}
+.FourthButtonCon5{
+	margin-top:0px;
+}
+.crossBM{
+	
+	width:2.3%;
+	display:inline-block;
+
+    z-index:1;
+	cursor:pointer;
+	
+	
+}
+.smallfont1{
+	font-size:7px;
+}
+.smallfont{
+	font-size:7px;
+}	
+.img2{
+	width:6%;
+}
+.gap {
+    margin-left: 4px;
+}
+
+
+
+.table2{
+	width:70%;
+
+	
+}
+.tab2_1{
+	width:10%;
+
+	vertical-align:top;
+	padding-top:6px;
+}
+
+.tab2_2{
+	width:90%;
+	
+	vertical-align:top;
+	padding-top:6px;
+}
+
+
+
+
+.table4{
+	width:85%;
+	margin-left:5%;
+	
+}
+.tab4_1{
+	width:10%;
+
+	vertical-align:top;
+	padding-top:3px;
+}
+
+.tab4_2{
+	width:90%;
+	
+	vertical-align:top;
+	padding-top:3px;
+}
+
+
+
+
+.middle3 {
+	width:85%;
+	margin-left:15%;
+}
+
+
+.con_second_button2{
+	width:100%;
+
+}
+
+.FourthButtonCon3{
+	width:82%;
+	margin-left:3%;
+}
+.middle6 {
+	width:85%;
+	margin-left:15%;
+}
+
+}
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+@media (min-width: 575px) and (max-width:  675px) and (orientation:landscape) {   
+
+.buttons1 {
+    height:29px;
+    background: white;
+}
+.buttons2{
+	 
+	height:43px;
+    background: white;
+}
+.SubBtn2{
+     height: 20px;
+    float: left;
+    font-size: 8px;
+	}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:11px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 22px;
+   
+	}
+	
+	.tick3,.tick4,.tick7,.tick8{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick31,.tick32,.tick33{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick41,.tick42,.tick43,.tick44{
+		
+	    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick51,.tick52,.tick53,.tick54,.tick55{
+		
+		     margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick61,.tick62,.tick63,.tick64,.tick65,.tick66{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+		
+	.hand51,.hand52,.hand53,.hand54,.hand55{
+		
+ 	margin-top: 23px;
+    margin-left: -48px;
+	
+	}
+	.hand61,.hand62,.hand63,.hand64,.hand65,.hand66{
+		
+ 	margin-top: 23px;
+    margin-left: -41px;
+	
+	}
+
+	
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+
+.gap {
+    margin-left: 5px;
+}					
+.FirstButtonCon2,.FirstButtonCon3,.FirstButtonCon4,.FirstButtonCon5,.FirstButtonCon7,.FirstButtonCon8{
+	margin-top:10px;
+}
+.FirstButtonCon6{
+	margin-left:6%;
+}
+
+.table1{
+	width:85%;
+}
+						
+.tab1_1{
+	width:5%;
+	
+}
+.tab1_2{
+	width:23%;
+	
+}
+.tab1_3{
+	width:15%;
+	
+}
+								
+.tab1_4{
+	width:7%;
+	text-align:center;
+	
+}
+	.tab1_5{
+	width:8%;
+	
+	
+	
+}
+				
+	.tab1_6{
+	width:5%;
+	
+	
+}
+						
+.tab1_7{
+	width:24%;
+	
+	
+}
+.tab1_8{
+	width:13%;
+	
+	
+}
+.FirstButtonCon6_1,.FirstButtonCon6_2,.FirstButtonCon6_3,.FirstButtonCon6_4,.FirstButtonCon6_5,.FirstButtonCon6_6,.FirstButtonCon6_7,.FirstButtonCon6_8,.FirstButtonCon6_9,.FirstButtonCon6_10,.FirstButtonCon6_11,.FirstButtonCon6_12,.FirstButtonCon6_13,.FirstButtonCon6_14,.FirstButtonCon6_15,.FirstButtonCon6_16{
+	margin-top:10px;
+}
+.FirstButtonCon6_7{
+	height:50px;
+	border-left: 2px solid #000;
+}
+
+         <!---closed frist btn-->
+tr,td{
+	border: 0px solid #000;
+}
+		 
+
+.SecondButtonCon3,.SecondButtonCon4,.SecondButtonCon5,.SecondButtonCon6,.SecondButtonCon7{
+	margin-top:10px;
+	display:inline-block;
+}
+.SecondButtonCon2 {
+	border-top:2px solid #060;
+
+}
+
+.whole1{
+	border:2px solid #060;
+	display:inline-block;
+	height:230px;
+	width:87%;
+	
+
+	margin-left:3%;
+}
+
+.SecondButtonCon3_1{
+	float:left;
+	width:10%;
+}
+.SecondButtonCon3_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon3_3{
+	float:left;
+	width:90%;
+	margin-left:10%;
+	display:inline-block;
+	
+}
+
+.SecondButtonCon4_1{
+	float:left;
+	width:10%;
+}
+.SecondButtonCon4_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon4_3{
+	float:left;
+	width:90%;
+	margin-left:10%;
+	display:inline-block;
+	
+}
+.SecondButtonCon5{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon5_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon5_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon6{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon6_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon6_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon7{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon7_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon7_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon1{
+	
+	width:100%;
+	
+	
+}
+.SecondButtonCon3,.SecondButtonCon4{
+	margin-left:2%;
+}
+
+.table2{
+	width:90%;
+}
+
+.tab2_1{
+	width:5%;
+	vertical-align:top;
+	padding-top:10px;
+}
+.tab2_2{
+	width:45%;
+	vertical-align:top;
+	padding-top:10px;
+}
+.tab2_3{
+	width:50%;
+	vertical-align:top;
+	padding-top:10px;
+}
+
+.SecondButtonCon8{
+	width:100%;
+	
+	
+}
+.SecondButtonCon9{
+	margin-left:12%;
+	padding-bottom:10px;
+	
+}
+.SecondButtonCon8{
+
+	display:inline-block;
+	
+}
+.SecondButtonCon9_1,SecondButtonCon9_3,.SecondButtonCon9_4,.SecondButtonCon9_5,.SecondButtonCon9_6,.SecondButtonCon9_7,.SecondButtonCon9_8
+{
+	width:100%;
+}
+    <!----closed second btn--->
+	
+tr,td{
+	border:0px solid #000;
+}
+.ThirdButtonCon2,.ThirdButtonCon3,.ThirdButtonCon4,.ThirdButtonCon5{
+	display:inline-block;
+	margin-top:7px;
+
+	width:100%;
+}
+.ThirdButtonCon7{
+	display:inline-block;
+	margin-top:7px;
+	
+	margin-left:3%;
+}
+.ThirdButtonCon8{
+	display:inline-block;
+	margin-top:7px;
+
+	margin-left:5%;
+}
+.ThirdButtonCon6{
+	display:inline-block;
+	
+	width:100%;
+}
+	
+.ThirdButtonCon4_1{
+	float:left;
+	width:15%;
+}
+	
+.ThirdButtonCon4_2{
+	width:85%;
+	float:left;
+	display:inline-block;
+}
+
+.ThirdButtonCon5_1{
+	float:left;
+	width:15%;
+}
+	
+.ThirdButtonCon5_2{
+	width:85%;
+	float:left;
+	display:inline-block;
+}	
+.gap1{
+	margin-left:1%;
+}
+
+.table3{
+	width:100%;
+	
+}
+
+
+.tab3_1,.tab3_3,.tab3_5,.tab3_7,.tab3_9,.tab3_11,.tab3_13,.tab3_15,.tab3_17,.tab3_19,.tab3_21,.tab3_23,.tab3_25,.tab3_27,.tab3_29,.tab3_31,.tab3_33,.tab3_35,.tab3_37,.tab3_39{
+	width:3.5%;
+    font-weight: bold;
+    text-align:center;
+		border:2px solid #000;
+
+}
+.tab3_2,.tab3_4,.tab3_6,.tab3_8,.tab3_10,.tab3_12,.tab3_14,.tab3_16,.tab3_18,.tab3_20,.tab3_22,.tab3_24,.tab3_26,.tab3_28,.tab3_30,.tab3_32,.tab3_34,.tab3_36,.tab3_38{
+	width:1%;
+}
+
+.tab3_40{
+	width:11%;
+	vertical-align:top;
+	
+}
+.tab3_42,.tab3_44{
+	border:2px solid #000;
+	width:8.5%;
+    font-weight: bold;
+    text-align:center;
+
+}
+.tab3_41{
+	width:6%;
+	vertical-align:top;
+	
+}
+.tab3_43{
+	width:1%;
+	vertical-align:top;
+	
+}
+ .tab3_45{
+	width:76%;
+	vertical-align:top;
+	
+}
+.table5{
+	width:100%;
+}
+      <!-----closed third btn----->
+	  
+tr,td{
+	border:0px solid #000;
+}
+	  
+.table4{
+	width:100%;
+	
+}
+.tab4_1{
+	width:5%;
+
+	vertical-align:top;
+	padding-top:2px;
+}
+
+.tab4_2{
+	width:45%;
+	
+	vertical-align:top;
+	padding-top:2px;
+}
+.tab4_3{
+	width:50%;
+
+	vertical-align:top;
+	padding-top:2px;
+}
+
+.FourthButtonCon1,.FourthButtonCon2{
+	
+	display:inline-block;
+}
+
+.FourthButtonCon3{
+	margin-left:3%;
+	margin-top:5px;
+	
+}
+.FourthButtonCon4{
+	
+	text-align:right;
+	
+	width:100%;
+	
+}
+.FourthButtonCon5{
+	border-top:2px solid #C60;
+	
+}
+.FourthButtonCon14{
+     
+	 width:100%;
+	text-align:right;
+}
+.FourthButtonCon13{
+	border-bottom:2px solid #C60;
+	margin-bottom:3px;
+}
+.whole{
+	border:2px solid #EEE;
+	width:58%;
+	padding:2px;
+	display:none;
+	position:absolute;
+	
+	margin-left:5%;
+}
+.img1{
+	width:60%;
+}
+.FourthButtonCon6_1{
+	float:left;
+	width:10%;
+}
+.FourthButtonCon6_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+}
+.FourthButtonCon7,.FourthButtonCon8,.FourthButtonCon9,.FourthButtonCon10,.FourthButtonCon11,.FourthButtonCon12{
+	margin-left:10%;
+	margin-top:0px;
+	display:inline-block;
+}
+.FourthButtonCon6{
+	margin-top:-3px;
+}
+.FourthButtonCon5{
+	margin-top:3px;
+}
+.crossBM{
+	
+	width:2.3%;
+	display:inline-block;
+
+    z-index:1;
+	cursor:pointer;
+	
+	
+}
+.smallfont1{
+	font-size:9px;
+}
+.smallfont{
+	font-size:9px;
+}	
+.img2{
+	width:6%;
+}
+
+
+
+.table2{
+	width:70%;
+
+	
+}
+.tab2_1{
+	width:10%;
+
+	vertical-align:top;
+	padding-top:6px;
+}
+
+.tab2_2{
+	width:90%;
+	
+	vertical-align:top;
+	padding-top:6px;
+}
+
+
+
+
+.table4{
+	width:85%;
+	margin-left:5%;
+	
+}
+.tab4_1{
+	width:10%;
+
+	vertical-align:top;
+	padding-top:3px;
+}
+
+.tab4_2{
+	width:90%;
+	
+	vertical-align:top;
+	padding-top:3px;
+}
+
+
+
+
+.middle3 {
+	width:85%;
+	margin-left:15%;
+}
+
+
+.con_second_button2{
+	width:100%;
+
+}
+
+.FourthButtonCon3{
+	width:82%;
+	margin-left:3%;
+}
+.middle6 {
+	width:85%;
+	margin-left:15%;
+}
+
+}
+ /*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+@media (min-width: 676px) and (max-width: 775px) and (orientation:landscape){ 
+.buttons1 {
+    height: 33px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 46px;
+    background: white;
+}
+
+.SubBtn{
+		      height: 25px;
+    float: left;
+    font-size: 11px;
+	}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:15px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 27px;
+   
+	}
+	
+	.tick3,.tick4,.tick7,.tick8{
+		
+		       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick31,.tick32,.tick33{
+		
+		     margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick41,.tick42,.tick43,.tick44{
+		
+	       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick51,.tick52,.tick53,.tick54,.tick55{
+		
+		        margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick61,.tick62,.tick63,.tick64,.tick65,.tick66{
+		
+		       margin-left: -10px;
+    margin-top: -3px;
+	}
+	
+	.hand51,.hand52,.hand53,.hand54,.hand55{
+		
+ 	margin-top: 28px;
+    margin-left: -58px;
+	
+	}
+	.hand61,.hand62,.hand63,.hand64,.hand65,.hand66{
+		
+ 	    margin-top: 28px;
+    margin-left: -47px;
+	
+	}
+	
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+
+
+					
+.FirstButtonCon2,.FirstButtonCon3,.FirstButtonCon4,.FirstButtonCon5,.FirstButtonCon7,.FirstButtonCon8{
+	margin-top:10px;
+}
+.FirstButtonCon6{
+	margin-left:6%;
+}
+
+.table1{
+	width:85%;
+}
+						
+.tab1_1{
+	width:5%;
+	
+}
+.tab1_2{
+	width:21%;
+	
+}
+.tab1_3{
+	width:15%;
+	
+}
+								
+.tab1_4{
+	width:7%;
+	text-align:center;
+	
+}
+	.tab1_5{
+	width:8%;
+	
+	
+	
+}
+				
+	.tab1_6{
+	width:5%;
+	
+	
+}
+						
+.tab1_7{
+	width:23%;
+	
+	
+}
+.tab1_8{
+	width:16%;
+	
+	
+}
+.FirstButtonCon6_1,.FirstButtonCon6_2,.FirstButtonCon6_3,.FirstButtonCon6_4,.FirstButtonCon6_5,.FirstButtonCon6_6,.FirstButtonCon6_7,.FirstButtonCon6_8,.FirstButtonCon6_9,.FirstButtonCon6_10,.FirstButtonCon6_11,.FirstButtonCon6_12,.FirstButtonCon6_13,.FirstButtonCon6_14,.FirstButtonCon6_15,.FirstButtonCon6_16{
+	margin-top:10px;
+}
+.FirstButtonCon6_7{
+	height:67px;
+	border-left: 2px solid #000;
+}
+
+         <!---closed frist btn-->
+tr,td{
+	border: 0px solid #000;
+}
+		 
+
+.SecondButtonCon3,.SecondButtonCon4,.SecondButtonCon5,.SecondButtonCon6,.SecondButtonCon7{
+	margin-top:10px;
+	display:inline-block;
+}
+.SecondButtonCon2 {
+	border-top:2px solid #060;
+
+}
+
+.whole1{
+	border:2px solid #060;
+	display:inline-block;
+	height:252px;
+	width:87%;
+	
+
+	margin-left:3%;
+}
+
+.SecondButtonCon3_1{
+	float:left;
+	width:10%;
+}
+.SecondButtonCon3_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon3_3{
+	float:left;
+	width:90%;
+	margin-left:10%;
+	display:inline-block;
+	
+}
+
+.SecondButtonCon4_1{
+	float:left;
+	width:10%;
+}
+.SecondButtonCon4_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon4_3{
+	float:left;
+	width:90%;
+	margin-left:10%;
+	display:inline-block;
+	
+}
+.SecondButtonCon5{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon5_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon5_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon6{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon6_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon6_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon7{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon7_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon7_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon1{
+	width:100%;
+	}
+	
+.SecondButtonCon3,.SecondButtonCon4{
+	margin-left:2%;
+}
+
+.table2{
+	width:90%;
+}
+
+.tab2_1{
+	width:5%;
+	vertical-align:top;
+	padding-top:15px;
+}
+.tab2_2{
+	width:45%;
+	vertical-align:top;
+	padding-top:15px;
+}
+.tab2_3{
+	width:50%;
+	vertical-align:top;
+	padding-top:15px;
+}
+
+.SecondButtonCon8{
+	width:100%;
+	
+	
+}
+.SecondButtonCon9{
+	margin-left:12%;
+	padding-bottom:10px;
+	
+}
+.SecondButtonCon8{
+
+	display:inline-block;
+	
+}
+.SecondButtonCon9_1,SecondButtonCon9_3,.SecondButtonCon9_4,.SecondButtonCon9_5,.SecondButtonCon9_6,.SecondButtonCon9_7,.SecondButtonCon9_8
+{
+	width:100%;
+}
+    <!----closed second btn--->
+	
+tr,td{
+	border:0px solid #000;
+}
+.ThirdButtonCon2,.ThirdButtonCon3,.ThirdButtonCon4,.ThirdButtonCon5{
+	display:inline-block;
+	margin-top:7px;
+
+	width:100%;
+}
+.ThirdButtonCon7{
+	display:inline-block;
+	margin-top:7px;
+	
+	margin-left:6%;
+}
+.ThirdButtonCon8{
+	display:inline-block;
+	margin-top:7px;
+
+	margin-left:5%;
+}
+.ThirdButtonCon6{
+	display:inline-block;
+	
+	width:100%;
+}
+	
+.ThirdButtonCon4_1{
+	float:left;
+	width:15%;
+}
+	
+.ThirdButtonCon4_2{
+	width:85%;
+	float:left;
+	display:inline-block;
+}
+
+.ThirdButtonCon5_1{
+	float:left;
+	width:15%;
+}
+	
+.ThirdButtonCon5_2{
+	width:85%;
+	float:left;
+	display:inline-block;
+}	
+.gap1{
+	margin-left:1%;
+}
+
+.table3{
+	width:100%;
+	
+}
+
+
+.tab3_1,.tab3_3,.tab3_5,.tab3_7,.tab3_9,.tab3_11,.tab3_13,.tab3_15,.tab3_17,.tab3_19,.tab3_21,.tab3_23,.tab3_25,.tab3_27,.tab3_29,.tab3_31,.tab3_33,.tab3_35,.tab3_37,.tab3_39{
+	width:3.5%;
+    font-weight: bold;
+    text-align:center;
+		border:2px solid #000;
+
+}
+.tab3_2,.tab3_4,.tab3_6,.tab3_8,.tab3_10,.tab3_12,.tab3_14,.tab3_16,.tab3_18,.tab3_20,.tab3_22,.tab3_24,.tab3_26,.tab3_28,.tab3_30,.tab3_32,.tab3_34,.tab3_36,.tab3_38{
+	width:1%;
+}
+
+.tab3_40{
+	width:11%;
+	vertical-align:top;
+	
+}
+.tab3_42,.tab3_44{
+	border:2px solid #000;
+	width:10.5%;
+    font-weight: bold;
+    text-align:center;
+
+}
+.tab3_41{
+	width:6%;
+	vertical-align:top;
+	
+}
+.tab3_43{
+	width:1%;
+	vertical-align:top;
+	
+}
+ .tab3_45{
+	width:72%;
+	vertical-align:top;
+	
+}
+.table5{
+	width:100%;
+}
+      <!-----closed third btn----->
+	  
+tr,td{
+	border:0px solid #000;
+}
+	  
+.table4{
+	width:100%;
+	
+}
+.tab4_1{
+	width:5%;
+
+	vertical-align:top;
+	padding-top:3px;
+}
+
+.tab4_2{
+	width:50%;
+	
+	vertical-align:top;
+	padding-top:3px;
+}
+.tab4_3{
+	width:45%;
+
+	vertical-align:top;
+	padding-top:3px;
+}
+
+.FourthButtonCon1,.FourthButtonCon2{
+	
+	display:inline-block;
+}
+
+.FourthButtonCon3{
+	margin-left:12%;
+	
+}
+.FourthButtonCon4{
+	
+	text-align:right;
+	
+	width:100%;
+	
+}
+.FourthButtonCon5{
+	border-top:2px solid #C60;
+	
+}
+.FourthButtonCon14{
+     
+	 width:100%;
+	text-align:right;
+}
+.FourthButtonCon13{
+	border-bottom:2px solid #C60;
+	margin-bottom:3px;
+}
+.whole{
+	border:2px solid #EEE;
+	width:61%;
+	padding:2px;
+	display:none;
+	position:absolute;
+	
+	margin-left:5%;
+}
+.img1{
+	width:60%;
+}
+.FourthButtonCon6_1{
+	float:left;
+	width:10%;
+}
+.FourthButtonCon6_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+}
+.FourthButtonCon7,.FourthButtonCon8,.FourthButtonCon9,.FourthButtonCon10,.FourthButtonCon11,.FourthButtonCon12{
+	margin-left:10%;
+	margin-top:0px;
+	display:inline-block;
+}
+.FourthButtonCon6{
+	margin-top:-3px;
+}
+.FourthButtonCon5{
+	margin-top:3px;
+}
+.crossBM{
+	
+	width:2.3%;
+	display:inline-block;
+
+    z-index:1;
+	cursor:pointer;
+	
+	
+}
+.smallfont1{
+	font-size:10px;
+}
+.smallfont{
+	font-size:11px;
+}	
+.img2{
+	width:6%;
+}
+
+
+
+
+.table2{
+	width:70%;
+
+	
+}
+.tab2_1{
+	width:10%;
+
+	vertical-align:top;
+	padding-top:6px;
+}
+
+.tab2_2{
+	width:90%;
+	
+	vertical-align:top;
+	padding-top:6px;
+}
+
+
+
+
+.table4{
+	width:85%;
+	margin-left:5%;
+	
+}
+.tab4_1{
+	width:10%;
+
+	vertical-align:top;
+	padding-top:3px;
+}
+
+.tab4_2{
+	width:90%;
+	
+	vertical-align:top;
+	padding-top:3px;
+}
+
+
+
+
+.middle3 {
+	width:85%;
+	margin-left:15%;
+}
+
+
+.con_second_button2{
+	width:100%;
+
+}
+
+.FourthButtonCon3{
+	width:82%;
+	margin-left:3%;
+}
+.middle6 {
+	width:85%;
+	margin-left:15%;
+}
+
+}
+ /*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 776px) and (max-width: 876px) and (orientation:landscape)
+{
+	.buttons1 {
+    height: 36px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 56px;
+    background: white;
+}
+
+
+.SubBtn{
+    height: 35px;
+    float: left;
+    font-size: 12px;
+	}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:15px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 30px;
+   
+	}
+	
+	.tick3,.tick4,.tick7,.tick8{
+		
+	margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick31,.tick32,.tick33{
+		
+		     margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick41,.tick42,.tick43,.tick44{
+		
+	       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick51,.tick52,.tick53,.tick54,.tick55{
+		
+		        margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick61,.tick62,.tick63,.tick64,.tick65,.tick66{
+		
+		       margin-left: -10px;
+    margin-top: -3px;
+	}
+	
+	.hand51,.hand52,.hand53,.hand54,.hand55{
+		
+ 	margin-top: 31px;
+    margin-left: -65px;
+	
+	}
+	.hand61,.hand62,.hand63,.hand64,.hand65,.hand66{
+		
+ 	     margin-top: 31px;
+    margin-left: -52px;
+
+	
+	}
+	
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+
+
+				
+.FirstButtonCon2,.FirstButtonCon3,.FirstButtonCon4,.FirstButtonCon5,.FirstButtonCon7,.FirstButtonCon8{
+	margin-top:10px;
+}
+.FirstButtonCon6{
+	margin-left:6%;
+}
+
+.table1{
+	width:85%;
+}
+						
+.tab1_1{
+	width:5%;
+	
+}
+.tab1_2{
+	width:23%;
+	
+}
+.tab1_3{
+	width:15%;
+	
+}
+								
+.tab1_4{
+	width:7%;
+	text-align:center;
+	
+}
+	.tab1_5{
+	width:8%;
+	
+	
+	
+}
+				
+	.tab1_6{
+	width:5%;
+	
+	
+}
+						
+.tab1_7{
+	width:22%;
+	
+	
+}
+.tab1_8{
+	width:15%;
+	
+	
+}
+.FirstButtonCon6_1,.FirstButtonCon6_2,.FirstButtonCon6_3,.FirstButtonCon6_4,.FirstButtonCon6_5,.FirstButtonCon6_6,.FirstButtonCon6_7,.FirstButtonCon6_8,.FirstButtonCon6_9,.FirstButtonCon6_10,.FirstButtonCon6_11,.FirstButtonCon6_12,.FirstButtonCon6_13,.FirstButtonCon6_14,.FirstButtonCon6_15,.FirstButtonCon6_16{
+	margin-top:10px;
+}
+.FirstButtonCon6_7{
+	height:80px;
+	border-left: 2px solid #000;
+}
+
+         <!---closed frist btn-->
+tr,td{
+	border: 0px solid #000;
+}
+		 
+
+.SecondButtonCon3,.SecondButtonCon4,.SecondButtonCon5,.SecondButtonCon6,.SecondButtonCon7{
+	margin-top:5px;
+	display:inline-block;
+}
+.SecondButtonCon2 {
+	border-top:2px solid #060;
+
+}
+
+.whole1{
+	border:2px solid #060;
+	display:inline-block;
+	height:350px;
+	width:95%;
+	
+
+	
+}
+
+.SecondButtonCon3_1{
+	float:left;
+	width:10%;
+}
+.SecondButtonCon3_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon3_3{
+	float:left;
+	width:90%;
+	margin-left:10%;
+	display:inline-block;
+	
+}
+
+.SecondButtonCon4_1{
+	float:left;
+	width:10%;
+}
+.SecondButtonCon4_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon4_3{
+	float:left;
+	width:90%;
+	margin-left:10%;
+	display:inline-block;
+	
+}
+.SecondButtonCon5{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon5_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon5_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon6{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon6_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon6_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon7{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon7_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon7_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon1{
+
+	width:100%;
+	
+	
+}
+.SecondButtonCon3,.SecondButtonCon4{
+	margin-left:2%;
+}
+
+.table2{
+	width:90%;
+}
+
+.tab2_1{
+	width:5%;
+	vertical-align:top;
+	padding-top:5px;
+}
+.tab2_2{
+	width:45%;
+	vertical-align:top;
+	padding-top:5px;
+}
+.tab2_3{
+	width:50%;
+	vertical-align:top;
+	padding-top:5px;
+}
+
+.SecondButtonCon8{
+	width:100%;
+	
+	
+}
+.SecondButtonCon9{
+	margin-left:12%;
+	
+	
+}
+.SecondButtonCon8{
+
+	display:inline-block;
+	
+}
+.SecondButtonCon9_1,SecondButtonCon9_3,.SecondButtonCon9_4,.SecondButtonCon9_5,.SecondButtonCon9_6,.SecondButtonCon9_7,.SecondButtonCon9_8
+{
+	width:100%;
+}
+    <!----closed second btn--->
+	
+tr,td{
+	border:0px solid #000;
+}
+.ThirdButtonCon2,.ThirdButtonCon3,.ThirdButtonCon4,.ThirdButtonCon5{
+	display:inline-block;
+	margin-top:7px;
+
+	width:100%;
+}
+.ThirdButtonCon7{
+	display:inline-block;
+	margin-top:7px;
+	
+	margin-left:5%;
+}
+.ThirdButtonCon8{
+	display:inline-block;
+	margin-top:7px;
+
+	margin-left:5%;
+}
+.ThirdButtonCon6{
+	display:inline-block;
+	
+	width:100%;
+}
+	
+.ThirdButtonCon4_1{
+	float:left;
+	width:15%;
+}
+	
+.ThirdButtonCon4_2{
+	width:85%;
+	float:left;
+	display:inline-block;
+}
+
+.ThirdButtonCon5_1{
+	float:left;
+	width:15%;
+}
+	
+.ThirdButtonCon5_2{
+	width:85%;
+	float:left;
+	display:inline-block;
+}	
+.gap1{
+	margin-left:1%;
+}
+
+.table3{
+	width:100%;
+	
+}
+
+
+.tab3_1,.tab3_3,.tab3_5,.tab3_7,.tab3_9,.tab3_11,.tab3_13,.tab3_15,.tab3_17,.tab3_19,.tab3_21,.tab3_23,.tab3_25,.tab3_27,.tab3_29,.tab3_31,.tab3_33,.tab3_35,.tab3_37,.tab3_39{
+	width:3.5%;
+    font-weight: bold;
+    text-align:center;
+		border:2px solid #000;
+
+}
+.tab3_2,.tab3_4,.tab3_6,.tab3_8,.tab3_10,.tab3_12,.tab3_14,.tab3_16,.tab3_18,.tab3_20,.tab3_22,.tab3_24,.tab3_26,.tab3_28,.tab3_30,.tab3_32,.tab3_34,.tab3_36,.tab3_38{
+	width:1%;
+}
+
+.tab3_40{
+	width:11%;
+	vertical-align:top;
+	
+}
+.tab3_42,.tab3_44{
+	border:2px solid #000;
+	width:7.5%;
+
+    font-weight: bold;
+    text-align:center;
+
+}
+.tab3_41{
+	width:6%;
+	vertical-align:top;
+	
+}
+.tab3_43{
+	width:1%;
+	vertical-align:top;
+	
+}
+ .tab3_45{
+	width:78%;
+	vertical-align:top;
+	
+}
+.table5{
+	width:100%;
+}
+      <!-----closed third btn----->
+	  
+tr,td{
+	border:0px solid #000;
+}
+	  
+.table4{
+	width:100%;
+	
+}
+.tab4_1{
+	width:5%;
+
+	vertical-align:top;
+	padding-top:3px;
+}
+
+.tab4_2{
+	width:45%;
+	
+	vertical-align:top;
+	padding-top:3px;
+}
+.tab4_3{
+	width:50%;
+
+	vertical-align:top;
+	padding-top:3px;
+}
+
+.FourthButtonCon1,.FourthButtonCon2{
+	
+	display:inline-block;
+}
+
+.FourthButtonCon3{
+	margin-left:5%;
+	
+}
+.FourthButtonCon4{
+	
+	text-align:right;
+	
+	width:100%;
+	
+}
+.FourthButtonCon5{
+	border-top:2px solid #C60;
+	
+}
+.FourthButtonCon14{
+     
+	 width:100%;
+	text-align:right;
+}
+.FourthButtonCon13{
+	border-bottom:2px solid #C60;
+	margin-bottom:3px;
+}
+.whole{
+	border:2px solid #EEE;
+	width:60%;
+	padding:2px;
+	display:none;
+	position:absolute;
+	
+	margin-left:5%;
+}
+.img1{
+	width:60%;
+}
+.FourthButtonCon6_1{
+	float:left;
+	width:10%;
+}
+.FourthButtonCon6_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+}
+.FourthButtonCon7,.FourthButtonCon8,.FourthButtonCon9,.FourthButtonCon10,.FourthButtonCon11,.FourthButtonCon12{
+	margin-left:10%;
+	margin-top:0px;
+	display:inline-block;
+}
+.FourthButtonCon6{
+	margin-top:-3px;
+}
+.FourthButtonCon5{
+	margin-top:3px;
+}
+.crossBM{
+	
+	width:2.3%;
+	display:inline-block;
+
+    z-index:1;
+	cursor:pointer;
+	
+	
+}
+.smallfont1{
+	font-size:12px;
+}
+.smallfont{
+	font-size:14px;
+}	
+.img2{
+	width:6%;
+}
+
+
+
+.table2{
+	width:70%;
+
+	
+}
+.tab2_1{
+	width:10%;
+
+	vertical-align:top;
+	padding-top:6px;
+}
+
+.tab2_2{
+	width:90%;
+	
+	vertical-align:top;
+	padding-top:6px;
+}
+
+
+
+
+.table4{
+	width:85%;
+	margin-left:5%;
+	
+}
+.tab4_1{
+	width:10%;
+
+	vertical-align:top;
+	padding-top:3px;
+}
+
+.tab4_2{
+	width:90%;
+	
+	vertical-align:top;
+	padding-top:3px;
+}
+
+
+
+
+.middle3 {
+	width:85%;
+	margin-left:15%;
+}
+
+
+.con_second_button2{
+	width:100%;
+
+}
+
+.FourthButtonCon3{
+	width:82%;
+	margin-left:3%;
+}
+.middle6 {
+	width:85%;
+	margin-left:15%;
+}
+}
+ 
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 877px) and (max-width: 980px) and (orientation:landscape)
+{
+		.buttons1 {
+    height: 45px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 67px;
+    background: white;
+}
+
+
+
+.SubBtn{
+	height: 35px;
+    float: left;
+    font-size: 14px;
+	}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:15px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 35px;
+   
+	}
+	
+	.tick3,.tick4,.tick7,.tick8{
+		
+		       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick31,.tick32,.tick33{
+		
+		     margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick41,.tick42,.tick43,.tick44{
+		
+	       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick51,.tick52,.tick53,.tick54,.tick55{
+		
+		        margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick61,.tick62,.tick63,.tick64,.tick65,.tick66{
+		
+		       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.hand51,.hand52,.hand53,.hand54,.hand55{
+		
+    margin-top: 40px;
+    margin-left: -73px;
+	
+	}
+	.hand61,.hand62,.hand63,.hand64,.hand65,.hand66{
+		
+    margin-top: 38px;
+    margin-left: -58px;	
+	}
+	
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+
+	
+				
+.FirstButtonCon2,.FirstButtonCon3,.FirstButtonCon4,.FirstButtonCon5,.FirstButtonCon7,.FirstButtonCon8{
+	margin-top:10px;
+}
+.FirstButtonCon6{
+	margin-left:6%;
+}
+
+.table1{
+	width:85%;
+}
+						
+.tab1_1{
+	width:5%;
+	
+}
+.tab1_2{
+	width:20%;
+	
+}
+.tab1_3{
+	width:15%;
+	
+}
+								
+.tab1_4{
+	width:7%;
+	text-align:center;
+	
+}
+	.tab1_5{
+	width:8%;
+	
+	
+	
+}
+				
+	.tab1_6{
+	width:5%;
+	
+	
+}
+						
+.tab1_7{
+	width:20%;
+	
+	
+}
+.tab1_8{
+	width:20%;
+	
+	
+}
+.FirstButtonCon6_1,.FirstButtonCon6_2,.FirstButtonCon6_3,.FirstButtonCon6_4,.FirstButtonCon6_5,.FirstButtonCon6_6,.FirstButtonCon6_7,.FirstButtonCon6_8,.FirstButtonCon6_9,.FirstButtonCon6_10,.FirstButtonCon6_11,.FirstButtonCon6_12,.FirstButtonCon6_13,.FirstButtonCon6_14,.FirstButtonCon6_15,.FirstButtonCon6_16{
+	margin-top:10px;
+}
+.FirstButtonCon6_7{
+	height:80px;
+	border-left: 2px solid #000;
+}
+
+         <!---closed frist btn-->
+tr,td{
+	border: 0px solid #000;
+}
+		 
+
+.SecondButtonCon3,.SecondButtonCon4,.SecondButtonCon5,.SecondButtonCon6,.SecondButtonCon7{
+	margin-top:10px;
+	display:inline-block;
+}
+.SecondButtonCon2 {
+	border-top:2px solid #060;
+
+}
+
+.whole1{
+	border:2px solid #060;
+	display:inline-block;
+	height:355px;
+	width:87%;
+	
+
+	margin-left:3%;
+}
+
+.SecondButtonCon3_1{
+	float:left;
+	width:10%;
+}
+.SecondButtonCon3_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon3_3{
+	float:left;
+	width:90%;
+	margin-left:10%;
+	display:inline-block;
+	
+}
+
+.SecondButtonCon4_1{
+	float:left;
+	width:10%;
+}
+.SecondButtonCon4_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon4_3{
+	float:left;
+	width:90%;
+	margin-left:10%;
+	display:inline-block;
+	
+}
+.SecondButtonCon5{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon5_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon5_2{
+	float:left;
+	width:85%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon6{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon6_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon6_2{
+	float:left;
+	width:85%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon7{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon7_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon7_2{
+	float:left;
+	width:85%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon1{
+	width:100%;
+}
+
+.SecondButtonCon3,.SecondButtonCon4{
+	margin-left:2%;
+}
+
+.table2{
+	width:90%;
+}
+
+.tab2_1{
+	width:5%;
+	vertical-align:top;
+	padding-top:15px;
+}
+.tab2_2{
+	width:45%;
+	vertical-align:top;
+	padding-top:15px;
+}
+.tab2_3{
+	width:50%;
+	vertical-align:top;
+	padding-top:15px;
+}
+
+.SecondButtonCon8{
+	width:100%;
+	
+	
+}
+.SecondButtonCon9{
+	margin-left:12%;
+	padding-bottom:10px;
+	
+}
+.SecondButtonCon8{
+
+	display:inline-block;
+	
+}
+.SecondButtonCon9_1,SecondButtonCon9_3,.SecondButtonCon9_4,.SecondButtonCon9_5,.SecondButtonCon9_6,.SecondButtonCon9_7,.SecondButtonCon9_8
+{
+	width:100%;
+}
+    <!----closed second btn--->
+	
+tr,td{
+	border:0px solid #000;
+}
+.ThirdButtonCon2,.ThirdButtonCon3,.ThirdButtonCon4,.ThirdButtonCon5{
+	display:inline-block;
+	margin-top:10px;
+
+	width:100%;
+}
+.ThirdButtonCon7{
+	display:inline-block;
+	margin-top:10px;
+	
+	margin-left:7%;
+}
+.ThirdButtonCon8{
+	display:inline-block;
+	margin-top:10              px;
+
+	margin-left:5%;
+}
+.ThirdButtonCon6{
+	display:inline-block;
+	
+	width:100%;
+}
+	
+.ThirdButtonCon4_1{
+	float:left;
+	width:15%;
+}
+	
+.ThirdButtonCon4_2{
+	width:85%;
+	float:left;
+	display:inline-block;
+}
+
+.ThirdButtonCon5_1{
+	float:left;
+	width:15%;
+}
+	
+.ThirdButtonCon5_2{
+	width:85%;
+	float:left;
+	display:inline-block;
+}	
+.gap1{
+	margin-left:1%;
+}
+
+.table3{
+	width:100%;
+	
+}
+
+
+.tab3_1,.tab3_3,.tab3_5,.tab3_7,.tab3_9,.tab3_11,.tab3_13,.tab3_15,.tab3_17,.tab3_19,.tab3_21,.tab3_23,.tab3_25,.tab3_27,.tab3_29,.tab3_31,.tab3_33,.tab3_35,.tab3_37,.tab3_39{
+	width:3.5%;
+    font-weight: bold;
+    text-align:center;
+		border:2px solid #000;
+
+}
+.tab3_2,.tab3_4,.tab3_6,.tab3_8,.tab3_10,.tab3_12,.tab3_14,.tab3_16,.tab3_18,.tab3_20,.tab3_22,.tab3_24,.tab3_26,.tab3_28,.tab3_30,.tab3_32,.tab3_34,.tab3_36,.tab3_38{
+	width:1%;
+}
+
+.tab3_40{
+	width:11%;
+	vertical-align:top;
+	
+}
+.tab3_42,.tab3_44{
+	border:2px solid #000;
+	width:9.5%;
+    font-weight: bold;
+    text-align:center;
+
+}
+.tab3_41{
+	width:6%;
+	vertical-align:top;
+	
+}
+.tab3_43{
+	width:1%;
+	vertical-align:top;
+	
+}
+ .tab3_45{
+	width:74%;
+	vertical-align:top;
+	
+}
+.table5{
+	width:100%;
+}
+      <!-----closed third btn----->
+	  
+tr,td{
+	border:0px solid #000;
+}
+	  
+.table4{
+	width:100%;
+	
+}
+.tab4_1{
+	width:5%;
+
+	vertical-align:top;
+	padding-top:6px;
+}
+
+.tab4_2{
+	width:50%;
+	
+	vertical-align:top;
+	padding-top:6px;
+}
+.tab4_3{
+	width:45%;
+
+	vertical-align:top;
+	padding-top:6px;
+}
+
+.FourthButtonCon1,.FourthButtonCon2{
+	
+	display:inline-block;
+}
+
+.FourthButtonCon3{
+	margin-left:12%;
+	
+}
+.FourthButtonCon4{
+	
+	text-align:right;
+	
+	width:100%;
+	
+}
+.FourthButtonCon5{
+	border-top:2px solid #C60;
+	
+}
+.FourthButtonCon14{
+     
+	 width:100%;
+	text-align:right;
+}
+.FourthButtonCon13{
+	border-bottom:2px solid #C60;
+	margin-bottom:3px;
+}
+.whole{
+	border:2px solid #EEE;
+	width:59%;
+	padding:2px;
+	display:none;
+	position:absolute;
+	
+	margin-left:5%;
+}
+.img1{
+	width:60%;
+}
+.FourthButtonCon6_1{
+	float:left;
+	width:10%;
+}
+.FourthButtonCon6_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+}
+.FourthButtonCon7,.FourthButtonCon8,.FourthButtonCon9,.FourthButtonCon10,.FourthButtonCon11,.FourthButtonCon12{
+	margin-left:10%;
+	margin-top:0px;
+	display:inline-block;
+}
+.FourthButtonCon6{
+	margin-top:-3px;
+}
+.FourthButtonCon5{
+	margin-top:3px;
+}
+.crossBM{
+	
+	width:2.3%;
+	display:inline-block;
+
+    z-index:1;
+	cursor:pointer;
+	
+	
+}
+.smallfont1{
+	font-size:15px;
+}
+.smallfont{
+	font-size:15px;
+}	
+.img2{
+	width:6%;
+}
+
+
+
+.table2{
+	width:70%;
+
+	
+}
+.tab2_1{
+	width:10%;
+
+	vertical-align:top;
+	padding-top:6px;
+}
+
+.tab2_2{
+	width:90%;
+	
+	vertical-align:top;
+	padding-top:6px;
+}
+
+
+
+
+.table4{
+	width:85%;
+	margin-left:5%;
+	
+}
+.tab4_1{
+	width:10%;
+
+	vertical-align:top;
+	padding-top:3px;
+}
+
+.tab4_2{
+	width:90%;
+	
+	vertical-align:top;
+	padding-top:3px;
+}
+
+
+
+
+.middle3 {
+	width:85%;
+	margin-left:15%;
+}
+
+
+.con_second_button2{
+	width:100%;
+
+}
+
+.FourthButtonCon3{
+	width:82%;
+	margin-left:8%;
+}
+.middle6 {
+	width:85%;
+	margin-left:15%;
+}
+
+}
+
+ /*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 981px) and (max-width: 1100px) and (orientation:landscape)
+{
+		.buttons1 {
+    height: 60px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 90px;
+    background: white;
+}
+
+
+
+	
+.SubBtn{
+	height: 49px;
+    float: left;
+    font-size: 16.5px;	
+	}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:21px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 45px;
+   
+	}
+	
+	.tick3,.tick4,.tick7,.tick8{
+		
+		      margin-left: -13px;
+    margin-top: -6px;
+	}
+	.tick31,.tick32,.tick33{
+		
+		    margin-left: -13px;
+    margin-top: -6px;
+	}
+	.tick41,.tick42,.tick43,.tick44{
+		
+	      margin-left: -13px;
+    margin-top: -6px;
+	}
+	.tick51,.tick52,.tick53,.tick54,.tick55{
+		
+		       margin-left: -13px;
+    margin-top: -6px;
+	}
+	.tick61,.tick62,.tick63,.tick64,.tick65,.tick66{
+		
+		     margin-left: -13px;
+    margin-top: -6px;
+	}
+	.hand51,.hand52,.hand53,.hand54,.hand55{
+		
+       margin-top: 55px;
+    margin-left: -75px;
+	
+	}
+	.hand61,.hand62,.hand63,.hand64,.hand65,.hand66{
+		
+		
+       margin-top: 55px;
+    margin-left: -87px;
+	}
+	
+
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+
+
+				
+.FirstButtonCon2,.FirstButtonCon3,.FirstButtonCon4,.FirstButtonCon5,.FirstButtonCon7,.FirstButtonCon8{
+	margin-top:10px;
+}
+.FirstButtonCon6{
+	margin-left:6%;
+}
+
+.table1{
+	width:85%;
+}
+						
+.tab1_1{
+	width:5%;
+	
+}
+.tab1_2{
+	width:20%;
+	
+}
+.tab1_3{
+	width:15%;
+	
+}
+								
+.tab1_4{
+	width:7%;
+	text-align:center;
+	
+}
+	.tab1_5{
+	width:8%;
+	
+	
+	
+}
+				
+	.tab1_6{
+	width:5%;
+	
+	
+}
+						
+.tab1_7{
+	width:20%;
+	
+	
+}
+.tab1_8{
+	width:20%;
+	
+	
+}
+.FirstButtonCon6_1,.FirstButtonCon6_2,.FirstButtonCon6_3,.FirstButtonCon6_4,.FirstButtonCon6_5,.FirstButtonCon6_6,.FirstButtonCon6_7,.FirstButtonCon6_8,.FirstButtonCon6_9,.FirstButtonCon6_10,.FirstButtonCon6_11,.FirstButtonCon6_12,.FirstButtonCon6_13,.FirstButtonCon6_14,.FirstButtonCon6_15,.FirstButtonCon6_16{
+	margin-top:10px;
+}
+.FirstButtonCon6_7{
+	height:120px;
+	border-left: 2px solid #000;
+}
+
+         <!---closed frist btn-->
+tr,td{
+	border: 0px solid #000;
+}
+		 
+
+.SecondButtonCon3,.SecondButtonCon4,.SecondButtonCon5,.SecondButtonCon6,.SecondButtonCon7{
+	margin-top:10px;
+	display:inline-block;
+}
+.SecondButtonCon2 {
+	border-top:2px solid #060;
+
+}
+
+.whole1{
+	border:2px solid #060;
+	display:inline-block;
+	height:411px;
+	width:87%;
+	
+
+	margin-left:3%;
+}
+
+.SecondButtonCon3_1{
+	float:left;
+	width:10%;
+}
+.SecondButtonCon3_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon3_3{
+	float:left;
+	width:90%;
+	margin-left:10%;
+	display:inline-block;
+	
+}
+
+.SecondButtonCon4_1{
+	float:left;
+	width:10%;
+}
+.SecondButtonCon4_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon4_3{
+	float:left;
+	width:90%;
+	margin-left:10%;
+	display:inline-block;
+	
+}
+.SecondButtonCon5{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon5_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon5_2{
+	float:left;
+	width:85%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon6{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon6_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon6_2{
+	float:left;
+	width:85%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon7{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon7_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon7_2{
+	float:left;
+	width:85%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon1{
+	
+	width:100%;
+	
+	
+}
+.SecondButtonCon3,.SecondButtonCon4{
+	margin-left:2%;
+}
+
+.table2{
+	width:90%;
+}
+
+.tab2_1{
+	width:5%;
+	vertical-align:top;
+	padding-top:15px;
+}
+.tab2_2{
+	width:45%;
+	vertical-align:top;
+	padding-top:15px;
+}
+.tab2_3{
+	width:50%;
+	vertical-align:top;
+	padding-top:15px;
+}
+
+.SecondButtonCon8{
+	width:100%;
+	
+	
+}
+.SecondButtonCon9{
+	margin-left:12%;
+	padding-bottom:10px;
+	
+}
+.SecondButtonCon8{
+
+	display:inline-block;
+	
+}
+.SecondButtonCon9_1,SecondButtonCon9_3,.SecondButtonCon9_4,.SecondButtonCon9_5,.SecondButtonCon9_6,.SecondButtonCon9_7,.SecondButtonCon9_8
+{
+	width:100%;
+}
+    <!----closed second btn--->
+	
+tr,td{
+	border:0px solid #000;
+}
+.ThirdButtonCon2,.ThirdButtonCon3,.ThirdButtonCon4,.ThirdButtonCon5{
+	display:inline-block;
+	margin-top:15px;
+
+	width:100%;
+}
+.ThirdButtonCon7{
+	display:inline-block;
+	margin-top:25px;
+	
+	margin-left:3%;
+}
+.ThirdButtonCon8{
+	display:inline-block;
+	margin-top:25px;
+
+	margin-left:5%;
+}
+.ThirdButtonCon6{
+	display:inline-block;
+	
+	width:100%;
+}
+	
+.ThirdButtonCon4_1{
+	float:left;
+	width:15%;
+}
+	
+.ThirdButtonCon4_2{
+	width:85%;
+	float:left;
+	display:inline-block;
+}
+
+.ThirdButtonCon5_1{
+	float:left;
+	width:15%;
+}
+	
+.ThirdButtonCon5_2{
+	width:85%;
+	float:left;
+	display:inline-block;
+}	
+.gap1{
+	margin-left:1%;
+}
+
+.table3{
+	width:100%;
+	
+}
+
+
+.tab3_1,.tab3_3,.tab3_5,.tab3_7,.tab3_9,.tab3_11,.tab3_13,.tab3_15,.tab3_17,.tab3_19,.tab3_21,.tab3_23,.tab3_25,.tab3_27,.tab3_29,.tab3_31,.tab3_33,.tab3_35,.tab3_37,.tab3_39{
+	width:3.5%;
+    font-weight: bold;
+    text-align:center;
+		border:2px solid #000;
+
+}
+.tab3_2,.tab3_4,.tab3_6,.tab3_8,.tab3_10,.tab3_12,.tab3_14,.tab3_16,.tab3_18,.tab3_20,.tab3_22,.tab3_24,.tab3_26,.tab3_28,.tab3_30,.tab3_32,.tab3_34,.tab3_36,.tab3_38{
+	width:1%;
+}
+
+.tab3_40{
+	width:11%;
+	vertical-align:top;
+	
+}
+.tab3_42,.tab3_44{
+	border:2px solid #000;
+	width:12.5%;
+    font-weight: bold;
+    text-align:center;
+
+}
+.tab3_41{
+	width:6%;
+	vertical-align:top;
+	
+}
+.tab3_43{
+	width:1%;
+	vertical-align:top;
+	
+}
+ .tab3_45{
+	width:68%;
+	vertical-align:top;
+	
+}
+.table5{
+	width:100%;
+}
+      <!-----closed third btn----->
+	  
+tr,td{
+	border:0px solid #000;
+}
+	  
+.table4{
+	width:100%;
+	
+}
+.tab4_1{
+	width:5%;
+
+	vertical-align:top;
+	padding-top:4px;
+}
+
+.tab4_2{
+	width:50%;
+	
+	vertical-align:top;
+	padding-top:4px;
+}
+.tab4_3{
+	width:45%;
+
+	vertical-align:top;
+	padding-top:4px;
+}
+
+.FourthButtonCon1,.FourthButtonCon2{
+	
+	display:inline-block;
+}
+
+.FourthButtonCon3{
+	margin-left:12%;
+	
+}
+.FourthButtonCon4{
+	
+	text-align:right;
+	
+	width:100%;
+	
+}
+.FourthButtonCon5{
+	border-top:2px solid #C60;
+	
+}
+.FourthButtonCon14{
+     
+	 width:100%;
+	text-align:right;
+}
+.FourthButtonCon13{
+	border-bottom:2px solid #C60;
+	margin-bottom:3px;
+}
+.whole{
+	border:2px solid #EEE;
+	width:60%;
+	padding:2px;
+	display:none;
+	position:absolute;
+	
+	margin-left:5%;
+}
+.img1{
+	width:60%;
+}
+.FourthButtonCon6_1{
+	float:left;
+	width:10%;
+}
+.FourthButtonCon6_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+}
+.FourthButtonCon7,.FourthButtonCon8,.FourthButtonCon9,.FourthButtonCon10,.FourthButtonCon11,.FourthButtonCon12{
+	margin-left:10%;
+	margin-top:0px;
+	display:inline-block;
+}
+.FourthButtonCon6{
+	margin-top:-3px;
+}
+.FourthButtonCon5{
+	margin-top:3px;
+}
+.crossBM{
+	
+	width:2.3%;
+	display:inline-block;
+
+    z-index:1;
+	cursor:pointer;
+	
+	
+}
+.smallfont1{
+	font-size:16px;
+}
+.smallfont{
+	font-size:17px;
+}	
+.img2{
+	width:6%;
+}
+
+
+.table2{
+	width:70%;
+
+	
+}
+.tab2_1{
+	width:10%;
+
+	vertical-align:top;
+	padding-top:15px;
+}
+
+.tab2_2{
+	width:90%;
+	
+	vertical-align:top;
+	padding-top:15px;
+}
+
+
+
+
+.table4{
+	width:85%;
+	margin-left:5%;
+	
+}
+.tab4_1{
+	width:10%;
+
+	vertical-align:top;
+	padding-top:12px;
+}
+
+.tab4_2{
+	width:90%;
+	
+	vertical-align:top;
+	padding-top:12px;
+}
+
+
+
+
+.middle3 {
+	width:85%;
+	margin-left:15%;
+}
+
+
+.con_second_button2{
+	width:100%;
+
+}
+
+.FourthButtonCon3{
+	width:82%;
+	margin-left:8%;
+}
+.middle6 {
+	width:85%;
+	margin-left:15%;
+}
+
+
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+ /*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 1101px) and (max-width: 1300px) and (orientation:landscape)
+{
+		.buttons1{
+	 
+	height: 65px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 95px;
+    background: white;
+}
+
+	.tickA{
+		position:absolute;
+		color:#090;
+       font-size:25px;
+   
+	}
+	.handARot{
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 45px;
+   
+	}
+	
+	.tick3,.tick4,.tick7,.tick8{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick31,.tick32,.tick33{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick41,.tick42,.tick43,.tick44{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick51,.tick52,.tick53,.tick54,.tick55{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick61,.tick62,.tick63,.tick64,.tick65,.tick66{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.hand51,.hand52,.hand53,.hand54,.hand55{
+		
+		 margin-top: 54px;
+    margin-left: -82px;
+	}
+	.hand61,.hand62,.hand63,.hand64,.hand65,.hand66{
+		
+		 margin-top: 54px;
+    margin-left: -82px;
+	}
+	
+	
+	.SubBtn{
+		    height: 49px;
+			float: left;
+			font-size: 20px;
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    margin-left: 1%;
+	}
+
+	
+				
+.FirstButtonCon2,.FirstButtonCon3,.FirstButtonCon4,.FirstButtonCon5,.FirstButtonCon7,.FirstButtonCon8{
+	margin-top:8px;
+}
+.FirstButtonCon6{
+	margin-left:6%;
+}
+
+.table1{
+	width:85%;
+}
+						
+.tab1_1{
+	width:5%;
+	
+}
+.tab1_2{
+	width:20%;
+	
+}
+.tab1_3{
+	width:15%;
+	
+}
+								
+.tab1_4{
+	width:7%;
+	text-align:center;
+	
+}
+	.tab1_5{
+	width:8%;
+	
+	
+	
+}
+				
+	.tab1_6{
+	width:5%;
+	
+	
+}
+						
+.tab1_7{
+	width:20%;
+	
+	
+}
+.tab1_8{
+	width:20%;
+	
+	
+}
+.FirstButtonCon6_1,.FirstButtonCon6_2,.FirstButtonCon6_3,.FirstButtonCon6_4,.FirstButtonCon6_5,.FirstButtonCon6_6,.FirstButtonCon6_7,.FirstButtonCon6_8,.FirstButtonCon6_9,.FirstButtonCon6_10,.FirstButtonCon6_11,.FirstButtonCon6_12,.FirstButtonCon6_13,.FirstButtonCon6_14,.FirstButtonCon6_15,.FirstButtonCon6_16{
+	margin-top:10px;
+}
+.FirstButtonCon6_7{
+	height:67px;
+	border-left: 2px solid #000;
+}
+
+
+
+
+
+
+         <!---closed frist btn-->
+tr,td{
+	border: 0px solid #000;
+}
+		 
+
+.SecondButtonCon3,.SecondButtonCon4,.SecondButtonCon5,.SecondButtonCon6,.SecondButtonCon7{
+	margin-top:10px;
+	display:inline-block;
+}
+.SecondButtonCon2 {
+	border-top:2px solid #060;
+
+}
+
+.whole1{
+	border:2px solid #060;
+	display:inline-block;
+	height:475px;
+	width:93%;
+	
+
+	
+}
+
+.SecondButtonCon3_1{
+	float:left;
+	width:10%;
+}
+.SecondButtonCon3_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon3_3{
+	float:left;
+	width:90%;
+	margin-left:10%;
+	display:inline-block;
+	
+}
+
+.SecondButtonCon4_1{
+	float:left;
+	width:10%;
+}
+.SecondButtonCon4_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon4_3{
+	float:left;
+	width:90%;
+	margin-left:10%;
+	display:inline-block;
+	
+}
+.SecondButtonCon5{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon5_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon5_2{
+	float:left;
+	width:85%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon6{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon6_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon6_2{
+	float:left;
+	width:85%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon7{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon7_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon7_2{
+	float:left;
+	width:85%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon1{
+	
+	width:100%;
+	
+	
+}
+.SecondButtonCon3,.SecondButtonCon4{
+	margin-left:2%;
+}
+
+.table2{
+	width:90%;
+}
+
+.tab2_1{
+	width:5%;
+	vertical-align:top;
+	padding-top:15px;
+}
+.tab2_2{
+	width:45%;
+	vertical-align:top;
+	padding-top:15px;
+}
+.tab2_3{
+	width:50%;
+	vertical-align:top;
+	padding-top:15px;
+}
+
+.SecondButtonCon8{
+	width:100%;
+	
+	
+}
+.SecondButtonCon9{
+	margin-left:12%;
+	padding-bottom:10px;
+	
+}
+.SecondButtonCon8{
+
+	display:inline-block;
+	
+}
+.SecondButtonCon9_1,SecondButtonCon9_3,.SecondButtonCon9_4,.SecondButtonCon9_5,.SecondButtonCon9_6,.SecondButtonCon9_7,.SecondButtonCon9_8
+{
+	width:100%;
+}
+
+    <!----closed second btn--->
+	
+tr,td{
+	border:0px solid #000;
+}
+.ThirdButtonCon2,.ThirdButtonCon3,.ThirdButtonCon4,.ThirdButtonCon5{
+	display:inline-block;
+	margin-top:10px;
+
+	width:100%;
+}
+.ThirdButtonCon7{
+	display:inline-block;
+	margin-top:10px;
+	
+	margin-left:7%;
+}
+.ThirdButtonCon8{
+	display:inline-block;
+	margin-top:10px;
+
+	margin-left:5%;
+}
+.ThirdButtonCon6{
+	display:inline-block;
+	
+	width:100%;
+}
+	
+.ThirdButtonCon4_1{
+	float:left;
+	width:15%;
+}
+	
+.ThirdButtonCon4_2{
+	width:85%;
+	float:left;
+	display:inline-block;
+}
+
+.ThirdButtonCon5_1{
+	float:left;
+	width:15%;
+}
+	
+.ThirdButtonCon5_2{
+	width:85%;
+	float:left;
+	display:inline-block;
+}	
+.gap1{
+	margin-left:1%;
+}
+
+.table3{
+	width:100%;
+	
+}
+
+
+.tab3_1,.tab3_3,.tab3_5,.tab3_7,.tab3_9,.tab3_11,.tab3_13,.tab3_15,.tab3_17,.tab3_19,.tab3_21,.tab3_23,.tab3_25,.tab3_27,.tab3_29,.tab3_31,.tab3_33,.tab3_35,.tab3_37,.tab3_39{
+	width:3.5%;
+    font-weight: bold;
+    text-align:center;
+		border:2px solid #000;
+
+}
+.tab3_2,.tab3_4,.tab3_6,.tab3_8,.tab3_10,.tab3_12,.tab3_14,.tab3_16,.tab3_18,.tab3_20,.tab3_22,.tab3_24,.tab3_26,.tab3_28,.tab3_30,.tab3_32,.tab3_34,.tab3_36,.tab3_38{
+	width:1%;
+}
+
+.tab3_40{
+	width:11%;
+	vertical-align:top;
+	
+}
+.tab3_42,.tab3_44{
+	border:2px solid #000;
+	width:11.5%;
+    font-weight: bold;
+    text-align:center;
+
+}
+.tab3_41{
+	width:6%;
+	vertical-align:top;
+	
+}
+.tab3_43{
+	width:1%;
+	vertical-align:top;
+	
+}
+ .tab3_45{
+	width:70%;
+	vertical-align:top;
+	
+}
+.table5{
+	width:100%;
+}
+      <!-----closed third btn----->
+	  
+tr,td{
+	border:0px solid #000;
+}
+	  
+.table4{
+	width:100%;
+	
+}
+.tab4_1{
+	width:5%;
+
+	vertical-align:top;
+	padding-top:1px;
+}
+
+.tab4_2{
+	width:50%;
+	
+	vertical-align:top;
+	padding-top:1px;
+}
+.tab4_3{
+	width:45%;
+
+	vertical-align:top;
+	padding-top:1px;
+}
+
+.FourthButtonCon1,.FourthButtonCon2{
+	
+	display:inline-block;
+}
+
+.FourthButtonCon3{
+	margin-left:12%;
+	
+}
+.FourthButtonCon4{
+	
+	text-align:right;
+	
+	width:100%;
+	
+}
+.FourthButtonCon5{
+	border-top:2px solid #C60;
+	
+}
+.FourthButtonCon14{
+     
+	 width:100%;
+	text-align:right;
+}
+.FourthButtonCon13{
+	border-bottom:2px solid #C60;
+	margin-bottom:3px;
+}
+.whole{
+	border:2px solid #EEE;
+	width:60%;
+	padding:2px;
+	display:none;
+	position:absolute;
+	
+	margin-left:5%;
+}
+.img1{
+	width:60%;
+}
+.FourthButtonCon6_1{
+	float:left;
+	width:10%;
+}
+.FourthButtonCon6_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+}
+.FourthButtonCon7,.FourthButtonCon8,.FourthButtonCon9,.FourthButtonCon10,.FourthButtonCon11,.FourthButtonCon12{
+	margin-left:10%;
+	margin-top:0px;
+	display:inline-block;
+}
+.FourthButtonCon6{
+	margin-top:-10px;
+}
+.FourthButtonCon5{
+	margin-top:3px;
+}
+.crossBM{
+	
+	width:2.3%;
+	display:inline-block;
+
+    z-index:1;
+	cursor:pointer;
+	
+	
+}
+.smallfont1{
+	font-size:17px;
+}
+.smallfont{
+	font-size:17px;
+}	
+.img2{
+	width:6%;
+}
+
+
+.table2{
+	width:70%;
+
+	
+}
+.tab2_1{
+	width:10%;
+
+	vertical-align:top;
+	padding-top:25px;
+}
+
+.tab2_2{
+	width:90%;
+	
+	vertical-align:top;
+	padding-top:25px;
+}
+
+
+
+
+.table4{
+	width:85%;
+	margin-left:5%;
+	
+}
+.tab4_1{
+	width:10%;
+
+	vertical-align:top;
+	padding-top:25px;
+}
+
+.tab4_2{
+	width:90%;
+	
+	vertical-align:top;
+	padding-top:25px;
+}
+
+
+
+
+.middle3 {
+	width:85%;
+	margin-left:15%;
+}
+
+
+.con_second_button2{
+	width:100%;
+
+}
+
+.FourthButtonCon3{
+	width:82%;
+	margin-left:8%;
+}
+.middle6 {
+	width:85%;
+	margin-left:15%;
+}
+
+
+}
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+ @media (min-width: 1301px) and (max-width: 1500px) and (orientation:landscape)
+{
+	
+	.buttons1{
+	 
+	height: 62px;
+    background: white;
+	    position: absolute;
+    width: 75%;
+}
+.buttons2{
+	 
+	height: 95px;
+    background: white;
+}
+
+
+	.tickA{
+		position:absolute;
+		color:#090;
+       font-size:25px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 53px;
+		 margin-top: 10px;
+   
+	}
+		.tick3,.tick4{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick7,.tick8{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	
+	.tick31,.tick32,.tick33,.tick34{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick31,.tick32,.tick33{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick41,.tick42,.tick43,.tick44{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick51,.tick52,.tick53,.tick54,.tick55{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick61,.tick62,.tick63,.tick64,.tick65,.tick66{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.hand51,.hand52,.hand53,.hand54,.hand55{
+		
+		    margin-top: 56px;
+   			margin-left: -115px;
+	}
+	.hand61,.hand62,.hand63,.hand64,.hand65,.hand66{
+		
+		    margin-top: 56px;
+    		margin-left: -95px;
+	}
+	
+
+	.SubBtn{
+		    height: 49px;
+    float: left;
+    font-size: 18.5px;
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    margin-left: 1%;
+	}
+
+.ContentFirstButton{
+    line-height: 120%;
+}
+	.smallfont{
+	font-size:18px;
+}
+.smallfont{
+	font-size:20px;
+}
+						
+.FirstButtonCon2,.FirstButtonCon3,.FirstButtonCon4,.FirstButtonCon5,.FirstButtonCon7,.FirstButtonCon8{
+	margin-top:12px;
+}
+.FirstButtonCon6{
+	margin-left:6%;
+}
+
+.table1{
+	width:85%;
+}
+						
+.tab1_1{
+	width:5%;
+	
+}
+.tab1_2{
+	width:15%;
+	
+}
+.tab1_3{
+	width:15%;
+	
+}
+								
+.tab1_4{
+	width:7%;
+	text-align:center;
+	
+}
+	.tab1_5{
+	width:8%;
+	
+	
+	
+}
+				
+	.tab1_6{
+	width:5%;
+	
+	
+}
+						
+.tab1_7{
+	width:15%;
+	
+	
+}
+.tab1_8{
+	width:30%;
+	
+	
+}
+.FirstButtonCon6_1,.FirstButtonCon6_2,.FirstButtonCon6_3,.FirstButtonCon6_4,.FirstButtonCon6_5,.FirstButtonCon6_6,.FirstButtonCon6_7,.FirstButtonCon6_8,.FirstButtonCon6_9,.FirstButtonCon6_10,.FirstButtonCon6_11,.FirstButtonCon6_12,.FirstButtonCon6_13,.FirstButtonCon6_14,.FirstButtonCon6_15,.FirstButtonCon6_16{
+	margin-top:4px;
+}
+.FirstButtonCon6_7{
+	height:60px;
+	border-left: 2px solid #000;
+}
+
+         <!---closed frist btn-->
+tr,td{
+	border: 0px solid #000;
+}
+		 
+
+.SecondButtonCon3,.SecondButtonCon4,.SecondButtonCon5,.SecondButtonCon6,.SecondButtonCon7{
+	margin-top:10px;
+	display:inline-block;
+}
+
+.SecondButtonCon3_1{
+	float:left;
+	width:10%;
+}
+.SecondButtonCon3_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon3_3{
+	float:left;
+	width:90%;
+	margin-left:10%;
+	display:inline-block;
+	
+}
+
+.SecondButtonCon4_1{
+	float:left;
+	width:10%;
+}
+.SecondButtonCon4_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon4_3{
+	float:left;
+	width:90%;
+	margin-left:10%;
+	display:inline-block;
+	
+}
+.SecondButtonCon5{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon5_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon5_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon6{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon6_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon6_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon7{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon7_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon7_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon1{
+	width:100%;
+	
+}
+.SecondButtonCon3,.SecondButtonCon4{
+	margin-left:2%;
+}
+
+.table2{
+	width:90%;
+}
+
+.tab2_1{
+	width:5%;
+	vertical-align:top;
+	padding-top:25px;
+}
+.tab2_2{
+	width:45%;
+	vertical-align:top;
+	padding-top:25px;
+}
+.tab2_3{
+	width:50%;
+	vertical-align:top;
+	padding-top:25px;
+}
+
+.SecondButtonCon8{
+	width:100%;
+	
+	
+}
+.SecondButtonCon9{
+	margin-left:12%;
+	padding-bottom:10px;
+	
+}
+.SecondButtonCon8{
+	
+	display:inline-block;
+	
+}
+.SecondButtonCon9_1,SecondButtonCon9_3,.SecondButtonCon9_4,.SecondButtonCon9_5,.SecondButtonCon9_6,.SecondButtonCon9_7,.SecondButtonCon9_8
+{
+	width:100%;
+}
+
+
+
+
+    <!----closed second btn--->
+	
+tr,td{
+	border:0px solid #000;
+}
+.ThirdButtonCon2,.ThirdButtonCon3,.ThirdButtonCon4,.ThirdButtonCon5{
+	display:inline-block;
+	margin-top:10px;
+	width:100%;
+}
+.ThirdButtonCon7{
+	display:inline-block;
+	margin-top:10px;
+	
+	margin-left:5%;
+}
+.ThirdButtonCon8{
+	display:inline-block;
+	margin-top:10px;
+	
+	margin-left:5%;
+}
+.ThirdButtonCon6{
+	display:inline-block;
+	
+	width:100%;
+}
+	
+.ThirdButtonCon4_1{
+	float:left;
+	width:15%;
+}
+	
+.ThirdButtonCon4_2{
+	width:85%;
+	float:left;
+	display:inline-block;
+}
+
+.ThirdButtonCon5_1{
+	float:left;
+	width:15%;
+}
+	
+.ThirdButtonCon5_2{
+	width:85%;
+	float:left;
+	display:inline-block;
+}	
+.gap1{
+	margin-left:1%;
+}
+
+.table3{
+	width:100%;
+	
+}
+
+
+.tab3_1,.tab3_3,.tab3_5,.tab3_7,.tab3_9,.tab3_11,.tab3_13,.tab3_15,.tab3_17,.tab3_19,.tab3_21,.tab3_23,.tab3_25,.tab3_27,.tab3_29,.tab3_31,.tab3_33,.tab3_35,.tab3_37,.tab3_39{
+	width:3.5%;
+    font-weight: bold;
+    text-align:center;
+		border:2px solid #000;
+
+}
+.tab3_2,.tab3_4,.tab3_6,.tab3_8,.tab3_10,.tab3_12,.tab3_14,.tab3_16,.tab3_18,.tab3_20,.tab3_22,.tab3_24,.tab3_26,.tab3_28,.tab3_30,.tab3_32,.tab3_34,.tab3_36,.tab3_38{
+	width:1%;
+}
+
+.tab3_40{
+	width:11%;
+	vertical-align:top;
+	
+}
+.tab3_42,.tab3_44{
+	border:2px solid #000;
+	width:5.5%;
+    font-weight: bold;
+    text-align:center;
+
+}
+.tab3_41{
+	width:6%;
+	vertical-align:top;
+	
+}
+.tab3_43{
+	width:1%;
+	vertical-align:top;
+	
+}
+ .tab3_45{
+	width:82%;
+	vertical-align:top;
+	
+}
+.table5{
+	width:100%;
+}
+      <!-----closed third btn----->
+	  
+tr,td{
+	border:0px solid #000;
+}
+	  
+.table4{
+	width:100%;
+	
+}
+.tab4_1{
+	width:5%;
+
+	vertical-align:top;
+	padding-top:6px;
+}
+
+.tab4_2{
+	width:45%;
+	
+	vertical-align:top;
+	padding-top:6px;
+}
+.tab4_3{
+	width:50%;
+
+	vertical-align:top;
+	padding-top:6px;
+}
+
+.FourthButtonCon1{
+	
+	display:inline-block;
+}
+
+.FourthButtonCon3{
+	margin-left:12%;
+	
+}
+.FourthButtonCon4{
+	
+	text-align:right;
+	
+	width:100%;
+	
+}
+.FourthButtonCon5{
+	border-top:2px solid #C60;
+	
+}
+.FourthButtonCon14{
+     
+	 width:100%;
+	text-align:right;
+}
+.FourthButtonCon13{
+	border-bottom:2px solid #C60;
+	margin-bottom:3px;
+}
+.whole{
+	border:2px solid #EEE;
+	width:60%;
+	
+	display:none;
+	position:absolute;
+	margin-left:5%;
+
+	
+}
+.img1{
+	width:60%;
+}
+.FourthButtonCon6_1{
+	float:left;
+	width:10%;
+}
+.FourthButtonCon6_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+}
+.FourthButtonCon7,.FourthButtonCon8,.FourthButtonCon9,.FourthButtonCon10,.FourthButtonCon11,.FourthButtonCon12{
+	margin-left:10%;
+	width:90%;
+	display:inline-block;
+}
+.FourthButtonCon6{
+	margin-top:-5px;
+	width:90%;
+	display:inline-block;
+}
+.FourthButtonCon5{
+	margin-top:3px;
+}
+.crossBM{
+	
+	width:2.3%;
+	display:inline-block;
+
+    z-index:1;
+	cursor:pointer;
+	
+	
+}
+.smallfont1{
+	font-size:16px;
+}
+.smallfont{
+	font-size:18px;
+}	
+.img2{
+	width:5%;
+}
+
+
+
+.table2{
+	width:70%;
+
+	
+}
+.tab2_1{
+	width:10%;
+
+	vertical-align:top;
+	padding-top:20px;
+}
+
+.tab2_2{
+	width:90%;
+	
+	vertical-align:top;
+	padding-top:20px;
+}
+
+
+
+
+.table4{
+	width:85%;
+	margin-left:5%;
+	
+}
+.tab4_1{
+	width:10%;
+
+	vertical-align:top;
+	padding-top:15px;
+}
+
+.tab4_2{
+	width:90%;
+	
+	vertical-align:top;
+	padding-top:15px;
+}
+
+
+
+
+.middle3 {
+	width:85%;
+	margin-left:15%;
+}
+
+
+.con_second_button2{
+	width:100%;
+
+}
+
+.FourthButtonCon3{
+	width:92%;
+	margin-left:8%;
+}
+.middle6 {
+	width:83%;
+	margin-left:17%;
+}
+
+
+}
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+ @media (min-width: 1501px) and (max-width: 1800px) and (orientation:landscape)
+{
+		.buttons1{
+	 
+	height: 85px;
+    background: white;
+	
+}
+.buttons2{
+	 
+	height: 125px;
+    background: white;
+}
+
+
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:30px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size:60px;
+		    margin-top:10px;
+   
+	}
+	
+	.tick3,.tick4,.tick7,.tick8{
+		
+		    margin-left: -18px;
+   		 	margin-top: -10px;
+	}
+	.tick31,.tick32,.tick33{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	.tick41,.tick42,.tick43,.tick44{
+		
+		    margin-left: -18px;
+   		 	margin-top: -10px;
+	}
+	
+	.tick51,.tick52,.tick53,.tick54,.tick55{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	.tick61,.tick62,.tick63,.tick64,.tick65,.tick66{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	
+	.hand51,.hand52,.hand53,.hand54,.hand55{
+		
+		    margin-top: 73px;
+   			margin-left: -125px;
+	}
+	.hand61,.hand62,.hand63,.hand64,.hand65,.hand66{
+		
+		
+		    margin-top: 73px;
+   			margin-left: -130px;
+			
+			}
+	
+
+	.SubBtn{
+		
+		height: 70px;
+		float: left;
+		font-size: 28px;
+		
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    		margin-left: 1%;
+	}
+
+	
+
+			
+.FirstButtonCon2,.FirstButtonCon3,.FirstButtonCon4,.FirstButtonCon5,.FirstButtonCon7,.FirstButtonCon8{
+	margin-top:5px;
+}
+.FirstButtonCon6{
+	margin-left:6%;
+}
+.FirstButtonCon8{
+	margin-bottom:0px;
+	
+}
+.table1{
+	width:100%;
+}
+						
+.tab1_1{
+	width:5%;
+	
+}
+.tab1_2{
+	width:15%;
+	
+}
+.tab1_3{
+	width:15%;
+	
+}
+								
+.tab1_4{
+	width:7%;
+	text-align:center;
+	
+}
+	.tab1_5{
+	width:8%;
+	
+	
+	
+}
+				
+	.tab1_6{
+	width:5%;
+	
+	
+}
+						
+.tab1_7{
+	width:15%;
+	
+	
+}
+.tab1_8{
+	width:30%;
+	
+	
+}
+.FirstButtonCon6_1,.FirstButtonCon6_2,.FirstButtonCon6_3,.FirstButtonCon6_4,.FirstButtonCon6_5,.FirstButtonCon6_6,.FirstButtonCon6_7,.FirstButtonCon6_8,.FirstButtonCon6_9,.FirstButtonCon6_10,.FirstButtonCon6_11,.FirstButtonCon6_12,.FirstButtonCon6_13,.FirstButtonCon6_14,.FirstButtonCon6_15,.FirstButtonCon6_16{
+	margin-top:5px;
+}
+.FirstButtonCon6_7{
+	height:100px;
+	border-left: 2px solid #000;
+}
+
+         <!---closed frist btn-->
+tr,td{
+	border: 0px solid #000;
+}
+		 
+
+.SecondButtonCon3,.SecondButtonCon4,.SecondButtonCon5,.SecondButtonCon6,.SecondButtonCon7{
+	margin-top:10px;
+	display:inline-block;
+}
+
+.SecondButtonCon3_1{
+	float:left;
+	width:10%;
+}
+.SecondButtonCon3_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon3_3{
+	float:left;
+	width:90%;
+	margin-left:10%;
+	display:inline-block;
+	
+}
+
+.SecondButtonCon4_1{
+	float:left;
+	width:10%;
+}
+.SecondButtonCon4_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon4_3{
+	float:left;
+	width:90%;
+	margin-left:10%;
+	display:inline-block;
+	
+}
+.SecondButtonCon5{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon5_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon5_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon6{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon6_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon6_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon7{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon7_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon7_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon1{
+	width:100%;
+	
+}
+.SecondButtonCon3,.SecondButtonCon4{
+	margin-left:2%;
+}
+
+.table2{
+	width:90%;
+}
+
+.tab2_1{
+	width:5%;
+	vertical-align:top;
+	padding-top:25px;
+}
+.tab2_2{
+	width:45%;
+	vertical-align:top;
+	padding-top:25px;
+}
+.tab2_3{
+	width:50%;
+	vertical-align:top;
+	padding-top:25px;
+}
+
+.SecondButtonCon8{
+	width:100%;
+	
+	
+}
+.SecondButtonCon9{
+	margin-left:12%;
+	padding-bottom:10px;
+	
+}
+.SecondButtonCon8{
+	
+	display:inline-block;
+	
+}
+.SecondButtonCon9_1,SecondButtonCon9_3,.SecondButtonCon9_4,.SecondButtonCon9_5,.SecondButtonCon9_6,.SecondButtonCon9_7,.SecondButtonCon9_8
+{
+	width:100%;
+}
+
+
+
+
+    <!----closed second btn--->
+	
+tr,td{
+	border:0px solid #000;
+}
+.ThirdButtonCon2,.ThirdButtonCon3,.ThirdButtonCon4,.ThirdButtonCon5{
+	display:inline-block;
+	margin-top:25px;
+	width:100%;
+}
+.ThirdButtonCon7{
+	display:inline-block;
+	margin-top:25px;
+	
+	margin-left:6%;
+}
+.ThirdButtonCon8{
+	display:inline-block;
+	margin-top:25px;
+	margin-bottom:20px;
+	margin-left:5%;
+}
+.ThirdButtonCon6{
+	display:inline-block;
+	
+	width:100%;
+}
+	
+.ThirdButtonCon4_1{
+	float:left;
+	width:15%;
+}
+	
+.ThirdButtonCon4_2{
+	width:85%;
+	float:left;
+	display:inline-block;
+}
+
+.ThirdButtonCon5_1{
+	float:left;
+	width:15%;
+}
+	
+.ThirdButtonCon5_2{
+	width:85%;
+	float:left;
+	display:inline-block;
+}	
+.gap1{
+	margin-left:1%;
+}
+
+.table3{
+	width:100%;
+	
+}
+
+
+.tab3_1,.tab3_3,.tab3_5,.tab3_7,.tab3_9,.tab3_11,.tab3_13,.tab3_15,.tab3_17,.tab3_19,.tab3_21,.tab3_23,.tab3_25,.tab3_27,.tab3_29,.tab3_31,.tab3_33,.tab3_35,.tab3_37,.tab3_39{
+	width:3.5%;
+    font-weight: bold;
+    text-align:center;
+		border:2px solid #000;
+
+}
+.tab3_2,.tab3_4,.tab3_6,.tab3_8,.tab3_10,.tab3_12,.tab3_14,.tab3_16,.tab3_18,.tab3_20,.tab3_22,.tab3_24,.tab3_26,.tab3_28,.tab3_30,.tab3_32,.tab3_34,.tab3_36,.tab3_38{
+	width:1%;
+}
+
+.tab3_40{
+	width:11%;
+	vertical-align:top;
+	
+}
+.tab3_42,.tab3_44{
+	border:2px solid #000;
+	width:7.5%;
+    font-weight: bold;
+    text-align:center;
+
+}
+.tab3_41{
+	width:6%;
+	vertical-align:top;
+	
+}
+.tab3_43{
+	width:1%;
+	vertical-align:top;
+	
+}
+ .tab3_45{
+	width:78%;
+	vertical-align:top;
+	
+}
+.table5{
+	width:100%;
+}
+      <!-----closed third btn----->
+	  
+tr,td{
+	border:0px solid #000;
+}
+	  
+.table4{
+	width:100%;
+	
+}
+.tab4_1{
+	width:5%;
+
+	vertical-align:top;
+	padding-top:6px;
+}
+
+.tab4_2{
+	width:45%;
+	
+	vertical-align:top;
+	padding-top:6px;
+}
+.tab4_3{
+	width:50%;
+
+	vertical-align:top;
+	padding-top:6px;
+}
+
+.FourthButtonCon1{
+	
+	display:inline-block;
+}
+
+.FourthButtonCon3{
+	margin-left:12%;
+	
+	
+}
+.FourthButtonCon4{
+	
+	text-align:right;
+	
+	width:100%;
+	margin-top:10px;
+	
+}
+.FourthButtonCon5{
+	border-top:2px solid #C60;
+	
+}
+.FourthButtonCon14{
+     
+	 width:100%;
+	text-align:right;
+}
+.FourthButtonCon13{
+	border-bottom:2px solid #C60;
+	margin-bottom:3px;
+}
+.whole{
+	border:2px solid #EEE;
+	width:60%;
+	
+	display:none;
+	position:absolute;
+	margin-left:5%;
+	line-height:112%;
+
+	
+}
+.img1{
+	width:60%;
+}
+.FourthButtonCon6_1{
+	float:left;
+	width:10%;
+}
+.FourthButtonCon6_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+}
+.FourthButtonCon7,.FourthButtonCon8,.FourthButtonCon9,.FourthButtonCon10,.FourthButtonCon11,.FourthButtonCon12{
+	margin-left:10%;
+	width:90%;
+	display:inline-block;
+}
+.FourthButtonCon6{
+	margin-top:-5px;
+	width:90%;
+	display:inline-block;
+}
+.FourthButtonCon5{
+	margin-top:3px;
+}
+.crossBM{
+	
+	width:2.3%;
+	display:inline-block;
+
+    z-index:1;
+	cursor:pointer;
+	
+	
+}
+.smallfont1{
+	font-size:25px;
+}
+.smallfont{
+	font-size:27px;
+}	
+.img2{
+	width:5%;
+}
+
+
+
+.table2{
+	width:70%;
+
+	
+}
+.tab2_1{
+	width:10%;
+
+	vertical-align:top;
+	padding-top:20px;
+}
+
+.tab2_2{
+	width:90%;
+	
+	vertical-align:top;
+	padding-top:20px;
+}
+
+
+
+
+.table4{
+	width:85%;
+	margin-left:5%;
+	
+}
+.tab4_1{
+	width:10%;
+
+	vertical-align:top;
+	padding-top:15px;
+}
+
+.tab4_2{
+	width:90%;
+	
+	vertical-align:top;
+	padding-top:15px;
+}
+
+
+
+
+.middle3 {
+	width:85%;
+	margin-left:15%;
+}
+
+
+.con_second_button2{
+	width:100%;
+
+}
+
+.FourthButtonCon3{
+	width:82%;
+	margin-left:8%;
+}
+.middle6 {
+	width:85%;
+	margin-left:15%;
+}
+
+}
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+  @media (min-width: 1801px) and (max-width: 2000px) and (orientation:landscape)
+{
+	
+	.buttons1{
+	 
+	height: 90px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 140px;
+    background: white;
+}
+
+
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:35px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size:65px;
+		    margin-top:15px;
+   
+	}
+	
+	.tick3,.tick4,.tick7,.tick8{
+		
+		    margin-left: -22px;
+   		 	margin-top: -15px;
+	}
+	.tick31,.tick32,.tick33{
+		
+		    margin-left: -22px;
+    		margin-top: -15px;
+	}
+	.tick41,.tick42,.tick43,.tick44{
+		
+		    margin-left: -22px;
+   		 	margin-top: -15px;
+	}
+	
+	.tick51,.tick52,.tick53,.tick54,.tick55{
+		
+		    margin-left: -22px;
+    		margin-top: -15px;
+	}
+	.tick61,.tick62,.tick63,.tick64,.tick65,.tick66{
+		
+		    margin-left: -22px;
+    		margin-top: -15px;
+	}
+	
+	.hand51,.hand52,.hand53,.hand54,.hand55{
+		
+		       margin-top: 81px;
+    margin-left: -146px;
+	}
+	.hand61,.hand62,.hand63,.hand64,.hand65,.hand66{
+		
+		   
+		       margin-top: 81px;
+    margin-left: -132px;
+	
+	}
+	
+
+	.SubBtn{
+		
+		height: 70px;
+		float: left;
+		font-size:30px;
+		
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left:12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    		margin-left: 1%;
+	}
+
+
+			
+.FirstButtonCon2,.FirstButtonCon3,.FirstButtonCon4,.FirstButtonCon5,.FirstButtonCon7,.FirstButtonCon8{
+	margin-top:12px;
+	line-height:115%;
+}
+.FirstButtonCon6{
+	margin-left:6%;
+}
+.FirstButtonCon8{
+	margin-bottom:0px;
+	
+}
+.table1{
+	width:85%;
+}
+						
+.tab1_1{
+	width:5%;
+	
+}
+.tab1_2{
+	width:15%;
+	
+}
+.tab1_3{
+	width:15%;
+	
+}
+								
+.tab1_4{
+	width:7%;
+	text-align:center;
+	
+}
+	.tab1_5{
+	width:8%;
+	
+	
+	
+}
+				
+	.tab1_6{
+	width:5%;
+	
+	
+}
+						
+.tab1_7{
+	width:15%;
+	
+	
+}
+.tab1_8{
+	width:30%;
+	
+	
+}
+.FirstButtonCon6_1,.FirstButtonCon6_2,.FirstButtonCon6_3,.FirstButtonCon6_4,.FirstButtonCon6_5,.FirstButtonCon6_6,.FirstButtonCon6_7,.FirstButtonCon6_8,.FirstButtonCon6_9,.FirstButtonCon6_10,.FirstButtonCon6_11,.FirstButtonCon6_12,.FirstButtonCon6_13,.FirstButtonCon6_14,.FirstButtonCon6_15,.FirstButtonCon6_16{
+	margin-top:3px;
+	line-height:115%;
+}
+.FirstButtonCon6_7{
+	height:100px;
+	border-left: 2px solid #000;
+}
+
+         <!---closed frist btn-->
+tr,td{
+	border: 0px solid #000;
+}
+		 
+
+.SecondButtonCon3,.SecondButtonCon4,.SecondButtonCon5,.SecondButtonCon6,.SecondButtonCon7{
+	margin-top:10px;
+	display:inline-block;
+}
+
+.SecondButtonCon3_1{
+	float:left;
+	width:10%;
+}
+.SecondButtonCon3_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon3_3{
+	float:left;
+	width:90%;
+	margin-left:10%;
+	display:inline-block;
+	
+}
+
+.SecondButtonCon4_1{
+	float:left;
+	width:10%;
+}
+.SecondButtonCon4_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon4_3{
+	float:left;
+	width:90%;
+	margin-left:10%;
+	display:inline-block;
+	
+}
+.SecondButtonCon5{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon5_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon5_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon6{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon6_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon6_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon7{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon7_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon7_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon1{
+	width:100%;
+	
+}
+.SecondButtonCon3,.SecondButtonCon4{
+	margin-left:2%;
+}
+
+.table2{
+	width:90%;
+}
+
+.tab2_1{
+	width:5%;
+	vertical-align:top;
+	padding-top:25px;
+}
+.tab2_2{
+	width:45%;
+	vertical-align:top;
+	padding-top:25px;
+}
+.tab2_3{
+	width:50%;
+	vertical-align:top;
+	padding-top:25px;
+}
+
+.SecondButtonCon8{
+	width:100%;
+	
+	
+}
+.SecondButtonCon9{
+	margin-left:12%;
+	padding-bottom:10px;
+	
+}
+.SecondButtonCon8{
+	
+	display:inline-block;
+	
+}
+.SecondButtonCon9_1,SecondButtonCon9_3,.SecondButtonCon9_4,.SecondButtonCon9_5,.SecondButtonCon9_6,.SecondButtonCon9_7,.SecondButtonCon9_8
+{
+	width:100%;
+}
+
+
+
+
+    <!----closed second btn--->
+	
+tr,td{
+	border:0px solid #000;
+}
+.ThirdButtonCon2,.ThirdButtonCon3,.ThirdButtonCon4,.ThirdButtonCon5{
+	display:inline-block;
+	margin-top:15px;
+	width:100%;
+}
+.ThirdButtonCon7{
+	display:inline-block;
+	margin-top:15px;
+	
+	margin-left:7%;
+}
+.ThirdButtonCon8{
+	display:inline-block;
+	margin-top:15px;
+	margin-bottom:20px;
+	margin-left:5%;
+}
+.ThirdButtonCon6{
+	display:inline-block;
+	
+	width:100%;
+}
+	
+.ThirdButtonCon4_1{
+	float:left;
+	width:15%;
+}
+	
+.ThirdButtonCon4_2{
+	width:85%;
+	float:left;
+	display:inline-block;
+}
+
+.ThirdButtonCon5_1{
+	float:left;
+	width:15%;
+}
+	
+.ThirdButtonCon5_2{
+	width:85%;
+	float:left;
+	display:inline-block;
+}	
+.gap1{
+	margin-left:1%;
+}
+
+.table3{
+	width:100%;
+	
+}
+
+
+.tab3_1,.tab3_3,.tab3_5,.tab3_7,.tab3_9,.tab3_11,.tab3_13,.tab3_15,.tab3_17,.tab3_19,.tab3_21,.tab3_23,.tab3_25,.tab3_27,.tab3_29,.tab3_31,.tab3_33,.tab3_35,.tab3_37,.tab3_39{
+	width:3.5%;
+    font-weight: bold;
+    text-align:center;
+		border:2px solid #000;
+
+}
+.tab3_2,.tab3_4,.tab3_6,.tab3_8,.tab3_10,.tab3_12,.tab3_14,.tab3_16,.tab3_18,.tab3_20,.tab3_22,.tab3_24,.tab3_26,.tab3_28,.tab3_30,.tab3_32,.tab3_34,.tab3_36,.tab3_38{
+	width:1%;
+}
+
+.tab3_40{
+	width:11%;
+	vertical-align:top;
+	
+}
+.tab3_42,.tab3_44{
+	border:2px solid #000;
+	width:8.5%;
+    font-weight: bold;
+    text-align:center;
+
+}
+.tab3_41{
+	width:6%;
+	vertical-align:top;
+	
+}
+.tab3_43{
+	width:1%;
+	vertical-align:top;
+	
+}
+ .tab3_45{
+	width:76%;
+	vertical-align:top;
+	
+}
+.table5{
+	width:100%;
+}
+      <!-----closed third btn----->
+	  
+tr,td{
+	border:0px solid #000;
+}
+	  
+.table4{
+	width:100%;
+	
+}
+.tab4_1{
+	width:5%;
+
+	vertical-align:top;
+	padding-top:6px;
+}
+
+.tab4_2{
+	width:45%;
+	
+	vertical-align:top;
+	padding-top:6px;
+}
+.tab4_3{
+	width:50%;
+
+	vertical-align:top;
+	padding-top:6px;
+}
+
+.FourthButtonCon1{
+	
+	display:inline-block;
+}
+
+.FourthButtonCon3{
+	margin-left:12%;
+	
+	
+}
+.FourthButtonCon4{
+	
+	text-align:right;
+	
+	width:100%;
+	margin-top:10px;
+	
+}
+.FourthButtonCon5{
+	border-top:2px solid #C60;
+	
+}
+.FourthButtonCon14{
+     
+	 width:100%;
+	text-align:right;
+}
+.FourthButtonCon13{
+	border-bottom:2px solid #C60;
+	margin-bottom:3px;
+}
+.whole{
+	border:2px solid #EEE;
+	width:60%;
+	
+	display:none;
+	position:absolute;
+	margin-left:5%;
+	line-height:112%;
+
+	
+}
+.img1{
+	width:60%;
+}
+.FourthButtonCon6_1{
+	float:left;
+	width:10%;
+}
+.FourthButtonCon6_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+}
+.FourthButtonCon7,.FourthButtonCon8,.FourthButtonCon9,.FourthButtonCon10,.FourthButtonCon11,.FourthButtonCon12{
+	margin-left:10%;
+	width:90%;
+	display:inline-block;
+}
+.FourthButtonCon6{
+	margin-top:-5px;
+	width:90%;
+	display:inline-block;
+}
+.FourthButtonCon5{
+	margin-top:3px;
+}
+.crossBM{
+	
+	width:2.3%;
+	display:inline-block;
+
+    z-index:1;
+	cursor:pointer;
+	
+	
+}
+.smallfont1{
+	font-size:25px;
+}
+.smallfont{
+	font-size:27px;
+}	
+.img2{
+	width:5%;
+}
+
+
+.table2{
+	width:70%;
+
+	
+}
+.tab2_1{
+	width:10%;
+
+	vertical-align:top;
+	padding-top:25px;
+}
+
+.tab2_2{
+	width:90%;
+	
+	vertical-align:top;
+	padding-top:25px;
+}
+
+
+
+
+.table4{
+	width:85%;
+	margin-left:5%;
+	
+}
+.tab4_1{
+	width:10%;
+
+	vertical-align:top;
+	padding-top:20px;
+}
+
+.tab4_2{
+	width:90%;
+	
+	vertical-align:top;
+	padding-top:20px;
+}
+
+
+
+
+.middle3 {
+	width:85%;
+	margin-left:15%;
+}
+
+
+.con_second_button2{
+	width:100%;
+
+}
+
+.FourthButtonCon3{
+	width:82%;
+	margin-left:8%;
+}
+.middle6 {
+	width:85%;
+	margin-left:15%;
+}
+
+}
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+  @media (min-width: 2001px) and (orientation:landscape)
+{
+		.buttons1{
+	 
+	height: 90px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 145px;
+    background: white;
+}
+
+
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:30px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size:60px;
+		    margin-top:10px;
+   
+	}
+	
+	.tick4,.tick5,.tick7,.tick8{
+		
+		    margin-left: -18px;
+   		 	margin-top: -10px;
+	}
+	.tick31,.tick32,.tick33{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	.tick41,.tick42,.tick43,.tick44{
+		
+		    margin-left: -18px;
+   		 	margin-top: -10px;
+	}
+	
+	.tick51,.tick52,.tick53,.tick54,.tick55{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	.tick61,.tick62,.tick63,.tick64,.tick65,.tick66{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	
+	.hand51,.hand52,.hand53,.hand54,.hand55{
+		
+		    margin-top: 75px;
+   			margin-left: -165px;
+	}
+	.hand61,.hand62,.hand63,.hand64,.hand65,.hand66{
+		
+		
+		    margin-top: 75px;
+   			margin-left: -135px;
+			
+			}
+	
+
+	.SubBtn{
+		
+		height: 70px;
+		float: left;
+		font-size: 28px;
+		
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    		margin-left: 1%;
+	}
+
+
+			
+.FirstButtonCon2,.FirstButtonCon3,.FirstButtonCon4,.FirstButtonCon5,.FirstButtonCon7,.FirstButtonCon8{
+	margin-top:10px;
+}
+.FirstButtonCon6{
+
+	margin-left:6%;
+}
+.FirstButtonCon8{
+	margin-bottom:25px;
+	
+}
+.table1{
+	width:85%;
+}
+						
+.tab1_1{
+	width:5%;
+	
+}
+.tab1_2{
+	width:15%;
+	
+}
+.tab1_3{
+	width:20%;
+	
+}
+								
+.tab1_4{
+	width:7%;
+	text-align:center;
+	
+}
+	.tab1_5{
+	width:8%;
+	
+	
+	
+}
+				
+	.tab1_6{
+	width:5%;
+	
+	
+}
+						
+.tab1_7{
+	width:15%;
+	
+	
+}
+.tab1_8{
+	width:25%;
+	
+	
+}
+.FirstButtonCon6_1,.FirstButtonCon6_2,.FirstButtonCon6_3,.FirstButtonCon6_4,.FirstButtonCon6_5,.FirstButtonCon6_6,.FirstButtonCon6_7,.FirstButtonCon6_8,.FirstButtonCon6_9,.FirstButtonCon6_10,.FirstButtonCon6_11,.FirstButtonCon6_12,.FirstButtonCon6_13,.FirstButtonCon6_14,.FirstButtonCon6_15,.FirstButtonCon6_16{
+	margin-top:10px;
+}
+.FirstButtonCon6_7{
+	height:140px;
+	border-left: 2px solid #000;
+}
+
+         <!---closed frist btn-->
+tr,td{
+	border: 0px solid #000;
+}
+		 
+
+.SecondButtonCon3,.SecondButtonCon4,.SecondButtonCon5,.SecondButtonCon6,.SecondButtonCon7{
+	margin-top:10px;
+	display:inline-block;
+}
+
+.SecondButtonCon3_1{
+	float:left;
+	width:10%;
+}
+.SecondButtonCon3_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon3_3{
+	float:left;
+	width:90%;
+	margin-left:10%;
+	display:inline-block;
+	
+}
+
+.SecondButtonCon4_1{
+	float:left;
+	width:10%;
+}
+.SecondButtonCon4_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon4_3{
+	float:left;
+	width:90%;
+	margin-left:10%;
+	display:inline-block;
+	
+}
+.SecondButtonCon5{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon5_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon5_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon6{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon6_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon6_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon7{
+	margin-left:10%;
+	width:90%;
+}
+.SecondButtonCon7_1{
+	float:left;
+	width:5%;
+}
+.SecondButtonCon7_2{
+	float:left;
+	width:95%;
+	display:inline-block;
+	
+	
+}
+.SecondButtonCon1{
+	width:100%;
+	
+}
+.SecondButtonCon3,.SecondButtonCon4{
+	margin-left:2%;
+}
+
+.table2{
+	width:90%;
+}
+
+.tab2_1{
+	width:5%;
+	vertical-align:top;
+	padding-top:25px;
+}
+.tab2_2{
+	width:45%;
+	vertical-align:top;
+	padding-top:25px;
+}
+.tab2_3{
+	width:50%;
+	vertical-align:top;
+	padding-top:25px;
+}
+
+.SecondButtonCon8{
+	width:100%;
+	
+	
+}
+.SecondButtonCon9{
+	margin-left:12%;
+	padding-bottom:10px;
+	
+}
+.SecondButtonCon8{
+	
+	display:inline-block;
+	
+}
+.SecondButtonCon9_1,SecondButtonCon9_3,.SecondButtonCon9_4,.SecondButtonCon9_5,.SecondButtonCon9_6,.SecondButtonCon9_7,.SecondButtonCon9_8
+{
+	width:100%;
+}
+
+
+
+
+    <!----closed second btn--->
+	
+tr,td{
+	border:0px solid #000;
+}
+.ThirdButtonCon2,.ThirdButtonCon3,.ThirdButtonCon4,.ThirdButtonCon5{
+	display:inline-block;
+	margin-top:25px;
+	width:100%;
+}
+.ThirdButtonCon7{
+	display:inline-block;
+	margin-top:25px;
+	
+	margin-left:7%;
+}
+.ThirdButtonCon8{
+	display:inline-block;
+	margin-top:25px;
+	margin-bottom:20px;
+	margin-left:5%;
+}
+.ThirdButtonCon6{
+	display:inline-block;
+	
+	width:100%;
+}
+	
+.ThirdButtonCon4_1{
+	float:left;
+	width:15%;
+}
+	
+.ThirdButtonCon4_2{
+	width:85%;
+	float:left;
+	display:inline-block;
+}
+
+.ThirdButtonCon5_1{
+	float:left;
+	width:15%;
+}
+	
+.ThirdButtonCon5_2{
+	width:85%;
+	float:left;
+	display:inline-block;
+}	
+.gap1{
+	margin-left:1%;
+}
+
+.table3{
+	width:100%;
+	
+}
+
+
+.tab3_1,.tab3_3,.tab3_5,.tab3_7,.tab3_9,.tab3_11,.tab3_13,.tab3_15,.tab3_17,.tab3_19,.tab3_21,.tab3_23,.tab3_25,.tab3_27,.tab3_29,.tab3_31,.tab3_33,.tab3_35,.tab3_37,.tab3_39{
+	width:3.5%;
+    font-weight: bold;
+    text-align:center;
+		border:2px solid #000;
+
+}
+.tab3_2,.tab3_4,.tab3_6,.tab3_8,.tab3_10,.tab3_12,.tab3_14,.tab3_16,.tab3_18,.tab3_20,.tab3_22,.tab3_24,.tab3_26,.tab3_28,.tab3_30,.tab3_32,.tab3_34,.tab3_36,.tab3_38{
+	width:1%;
+}
+
+.tab3_40{
+	width:11%;
+	vertical-align:top;
+	
+}
+.tab3_42,.tab3_44{
+	border:2px solid #000;
+	width:7.5%;
+    font-weight: bold;
+    text-align:center;
+
+}
+.tab3_41{
+	width:6%;
+	vertical-align:top;
+	
+}
+.tab3_43{
+	width:1%;
+	vertical-align:top;
+	
+}
+ .tab3_45{
+	width:78%;
+	vertical-align:top;
+	
+}
+.table5{
+	width:100%;
+}
+      <!-----closed third btn----->
+	  
+tr,td{
+	border:0px solid #000;
+}
+	  
+.table4{
+	width:100%;
+	
+}
+.tab4_1{
+	width:5%;
+
+	vertical-align:top;
+	padding-top:6px;
+}
+
+.tab4_2{
+	width:45%;
+	
+	vertical-align:top;
+	padding-top:6px;
+}
+.tab4_3{
+	width:50%;
+
+	vertical-align:top;
+	padding-top:6px;
+}
+
+.FourthButtonCon1{
+	
+	display:inline-block;
+}
+
+.FourthButtonCon3{
+	margin-left:12%;
+	
+	
+}
+.FourthButtonCon4{
+	
+	text-align:right;
+	
+	width:100%;
+	margin-top:10px;
+	
+}
+.FourthButtonCon5{
+	border-top:2px solid #C60;
+	
+}
+.FourthButtonCon14{
+     
+	 width:100%;
+	text-align:right;
+}
+.FourthButtonCon13{
+	border-bottom:2px solid #C60;
+	margin-bottom:3px;
+}
+.whole{
+	border:2px solid #EEE;
+	width:60%;
+	
+	display:none;
+	position:absolute;
+	margin-left:5%;
+	line-height:112%;
+
+	
+}
+.img1{
+	width:60%;
+}
+.FourthButtonCon6_1{
+	float:left;
+	width:10%;
+}
+.FourthButtonCon6_2{
+	float:left;
+	width:90%;
+	display:inline-block;
+}
+.FourthButtonCon7,.FourthButtonCon8,.FourthButtonCon9,.FourthButtonCon10,.FourthButtonCon11,.FourthButtonCon12{
+	margin-left:10%;
+	width:90%;
+	display:inline-block;
+}
+.FourthButtonCon6{
+	margin-top:-5px;
+	width:90%;
+	display:inline-block;
+}
+.FourthButtonCon5{
+	margin-top:3px;
+}
+.crossBM{
+	
+	width:2.3%;
+	display:inline-block;
+
+    z-index:1;
+	cursor:pointer;
+	
+	
+}
+.smallfont1{
+	font-size:25px;
+}
+.smallfont{
+	font-size:35px;
+}	
+.img2{
+	width:5%;
+}
+
+.table2{
+	width:70%;
+
+	
+}
+.tab2_1{
+	width:10%;
+
+	vertical-align:top;
+	padding-top:25px;
+}
+
+.tab2_2{
+	width:90%;
+	
+	vertical-align:top;
+	padding-top:25px;
+}
+
+
+
+
+.table4{
+	width:85%;
+	margin-left:5%;
+	
+}
+.tab4_1{
+	width:10%;
+
+	vertical-align:top;
+	padding-top:20px;
+}
+
+.tab4_2{
+	width:90%;
+	
+	vertical-align:top;
+	padding-top:20px;
+}
+
+
+
+
+.middle3 {
+	width:85%;
+	margin-left:15%;
+}
+
+
+.con_second_button2{
+	width:100%;
+
+}
+
+.FourthButtonCon3{
+	width:82%;
+	margin-left:12%;
+}
+.middle6 {
+	width:85%;
+	margin-left:15%;
+}
+}
+
+.Content7_1{
+	line-height:140%;}
+
+.result{color:black;
+}
+tr, td{border:0px solid gray;}
+/*.opac1,.opac2,.opac3,.opac4,.opac5{visibility:hidden;}*/
+
+
+
+
+/*.bgcolor{background:#ff8a8a;
+}*/
+/*.bgcolor,.bgcolor1,.bgcolor2,.bgcolor3,.bgcolor4,.bgcolor5{color:#f00;
+}*/
+
+
+
+/*tr,td{
+	border:1px solid #000;
+}*/
