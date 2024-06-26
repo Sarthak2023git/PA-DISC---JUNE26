@@ -1,0 +1,3391 @@
+.MainBtnTable{
+	height:100%;
+	width:100%;
+}
+
+.MainBtnTable td{
+vertical-align:middle;
+}
+
+
+.SubBtn{
+	display: inline-block;
+	color: black;
+	font-weight: bold;
+	background-color: #ffb380;
+	background-image: linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -o-linear-gradient(bottom, #fff) 0%, #ffb380 100%);
+	background-image: -moz-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -webkit-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -ms-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -webkit-gradient( linear, left bottom, left top, color-stop(0, #fff), color-stop(1, #ffb380) );
+   -webkit-transition: all 0s ease-in-out;
+   -moz-transition: all 0s ease-in-out;
+    transition: all 0s ease-in-out;
+	-webkit-transform: rotateX(20deg);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffb380', endColorstr='white',GradientType=0 );
+	box-shadow:none;
+				
+}
+.SubBtn:hover{
+	background-image: linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -o-linear-gradient(top, #fff) 0%, #ffb380 100%);
+	background-image: -moz-linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -webkit-linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -ms-linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -webkit-gradient( linear, left top, left button, color-stop(0, #fff), color-stop(1, #ffb380) );
+	cursor:pointer;
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='white', endColorstr='#ffb380',GradientType=0 );
+	box-shadow:none;
+}
+.SubBtn:active{
+		background-image: linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -o-linear-gradient(bottom, #fff) 0%, #ffb380 100%);
+	background-image: -moz-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -webkit-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -ms-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -webkit-gradient( linear, left bottom, left top, color-stop(0, #fff), color-stop(1, #ffb380) );
+	-webkit-transform: translate(0, 2px);
+	-moz-transform: translate(0, 2px);
+	-ms-transform: translate(0, 2px);
+	transform: translate(0, 2px);
+	box-shadow:none;
+}
+
+ 
+.buttons1,.buttons2{
+	width:75%;
+	position:absolute;
+	z-index:10;
+}
+.bull1
+{
+	width:6%;
+}
+.bull
+{
+	width:3%;
+	float:left;
+}
+.sidetext
+{
+	width:96%;
+	margin-left:0px;
+	padding-top:0.2%;
+	float:left;
+}
+
+.FirstButtonCon1
+{
+	margin-top:0px;
+	width:100%;
+}
+.hide
+{
+	visibility:hidden;
+}
+.TextDiv
+{
+	width:98%;
+	margin-top:20px;
+	display:inline-block;
+	
+}
+
+.Rotate{-webkit-transform: rotate(90deg); /* WebKit */
+-moz-transform: rotate(90deg); /* Mozilla */
+-o-transform: rotate(90deg); /* Opera */
+-ms-transform: rotate(90deg); /* Internet Explorer */
+transform: rotate(90deg); /* CSS3 */}
+.hide
+{
+	visibility:hidden;
+}
+.hiddenVisibility
+{
+	visibility:hidden;
+}
+.main
+{
+	box-shadow:3px 3px 3px #999;
+	width:50%;
+	margin-left:20%;
+	border:1px solid black;
+	padding:15px;
+	
+}
+/*// Small devices (landscape phones, 576px and up)*/
+/*// Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 450px) and (max-width: 574px) and (orientation:landscape){ 
+.buttons1 {
+    height: 20px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 35px;
+    background: white;
+}
+	.tickA{
+		position:absolute;
+		color:#090;
+       font-size:8px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 18px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+	    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		     margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+  margin-top: 20px;
+    margin-left: -35px;
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+		  margin-top: 16px;
+   		  margin-left: -35px;
+	}
+	.SubBtn{
+		height: 18px;
+		float: left;
+		font-size: 6px;
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+
+
+.con_sub11_btn
+{
+	width:100%
+}
+.FirstButtonCon2,.Content3_3,.Content7_3  
+{
+	width:80%;
+	margin-left:40px;
+}
+.FirstButtonCon5,.FirstButtonCon8  
+{
+	width:80%;
+	margin-left:40px;
+}
+.FirstButtonCon6 
+{
+	width:68%;
+	margin-left:76px;
+}
+.Content3_5,.Content3_7   
+{
+	width:80%;
+	margin-left:46px;
+}
+.shift
+{
+     margin-left:21px;	
+}
+
+.FirstButtonCon12
+{
+	width:71%;
+	margin-left:88px;
+}
+.FirstButtonCon14 
+{
+	width:75%;
+	margin-left:56px;
+}
+.FirstButtonCon15 
+{
+	width:70%;
+	margin-left:91px;
+}
+.T1
+{
+	width:100%;
+}
+.tac
+{
+	text-align:center;
+}
+.tar
+{
+	text-align:right;
+}
+.main
+{
+	box-shadow:3px 3px 3px #999;
+	width:58%;
+	margin-left:56px;
+	border:1px solid black;
+	padding:15px;
+	
+}
+.a
+{
+	padding-top:2%;
+}
+.con_sub13_btn,.con_sub23_btn
+    {
+		width:100%;
+	}
+	
+	.col3{
+		width:15%;
+		    float: left;
+			display:inline-block;
+	}
+	.col5{
+		width:22%;
+		    float: left;
+			display:inline-block;
+	}
+	.col6 
+{
+    width: 78%;
+	float: left;
+	display:inline-block;
+}
+.col4 
+{
+    width: 75%;
+	float: left;
+	display:inline-block;
+}
+.buttons1
+{
+	width:75%;
+    position:absolute;
+}
+.Content4_1,.Content4_2,.Content4_3,.t1,.t2,.t3
+{
+	width:100%;
+	display:inline-block;
+	
+}
+.col1,.col2
+{
+	width:50%;
+	text-align:center;
+	float:left;
+}
+.tal
+{
+	text-align:left;
+}
+
+.div1,.div2
+{
+	width:50%;
+	float:left;
+}
+.div2
+{
+	margin-left:0%;
+}
+.col3
+{
+	width:20%;
+}
+.col4
+{
+	width:80%;
+}
+.hide
+{
+	visibility:hidden;
+}
+.img
+{
+	width:100%;
+}
+.image
+{
+	width:86%;
+	display:inline-block;
+}
+.image1
+{
+	width:86%;
+	display:inline-block;
+}
+.bm
+{
+	border-bottom:1px solid #000;
+}
+.main1
+{
+	box-shadow:3px 3px #999;
+	width:78%;
+	margin-left:18px;
+	border:1px solid black;
+	padding:15px;
+}
+.main1c
+{
+	box-shadow:3px 3px #999;
+	width:75%;
+	margin-left:25px;
+	border:1px solid black;
+	padding:15px;
+}
+.main1b
+{
+	box-shadow:3px 3px #999;
+	width:678px;
+	margin-left:58px;
+	border:1px solid black;
+	padding:15px;
+}
+.main1a
+{
+	box-shadow:3px 3px #999;
+	width:74%;
+	margin-left:36px;
+	border:1px solid black;
+	padding:15px;
+}
+.text
+{
+	display:inline-block;
+	float:left;
+	width:50%;
+}
+.sidenote
+{
+	font-size:8px;
+	float:left;
+	width:50%;
+	margin-left:5%;
+}
+.Content5_3
+{
+	width:50%;
+}
+.sidenote
+{
+width:45%;
+}
+	
+.RSR{
+	float:right;
+	margin-top:20px;
+	margin-right:65px;
+}
+
+.Content3_8
+{
+	margin-left:46px;
+	width:80%;
+}
+.ac
+{
+	margin-left:-10px;
+}
+.ab
+{
+	margin-left:5px;
+}
+.white
+{
+	white-space:pre;
+}
+.Content7_6,.Content7_8,.Content7_11
+{
+	margin-left:58px;
+	width:80%;
+}
+.Content7_7,.Content7_9
+{
+	margin-left:123px;
+	width:60%;
+}
+
+.Content18_2,.Content18_3
+{
+	width:80%;
+	margin-left:15px;
+}
+.Content18_4,.Content18_5
+{
+	width:80%;
+	margin-left:60px;
+}
+.Content18_6,.Content18_7
+{
+	width:40%;
+	margin-left:160px;
+}
+.con_sub62_btn
+{
+	width:100%;
+}
+.Content19_2
+{
+	width:80%;
+	margin-left:50px;
+}
+.Content19_3,.Content19_4,.Content19_5
+{
+	width:80%;
+	margin-left:50px;
+}
+.Content19_7,.Content19_8
+{
+	width:92%;
+	margin-left:25px;
+}
+.Content12_3,.Content12_4,.Content13_3,.Content14_3,.Content14_4,.Content14_5,.Content15_4,.Content15_5,.Content16_3,.Content15_3
+{
+	width:80%;
+	margin-left:46px;
+}
+.Content13_3
+{
+	
+	margin-left:36px;
+}
+.Content13_4
+{
+	width:76%;
+	margin-left:66px;
+}
+.Content16_4
+{
+	width:73%;
+	margin-left:76px;
+}
+.Content13_5
+{
+	width:58%;
+	margin-left:112px;
+}
+.Content16_5
+{
+	width:60%;
+	margin-left:113px;
+}
+.HD1{
+	
+	display:inline-block;
+	width:80%;
+}
+.content{
+	
+	position: relative;
+    float: left;
+    display: inline-block;
+    width: 90%;
+	border: 2px outset #CCC;
+	box-shadow:0px 2px 2px #CCC;
+	padding-bottom:5px;
+	padding-left:5px;
+	padding-right:5px;
+	padding-top:1.5px;
+	
+}
+.middle15
+{
+	width:100%;
+}
+.ma
+{
+	padding-left:4px;
+	
+}
+.Content6_3
+{
+	width:95%;
+}
+.a3
+{
+	width:30%;
+}
+.a4
+{
+	width:70%;
+}
+.t1
+{
+	border-right:2px solid black;
+}
+.Content4_1,.ThirdButtonCon1,.Content10_1 ,.Content12_1,.Content13_1 ,.Content14_1
+{
+	margin-top:0px;
+}
+
+.T1,.t3
+{
+	table-layout:fixed;
+}
+
+.footer
+{
+	display:inline-block;
+}
+.con_sub54_btn,.con_sub55_btn,.Content18_1,.Content19_1
+{
+	width:100%;
+}
+.sidenote1
+{
+	margin-left:0px;
+}
+.tick
+{
+	display:none;
+}
+.middle3,.middle6,.middle8
+{
+	width:100%;
+}
+.adj
+{
+	margin-left:6px;
+}
+.ss1{
+	
+	text-align:left;
+}
+.ss2{
+	
+ 	padding-left: 56px;
+    width: 30%;
+}
+.MMS1{
+	
+	display:inline-block;
+	float:left;
+	width: 50%;
+    margin-left: 50%;
+	margin-top:25px;
+	line-height:130%;
+	
+}
+.shift1
+{
+	margin-left:0px;
+}
+.text1
+{
+	width:34%;
+	float:left;
+}
+.Content19_9,.Content19_10
+{
+	width:91%;
+	margin-left:35px;
+}
+.t2
+{
+	margin-left:15px;
+}
+.annu1
+{
+	width:50%;
+}
+.text1
+{
+	width:60%;
+}
+.sidenote1
+{
+	width:40%;
+	font-size:6px;
+}
+	.hand51,.hand52,.hand53,.hand54,.hand55{
+		
+  margin-top: 16px;
+    margin-left: -35px;
+	}
+
+
+.MainBtns{
+	
+	display:block;
+	font-size:7px;
+	margin-top: 0px;
+	padding:0px;
+}
+
+.ContentContainer {
+    margin-left: 3%;
+}
+
+
+.Content15_1
+{
+	width:55%;
+	margin-left:15%;
+}
+.Content16_1
+{
+	width:80%;
+	margin-left:5%;
+	margin-top:0px;
+}
+.Content19_9,.Content19_10
+{
+	width:87%;
+}
+.text2
+{
+	width:47%;	
+}
+.shift2
+{
+	margin-left:32px;
+}
+
+.Content18_2
+{
+	margin-left:0px;
+	width:98%;
+}
+}
+
+
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+@media (min-width: 575px) and (max-width: 675px) and (orientation:landscape){ 
+
+.buttons1 {
+    height: 20px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 43px;
+    background: white;
+}
+.SubBtn{
+		    height: 22px;
+    float: left;
+    font-size: 8px;
+	}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:11px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 22px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+	    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		     margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+		
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+ 	margin-top: 23px;
+    margin-left: -48px;
+	
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+ 	margin-top: 23px;
+    margin-left: -41px;
+	
+	}
+
+	
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+	
+	
+	
+
+
+.con_sub11_btn
+{
+	width:100%
+}
+.FirstButtonCon2,.Content3_3,.Content7_3  
+{
+	width:80%;
+	margin-left:40px;
+}
+.FirstButtonCon5,.FirstButtonCon8  
+{
+	width:80%;
+	margin-left:52px;
+}
+.FirstButtonCon6 
+{
+	width:74%;
+	margin-left:94px;
+}
+.Content3_5,.Content3_7   
+{
+	width:80%;
+	margin-left:66px;
+}
+.shift
+{
+     margin-left:24px;	
+}
+.main
+{
+	box-shadow:3px 3px 3px #999;
+	width:58%;
+	margin-left:64px;
+	border:1px solid black;
+	padding:15px;
+	
+}
+.FirstButtonCon12
+{
+	width:68%;
+	margin-left:106px;
+}
+.FirstButtonCon14 
+{
+	width:75%;
+	margin-left:56px;
+}
+.FirstButtonCon15 
+{
+	width:70%;
+	margin-left:98px;
+}
+.T1
+{
+	width:100%;
+}
+.tac
+{
+	text-align:center;
+}
+.tar
+{
+	text-align:right;
+}
+
+.a
+{
+	padding-top:2%;
+}
+.con_sub13_btn,.con_sub23_btn
+    {
+		width:100%;
+	}
+	
+	.col3{
+		width:15%;
+		    float: left;
+			display:inline-block;
+	}
+	.col5{
+		width:22%;
+		    float: left;
+			display:inline-block;
+	}
+	.col6 
+{
+    width: 78%;
+	float: left;
+	display:inline-block;
+}
+.col4 
+{
+    width: 75%;
+	float: left;
+	display:inline-block;
+}
+.buttons1
+{
+	width:75%;
+    position:absolute;
+}
+.Content4_1,.Content4_2,.Content4_3,.t1,.t2,.t3
+{
+	width:100%;
+	display:inline-block;
+	
+}
+.col1,.col2
+{
+	width:50%;
+	text-align:center;
+	float:left;
+}
+.tal
+{
+	text-align:left;
+}
+
+.div1,.div2
+{
+	width:50%;
+	float:left;
+}
+.div2
+{
+	margin-left:0%;
+}
+.col3
+{
+	width:20%;
+}
+.col4
+{
+	width:80%;
+}
+.hide
+{
+	visibility:hidden;
+}
+.img
+{
+	width:100%;
+}
+.image
+{
+	width:86%;
+	display:inline-block;
+}
+.image1
+{
+	width:86%;
+	display:inline-block;
+}
+.bm
+{
+	border-bottom:1px solid #000;
+}
+.main1
+{
+	box-shadow:3px 3px #999;
+	width:70%;
+	margin-left:50px;
+	border:1px solid black;
+	padding:15px;
+}
+.main1c
+{
+	box-shadow:3px 3px #999;
+	width:70%;
+	margin-left:54px;
+	border:1px solid black;
+	padding:15px;
+}
+.main1b
+{
+	box-shadow:3px 3px #999;
+	width:80%;
+	margin-left:34px;
+	border:1px solid black;
+	padding:15px;
+}
+.main1a
+{
+	box-shadow:3px 3px #999;
+	width:80%;
+	margin-left:25px;
+	border:1px solid black;
+	padding:15px;
+}
+.text
+{
+	display:inline-block;
+	float:left;
+	width:50%;
+}
+.sidenote
+{
+	font-size:10px;
+	float:left;
+	width:50%;
+	margin-left:5%;
+}
+.Content5_3
+{
+	width:50%;
+}
+.sidenote
+{
+width:45%;
+}
+	
+.RSR{
+	float:right;
+	margin-top:20px;
+	margin-right:65px;
+}
+
+.Content3_8
+{
+	margin-left:66px;
+	width:80%;
+}
+.ac
+{
+	margin-left:-11px;
+}
+.ab
+{
+	margin-left:10px;
+}
+.Content7_6,.Content7_8,.Content7_11
+{
+	margin-left:71px;
+	width:80%;
+}
+.Content7_7,.Content7_9
+{
+	margin-left:149px;
+	width:60%;
+}
+
+.Content18_2,.Content18_3
+{
+	width:80%;
+	margin-left:17px;
+}
+.Content18_4,.Content18_5
+{
+	width:60%;
+	margin-left:90px;
+}
+.Content18_6,.Content18_7
+{
+	width:40%;
+	margin-left:210px;
+}
+.con_sub62_btn
+{
+	width:100%;
+}
+.Content19_2
+{
+	width:80%;
+	margin-left:50px;
+}
+.Content19_3,.Content19_4,.Content19_5
+{
+	width:80%;
+	margin-left:50px;
+}
+.Content19_7,.Content19_8
+{
+	width:85%;
+	margin-left:25px;
+}
+.Content12_3,.Content12_4,.Content13_3,.Content14_3,.Content14_4,.Content14_5,.Content15_4,.Content15_5,.Content16_3,.Content15_3
+{
+	width:80%;
+	margin-left:58px;
+}
+.Content13_4
+{
+	width:75%;
+	margin-left:93px;
+}
+.con_sub53_btn
+{
+	width:100%;
+}
+.middle11
+{
+	width:100%;
+}
+.Content16_4
+{
+	width:75%;
+	margin-left:96px;
+}
+.Content13_5
+{
+	width:58%;
+	margin-left:150px;
+}
+.Content16_5
+{
+	width:62%;
+	margin-left:141px;
+}
+.HD1{
+	display:inline-block;
+	width:80%;
+}
+.content{
+	position: relative;
+    float: left;
+    display: inline-block;
+    width: 90%;
+	border: 2px outset #CCC;
+	box-shadow:0px 2px 2px #CCC;
+	padding-bottom:5px;
+	padding-left:5px;
+	padding-right:5px;
+	padding-top:1.5px;
+}
+.middle15
+{
+	width:100%;
+}
+.ma
+{
+	padding-left:10px;
+	
+}
+
+.t1
+{
+	border-right:2px solid black;
+}
+.Content4_1,.ThirdButtonCon1,.Content10_1 ,.Content12_1,.Content13_1 ,.Content14_1
+{
+	margin-top:0px;
+}
+
+.T1,.t3
+{
+	table-layout:fixed;
+}
+
+.footer
+{
+	display:inline-block;
+}
+.con_sub54_btn,.con_sub55_btn,.Content18_1,.Content19_1
+{
+	width:100%;
+}
+.sidenote1
+{
+	margin-left:0px;
+}
+.tick
+{
+	display:none;
+}
+.middle3,.middle6,.middle8
+{
+	width:100%;
+}
+.adj
+{
+	margin-left:6px;
+}
+.ss1{
+	text-align:left;
+}
+.ss2{
+ 	padding-left: 78px;
+    width: 30%;
+}
+.MMS1{
+	display:inline-block;
+	float:left;
+	width: 50%;
+    margin-left: 50%;
+	margin-top:25px;
+	line-height:130%;
+}
+.shift1
+{
+	margin-left:0px;
+}
+.text1
+{
+	width:34%;
+	float:left;
+}
+.Content19_9,.Content19_10
+{
+	width:88%;
+	margin-left:43px;
+}
+.t2
+{
+	margin-left:15px;
+}
+.annu1
+{
+	width:50%;
+}
+.text1
+{
+	width:60%;
+}
+.sidenote1
+{
+	width:40%;
+	font-size:9px;
+}
+.Content6_3
+{
+	width:95%;
+}
+.t2a
+{
+	width:100%;
+}
+.shift2
+{
+	margin-left:32px;
+}
+.Content18_2
+{
+	margin-left:0px;
+	width:98%;
+}
+}
+ /*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+@media (min-width: 676px) and (max-width: 775px) and (orientation:landscape){ 
+
+.buttons1 {
+    height: 33px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 46px;
+    background: white;
+}
+
+.SubBtn{
+		      height: 30px;
+    float: left;
+    font-size: 11px;
+	}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:15px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 27px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+	margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+    margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+	       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		        margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		       margin-left: -10px;
+    margin-top: -3px;
+	}
+	
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+ 	margin-top: 28px;
+    margin-left: -58px;
+	
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+ 	    margin-top: 28px;
+    margin-left: -47px;
+	
+	}
+	
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+
+
+
+
+.con_sub11_btn
+{
+	width:100%
+}
+.FirstButtonCon2,.Content3_3,.Content7_3  
+{
+	width:80%;
+	margin-left:40px;
+}
+.FirstButtonCon5,.FirstButtonCon8  
+{
+	width:80%;
+	margin-left:52px;
+}
+.FirstButtonCon6 
+{
+	width:74%;
+	margin-left:100px;
+}
+.Content3_5,.Content3_7   
+{
+	width:80%;
+	margin-left:66px;
+}
+.shift
+{
+     margin-left:28px;	
+}
+.main
+{
+	box-shadow:3px 3px 3px #999;
+	width:58%;
+	margin-left:64px;
+	border:1px solid black;
+	padding:15px;
+	
+}
+.FirstButtonCon12
+{
+	width:68%;
+	margin-left:123px;
+}
+.FirstButtonCon14 
+{
+	width:75%;
+	margin-left:56px;
+}
+.FirstButtonCon15 
+{
+	width:70%;
+	margin-left:103px;
+}
+.T1
+{
+	width:100%;
+}
+.tac
+{
+	text-align:center;
+}
+.tar
+{
+	text-align:right;
+}
+
+.a
+{
+	padding-top:2%;
+}
+.con_sub13_btn,.con_sub23_btn
+    {
+		width:100%;
+	}
+	
+	.col3{
+		width:15%;
+		    float: left;
+			display:inline-block;
+	}
+	.col5{
+		width:22%;
+		    float: left;
+			display:inline-block;
+	}
+	.col6 
+{
+    width: 78%;
+	float: left;
+	display:inline-block;
+}
+.col4 
+{
+    width: 75%;
+	float: left;
+	display:inline-block;
+}
+.buttons1
+{
+	width:75%;
+    position:absolute;
+}
+.Content4_1,.Content4_2,.Content4_3,.t1,.t2,.t3
+{
+	width:100%;
+	display:inline-block;
+	
+}
+.col1,.col2
+{
+	width:50%;
+	text-align:center;
+	float:left;
+}
+.tal
+{
+	text-align:left;
+}
+
+.div1,.div2
+{
+	width:50%;
+	float:left;
+}
+.div2
+{
+	margin-left:0%;
+}
+.col3
+{
+	width:20%;
+}
+.col4
+{
+	width:80%;
+}
+.hide
+{
+	visibility:hidden;
+}
+.img
+{
+	width:100%;
+}
+.image
+{
+	width:86%;
+	display:inline-block;
+}
+.image1
+{
+	width:86%;
+	display:inline-block;
+}
+.bm
+{
+	border-bottom:1px solid #000;
+}
+.main1
+{
+	box-shadow:3px 3px #999;
+	width:325px;
+	margin-left:50px;
+	border:1px solid black;
+	padding:15px;
+}
+.main1c
+{
+	box-shadow:3px 3px #999;
+	width:325px;
+	margin-left:54px;
+	border:1px solid black;
+	padding:15px;
+}
+.main1b
+{
+	box-shadow:3px 3px #999;
+	width:80%;
+	margin-left:34px;
+	border:1px solid black;
+	padding:15px;
+}
+.main1a
+{
+	box-shadow:3px 3px #999;
+	width:80%;
+	margin-left:25px;
+	border:1px solid black;
+	padding:15px;
+}
+.text
+{
+	display:inline-block;
+	float:left;
+	width:50%;
+}
+.sidenote
+{
+	font-size:10px;
+	float:left;
+	width:50%;
+	margin-left:5%;
+}
+.Content5_3
+{
+	width:50%;
+}
+.sidenote
+{
+width:45%;
+}
+	
+.RSR{
+	float:right;
+	margin-top:20px;
+	margin-right:65px;
+}
+
+.Content3_8
+{
+	margin-left:66px;
+	width:80%;
+}
+.ac
+{
+	margin-left:-11px;
+}
+.ab
+{
+	margin-left:10px;
+}
+.Content7_6,.Content7_8,.Content7_11
+{
+	margin-left:71px;
+	width:80%;
+}
+.Content7_7,.Content7_9
+{
+	margin-left:164px;
+	width:60%;
+}
+
+.Content18_2,.Content18_3
+{
+	width:80%;
+	margin-left:17px;
+}
+.Content18_4,.Content18_5
+{
+	width:60%;
+	margin-left:90px;
+}
+.Content18_6,.Content18_7
+{
+	width:40%;
+	margin-left:229px;
+}
+.con_sub62_btn
+{
+	width:100%;
+}
+.Content19_2
+{
+	width:80%;
+	margin-left:50px;
+}
+.Content19_3,.Content19_4,.Content19_5
+{
+	width:80%;
+	margin-left:50px;
+}
+.Content19_7,.Content19_8
+{
+	width:86%;
+	margin-left:35px;
+}
+.Content12_3,.Content12_4,.Content13_3,.Content14_3,.Content14_4,.Content14_5,.Content15_4,.Content15_5,.Content16_3,.Content15_3
+{
+	width:80%;
+	margin-left:58px;
+}
+.Content13_4
+{
+	width:75%;
+	margin-left:98px;
+}
+.con_sub53_btn
+{
+	width:100%;
+}
+.middle11
+{
+	width:100%;
+}
+.Content16_4
+{
+	width:75%;
+	margin-left:104px;
+}
+.Content13_5
+{
+	width:58%;
+	margin-left:163px;
+}
+.Content16_5
+{
+	width:62%;
+	margin-left:156px;
+}
+.HD1{
+	display:inline-block;
+	width:80%;
+}
+.content{
+	position: relative;
+    float: left;
+    display: inline-block;
+    width: 90%;
+	border: 2px outset #CCC;
+	box-shadow:0px 2px 2px #CCC;
+	padding-bottom:5px;
+	padding-left:5px;
+	padding-right:5px;
+	padding-top:1.5px;
+}
+.middle15
+{
+	width:100%;
+}
+.ma
+{
+	padding-left:10px;
+	
+}
+
+.t1
+{
+	border-right:2px solid black;
+}
+.Content4_1,.ThirdButtonCon1,.Content10_1 ,.Content12_1,.Content13_1 ,.Content14_1
+{
+	margin-top:0px;
+	
+}
+
+.T1,.t3
+{
+	table-layout:fixed;
+}
+
+.footer
+{
+	display:inline-block;
+}
+.con_sub54_btn,.con_sub55_btn,.Content18_1,.Content19_1
+{
+	width:100%;
+}
+.sidenote1
+{
+	margin-left:0px;
+}
+.tick
+{
+	display:none;
+}
+.middle3,.middle6,.middle8
+{
+	width:100%;
+}
+.adj
+{
+	margin-left:6px;
+}
+.ss1{
+	text-align:left;
+}
+.ss2{
+ 	padding-left: 78px;
+    width: 30%;
+}
+.MMS1{
+	display:inline-block;
+	float:left;
+	width: 50%;
+    margin-left: 50%;
+	margin-top:25px;
+	line-height:130%;
+}
+.shift1
+{
+	margin-left:0px;
+}
+.text1
+{
+	width:34%;
+	float:left;
+}
+.Content19_9,.Content19_10
+{
+	width:88%;
+	margin-left:43px;
+}
+.t2
+{
+	margin-left:15px;
+}
+.annu1
+{
+	width:50%;
+}
+.text1
+{
+	width:60%;
+}
+.sidenote1
+{
+	width:40%;
+	font-size:9px;
+}
+.Content6_3
+{
+	width:95%;
+}
+.t2a
+{
+	width:100%;
+}
+.shift2
+{
+	margin-left:32px;
+}
+.Content18_2
+{
+	margin-left:0px;
+	width:98%;
+}
+}
+ /*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 776px) and (max-width: 876px) and (orientation:landscape)
+{
+
+.buttons1 {
+    height: 36px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 56px;
+    background: white;
+}
+
+
+.SubBtn{
+    height: 35px;
+    float: left;
+    font-size: 12px;
+	}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:15px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 30px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+	margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		     margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+	       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		        margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		       margin-left: -10px;
+    margin-top: -3px;
+	}
+	
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+ 	margin-top: 31px;
+    margin-left: -65px;
+	
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+ 	     margin-top: 31px;
+    margin-left: -52px;
+
+	
+	}
+	
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+
+
+
+.con_sub11_btn
+{
+	width:100%
+}
+.FirstButtonCon2,.Content3_3,.Content7_3  
+{
+	width:82%;
+	margin-left:40px;
+}
+.FirstButtonCon5,.FirstButtonCon8  
+{
+	width:80%;
+	margin-left:52px;
+}
+.FirstButtonCon6 
+{
+	width:74%;
+	margin-left:114px;
+}
+.Content3_5,.Content3_7   
+{
+	width:80%;
+	margin-left:66px;
+}
+.shift
+{
+     margin-left:36px;	
+}
+.main
+{
+	box-shadow:3px 3px 3px #999;
+	width:58%;
+	margin-left:64px;
+	border:1px solid black;
+	padding:15px;
+	
+}
+.FirstButtonCon12
+{
+	width:72%;
+	margin-left:155px;
+}
+.FirstButtonCon14 
+{
+	width:75%;
+	margin-left:56px;
+}
+.FirstButtonCon15 
+{
+	width:70%;
+	margin-left:118px;
+}
+.T1
+{
+	width:100%;
+}
+.tac
+{
+	text-align:center;
+}
+.tar
+{
+	text-align:right;
+}
+
+.a
+{
+	padding-top:2%;
+}
+.con_sub13_btn,.con_sub23_btn
+    {
+		width:100%;
+	}
+	
+	.col3{
+		width:15%;
+		    float: left;
+			display:inline-block;
+	}
+	.col5{
+		width:22%;
+		    float: left;
+			display:inline-block;
+	}
+	.col6 
+{
+    width: 78%;
+	float: left;
+	display:inline-block;
+}
+.col4 
+{
+    width: 75%;
+	float: left;
+	display:inline-block;
+}
+.buttons1
+{
+	width:75%;
+    position:absolute;
+}
+.Content4_1,.Content4_2,.Content4_3,.t1,.t2,.t3
+{
+	width:100%;
+	display:inline-block;
+	
+}
+.col1,.col2
+{
+	width:50%;
+	text-align:center;
+	float:left;
+}
+.tal
+{
+	text-align:left;
+}
+
+.div1,.div2
+{
+	width:50%;
+	float:left;
+}
+.div2
+{
+	margin-left:0%;
+}
+.col3
+{
+	width:20%;
+}
+.col4
+{
+	width:80%;
+}
+.hide
+{
+	visibility:hidden;
+}
+.img
+{
+	width:100%;
+}
+.image
+{
+	width:86%;
+	display:inline-block;
+}
+.image1
+{
+	width:86%;
+	display:inline-block;
+}
+.bm
+{
+	border-bottom:1px solid #000;
+}
+.main1
+{
+	box-shadow:3px 3px #999;
+	width:70%;
+	margin-left:50px;
+	border:1px solid black;
+	padding:15px;
+}
+.main1c
+{
+	box-shadow:3px 3px #999;
+	width:74%;
+	margin-left:54px;
+	border:1px solid black;
+	padding:15px;
+}
+.main1b
+{
+	box-shadow:3px 3px #999;
+	width:80%;
+	margin-left:34px;
+	border:1px solid black;
+	padding:15px;
+}
+.main1a
+{
+	box-shadow:3px 3px #999;
+	width:80%;
+	margin-left:25px;
+	border:1px solid black;
+	padding:15px;
+}
+.text
+{
+	display:inline-block;
+	float:left;
+	width:50%;
+}
+.sidenote
+{
+	font-size:14px;
+	float:left;
+	width:50%;
+	margin-left:5%;
+}
+.Content5_3
+{
+	width:50%;
+}
+.sidenote
+{
+width:45%;
+}
+	
+.RSR{
+	float:right;
+	margin-top:20px;
+	margin-right:65px;
+}
+
+.Content3_8
+{
+	margin-left:66px;
+	width:80%;
+}
+.ac
+{
+	margin-left:-11px;
+}
+
+.Content7_6,.Content7_8,.Content7_11
+{
+	margin-left:71px;
+	width:80%;
+}
+.Content7_7,.Content7_9
+{
+	margin-left:187px;
+	width:60%;
+}
+
+.Content18_2,.Content18_3
+{
+	width:80%;
+	margin-left:17px;
+}
+.Content18_4,.Content18_5
+{
+	width:63%;
+	margin-left:90px;
+}
+.Content18_6,.Content18_7
+{
+	width:40%;
+	margin-left:269px;
+}
+.con_sub62_btn
+{
+	width:100%;
+}
+.Content19_2
+{
+	width:80%;
+	margin-left:50px;
+}
+.Content19_3,.Content19_4,.Content19_5
+{
+	width:80%;
+	margin-left:50px;
+}
+.Content19_7,.Content19_8
+{
+	width:80%;
+	margin-left:25px;
+}
+.Content12_3,.Content12_4,.Content13_3,.Content14_3,.Content14_4,.Content14_5,.Content15_4,.Content15_5,.Content16_3,.Content15_3
+{
+	width:80%;
+	margin-left:88px;
+}
+.Content13_4
+{
+	width:75%;
+	margin-left:112px;
+}
+.con_sub53_btn
+{
+	width:100%;
+}
+.middle11
+{
+	width:100%;
+}
+.Content16_4
+{
+	width:70%;
+	margin-left:150px;
+}
+.Content13_5
+{
+	width:58%;
+	margin-left:197px;
+}
+.Content16_5
+{
+	width:60%;
+	margin-left:216px;
+}
+.HD1{
+	display:inline-block;
+	width:80%;
+}
+.content{
+	position: relative;
+    float: left;
+    display: inline-block;
+    width: 90%;
+	border: 2px outset #CCC;
+	box-shadow:0px 2px 2px #CCC;
+	padding-bottom:5px;
+	padding-left:5px;
+	padding-right:5px;
+	padding-top:1.5px;
+}
+.middle15
+{
+	width:100%;
+}
+.ma
+{
+	padding-left:7px;
+	
+}
+
+.t1
+{
+	border-right:2px solid black;
+}
+.Content4_1,.ThirdButtonCon1,.Content10_1 ,.Content12_1,.Content13_1 ,.Content14_1
+{
+	margin-top:0px;
+}
+
+.T1,.t3
+{
+	table-layout:fixed;
+}
+
+.footer
+{
+	display:inline-block;
+}
+.con_sub54_btn,.con_sub55_btn,.Content18_1,.Content19_1
+{
+	width:100%;
+}
+.sidenote1
+{
+	margin-left:0px;
+}
+.tick
+{
+	display:none;
+}
+.middle3,.middle6,.middle8
+{
+	width:100%;
+}
+.adj
+{
+	margin-left:6px;
+}
+.ss1{
+	text-align:left;
+}
+.ss2{
+ 	padding-left: 78px;
+    width: 30%;
+}
+.MMS1{
+	display:inline-block;
+	float:left;
+	width: 50%;
+    margin-left: 50%;
+	margin-top:25px;
+	line-height:130%;
+}
+.shift1
+{
+	margin-left:42px;
+}
+.text1
+{
+	width:34%;
+	float:left;
+}
+.Content19_9,.Content19_10
+{
+	width:88%;
+	margin-left:43px;
+}
+.t2
+{
+	margin-left:15px;
+}
+.annu1
+{
+	width:50%;
+}
+.text1
+{
+	width:60%;
+}
+.sidenote1
+{
+	width:40%;
+	font-size:10px;
+}
+.Content6_3
+{
+	width:95%;
+}
+.t2a
+{
+	width:100%;
+}
+.shift2
+{
+	margin-left:52px;
+}
+.Content18_2
+{
+	margin-left:0px;
+	width:98%;
+}
+}
+ 
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 877px) and (max-width: 980px) and (orientation:landscape)
+{
+	
+	.buttons1 {
+    height: 45px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 67px;
+    background: white;
+}
+
+
+
+.SubBtn{
+	height: 35px;
+    float: left;
+    font-size: 14px;
+	}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:15px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 35px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		     margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+	       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		        margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+    margin-top: 40px;
+    margin-left: -73px;
+	
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+    margin-top: 38px;
+    margin-left: -58px;	
+	}
+	
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+
+
+
+
+}
+
+ /*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 981px) and (max-width: 1100px) and (orientation:landscape)
+{
+	
+	.buttons1 {
+    height: 60px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 90px;
+    background: white;
+}
+
+
+
+	
+.SubBtn{
+	height: 49px;
+    float: left;
+    font-size: 16.5px;	
+	}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:21px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 45px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		      margin-left: -13px;
+    margin-top: -6px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		    margin-left: -13px;
+    margin-top: -6px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+	      margin-left: -13px;
+    margin-top: -6px;
+	}
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		       margin-left: -13px;
+    margin-top: -6px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		     margin-left: -13px;
+    margin-top: -6px;
+	}
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+       margin-top: 55px;
+    margin-left: -75px;
+	
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+		
+       margin-top: 55px;
+    margin-left: -87px;
+	}
+	
+
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+
+
+
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+ /*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 1101px) and (max-width: 1300px) and (orientation:landscape)
+{
+	.buttons1{
+	 
+	height: 65px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 95px;
+    background: white;
+}
+
+	.tickA{
+		position:absolute;
+		color:#090;
+       font-size:25px;
+   
+	}
+	.handARot{
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 45px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+		 margin-top: 54px;
+    margin-left: -82px;
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+		 margin-top: 54px;
+    margin-left: -82px;
+	}
+	
+	
+	.SubBtn{
+		    height: 49px;
+			float: left;
+			font-size: 21px;
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    margin-left: 1%;
+	}
+
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+ @media (min-width: 1301px) and (max-width: 1500px) and (orientation:landscape)
+{
+	
+.buttons1{
+	 
+	height: 65px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 95px;
+    background: white;
+}
+
+
+	.tickA{
+		position:absolute;
+		color:#090;
+       font-size:25px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 53px;
+		    margin-top: 10px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+		    margin-top: 56px;
+   			margin-left: -115px;
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+		    margin-top: 56px;
+    		margin-left: -95px;
+	}
+	
+
+	.SubBtn{
+		    height: 49px;
+    float: left;
+    font-size: 18.5px;
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    margin-left: 1%;
+	}
+
+.shift2
+{
+	margin-left:40px;
+}
+.con_sub11_btn
+{
+	width:100%
+}
+.FirstButtonCon2,.Content3_3,.Content7_3  
+{
+	width:80%;
+	margin-left:40px;
+}
+.FirstButtonCon5,.FirstButtonCon8  
+{
+	width:80%;
+	margin-left:95px;
+}
+.FirstButtonCon6 
+{
+	width:80%;
+	margin-left:173px;
+}
+.Content3_5,.Content3_7   
+{
+	width:80%;
+	margin-left:120px;
+}
+.shift
+{
+     margin-left:46px;	
+}
+
+.FirstButtonCon12
+{
+	width:60%;
+	margin-left:203px;
+}
+.FirstButtonCon14 
+{
+	width:75%;
+	margin-left:108px;
+}
+.FirstButtonCon15 
+{
+	width:70%;
+	margin-left:188px;
+}
+.T1
+{
+	width:100%;
+}
+.tac
+{
+	text-align:center;
+}
+.tar
+{
+	text-align:right;
+}
+
+.a
+{
+	padding-top:2%;
+}
+.con_sub13_btn,.con_sub23_btn
+    {
+		width:100%;
+	}
+	
+	.col3{
+		width:15%;
+		    float: left;
+			display:inline-block;
+	}
+	.col5{
+		width:16%;
+		    float: left;
+			display:inline-block;
+	}
+	.col6 
+{
+    width: 84%;
+	float: left;
+	display:inline-block;
+}
+.col4 
+{
+    width: 75%;
+	float: left;
+	display:inline-block;
+}
+.buttons1
+{
+	width:75%;
+    position:absolute;
+}
+.Content4_1,.Content4_2,.Content4_3,.t1,.t2,.t3
+{
+	width:100%;
+	display:inline-block;
+	
+}
+.col1,.col2
+{
+	width:50%;
+	text-align:center;
+	float:left;
+}
+.tal
+{
+	text-align:left;
+}
+
+.div1,.div2
+{
+	width:45%;
+	float:left;
+}
+.div2
+{
+	margin-left:7%;
+}
+.col3
+{
+	width:14%;
+}
+.col4
+{
+	width:80%;
+}
+.hide
+{
+	visibility:hidden;
+}
+.img
+{
+	width:100%;
+}
+.image
+{
+	width:86%;
+	display:inline-block;
+}
+.image1
+{
+	width:86%;
+	display:inline-block;
+}
+.bm
+{
+	border-bottom:1px solid #000;
+}
+.main1
+{
+	box-shadow:3px 3px #999;
+	width:520px;
+	margin-left:146px;
+	border:1px solid black;
+	padding:15px;
+}
+.main1c
+{
+	box-shadow:3px 3px #999;
+	width:532px;
+	margin-left:146px;
+	border:1px solid black;
+	padding:15px;
+}
+.main1b
+{
+	box-shadow:3px 3px #999;
+	width:678px;
+	margin-left:146px;
+	border:1px solid black;
+	padding:15px;
+}
+.main1a
+{
+	box-shadow:3px 3px #999;
+	width:540px;
+	margin-left:146px;
+	border:1px solid black;
+	padding:15px;
+}
+.text
+{
+	display:inline-block;
+	float:left;
+	width:50%;
+}
+.sidenote
+{
+	font-size:20px;
+	float:left;
+	width:50%;
+	margin-left:60px;
+}
+.Content5_3,.sidenote
+{
+	width:50%;
+}
+.RSR{
+	float:right;
+	margin-top:20px;
+	margin-right:65px;
+}
+
+.Content3_8
+{
+	margin-left:122px;
+	width:80%;
+}
+.ac
+{
+	margin-left:-20px;
+}
+
+.Content7_6,.Content7_8,.Content7_11
+{
+	margin-left:126px;
+	width:80%;
+}
+.Content7_7,.Content7_9
+{
+	margin-left:28%;
+	width:70%;
+}
+
+.Content18_2,.Content18_3
+{
+	width:80%;
+	margin-left:40px;
+}
+.Content18_4,.Content18_5
+{
+	width:80%;
+	margin-left:60px;
+}
+.Content18_6,.Content18_7
+{
+	width:68%;
+	margin-left:287px;
+}
+.con_sub62_btn
+{
+	width:100%;
+}
+.Content19_2
+{
+	width:80%;
+	margin-left:50px;
+}
+.Content19_3,.Content19_4,.Content19_5
+{
+	width:80%;
+	margin-left:50px;
+}
+.Content19_7,.Content19_8
+{
+	width:80%;
+	margin-left:25px;
+}
+.Content12_3,.Content12_4,.Content13_3,.Content14_3,.Content14_4,.Content14_5,.Content15_4,.Content15_5,.Content16_3,.Content15_3
+{
+	width:80%;
+	margin-left:110px;
+}
+.Content13_4
+{
+	width:80%;
+	margin-left:184px;
+}
+.Content16_4
+{
+	width:75%;
+	margin-left:194px;
+}
+.Content13_5
+{
+	width:68%;
+	margin-left:290px;
+}
+.Content16_5
+{
+	width:68%;
+	margin-left:278px;
+}
+.HD1{
+	display:inline-block;
+	width:80%;
+}
+.content{
+	position: relative;
+    float: left;
+    display: inline-block;
+    width: 90%;
+	border: 2px outset #CCC;
+	box-shadow:0px 2px 2px #CCC;
+	padding-bottom:5px;
+	padding-left:5px;
+	padding-right:5px;
+	padding-top:1.5px;
+}
+.middle15
+{
+	width:100%;
+}
+.ma
+{
+	padding-left:20px;
+	
+}
+
+.t1
+{
+	border-right:2px solid black;
+}
+.Content4_1,.ThirdButtonCon1,.Content10_1 ,.Content12_1,.Content13_1 ,.Content14_1
+{
+	margin-top:0px;
+}
+
+.T1,.t3
+{
+	table-layout:fixed;
+}
+
+.footer
+{
+	display:inline-block;
+}
+.con_sub54_btn,.con_sub55_btn,.Content18_1,.Content19_1
+{
+	width:100%;
+}
+.sidenote1
+{
+	margin-left:0px;
+}
+.tick
+{
+	display:none;
+}
+.middle3,.middle6,.middle8
+{
+	width:100%;
+}
+.adj
+{
+	margin-left:6px;
+}
+.ss1{
+	text-align:left;
+}
+.ss2{
+ 	padding-left: 80px;
+    width: 30%;
+}
+.MMS1{
+	display:inline-block;
+	float:left;
+	width: 50%;
+    margin-left: 50%;
+	margin-top:25px;
+	line-height:130%;
+}
+.shift1
+{
+	margin-left:28px;
+}
+.text1
+{
+	width:50%;
+	float:left;
+}
+.Content19_9,.Content19_10
+{
+	width:91%;
+	margin-left:9%;
+}
+.Content18_2
+{
+	margin-left:0px;
+	width:98%;
+}
+.ab
+{
+	margin-left:20px;
+}
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+ @media (min-width: 1501px) and (max-width: 1800px) and (orientation:landscape)
+{
+
+	.buttons1{
+	 
+	height: 65px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 95px;
+    background: white;
+}
+
+
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:30px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size:60px;
+		    margin-top:10px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		    margin-left: -18px;
+   		 	margin-top: -10px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+		    margin-left: -18px;
+   		 	margin-top: -10px;
+	}
+	
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+		    margin-top: 56px;
+   			margin-left: -115px;
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+		    margin-top: 56px;
+    		margin-left: -95px;
+	}
+	
+
+	.SubBtn{
+		
+		height: 70px;
+		float: left;
+		font-size: 28px;
+		
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    		margin-left: 1%;
+	}
+
+
+}
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+  @media (min-width: 1801px) and (max-width: 2000px) and (orientation:landscape)
+{
+
+	.buttons1{
+	 
+	height: 75px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 105px;
+    background: white;
+}
+
+
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:35px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size:65px;
+		    margin-top:15px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		    margin-left: -22px;
+   		 	margin-top: -15px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		    margin-left: -22px;
+    		margin-top: -15px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+		    margin-left: -22px;
+   		 	margin-top: -15px;
+	}
+	
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		    margin-left: -22px;
+    		margin-top: -15px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		    margin-left: -22px;
+    		margin-top: -15px;
+	}
+	
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+		    margin-top: 65px;
+   			margin-left: -125px;
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+		    margin-top: 70px;
+    		margin-left: -50px;
+	}
+	
+
+	.SubBtn{
+		
+		height: 80px;
+		float: left;
+		font-size:32px;
+		
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left:12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    		margin-left: 1%;
+	}
+
+
+
+}
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+  @media (min-width: 2001px) and (orientation:landscape)
+{
+	
+	.buttons1{
+	 
+	height: 65px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 95px;
+    background: white;
+}
+
+
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:30px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size:60px;
+		    margin-top:10px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		    margin-left: -18px;
+   		 	margin-top: -10px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+		    margin-left: -18px;
+   		 	margin-top: -10px;
+	}
+	
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+		    margin-top: 56px;
+   			margin-left: -115px;
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+		    margin-top: 56px;
+    		margin-left: -95px;
+	}
+	
+
+	.SubBtn{
+		
+		height: 70px;
+		float: left;
+		font-size: 28px;
+		
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    		margin-left: 1%;
+	}
+
+
+	
+
+}
+
+.FloatLeft 
+{
+	float:left;
+}
