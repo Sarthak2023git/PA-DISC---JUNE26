@@ -1,0 +1,3331 @@
+.MainBtnTable{
+	height:100%;
+	width:100%;
+}
+
+.MainBtnTable td{
+vertical-align:middle;
+}
+
+
+.link1,.link2{
+	
+	color:black;
+	
+}
+
+
+.title{
+	float:left;
+	width:45%;
+}
+
+.button {
+   border: 1px solid #6ea4be;
+   background: #f7f5ed;
+   background: -webkit-gradient(linear, left top, left bottom, from(#f7f5ed), to(#f7f5ed));
+   background: -webkit-linear-gradient(top, #f7f5ed, #f7f5ed);
+   background: -moz-linear-gradient(top, #f7f5ed, #f7f5ed);
+   background: -ms-linear-gradient(top, #f7f5ed, #f7f5ed);
+   background: -o-linear-gradient(top, #f7f5ed, #f7f5ed);
+   background-image: -ms-linear-gradient(top, #f7f5ed 0%, #f7f5ed 100%);
+   padding: 3.5px 21px;
+   -webkit-border-radius: 0px;
+   -moz-border-radius: 0px;
+   border-radius: 0px;
+   -webkit-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+   -moz-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+   box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+   text-shadow: #7ea4bd 0 1px 0;
+   color: #e60303;
+   font-size: 16px;
+   font-family: helvetica, serif;
+   text-decoration: none;
+   vertical-align: middle;
+   font-weight:bold;
+  
+   }
+
+
+.content1_css1,.content2_css1,.content3_css1,.content4_css1,.content5_css1,.content6_css1,.content7_css1,.content9_css1{
+	width:100%;
+	 display:inline-block;
+	 float:left;
+	
+	
+	}
+	.content8_css1{
+		width:80%;
+	 display:inline-block;
+	 float:left;
+		}
+	
+	
+	
+	
+	.content2_css1,.content3_css1,.content4_css1,.content5_css1,.content6_css1,.content7_css1,.content8_css1,.content9_css1{
+	margin-top:6px;
+	
+	
+	}
+	.content8_css1{
+		
+		text-align:center;
+		}
+	
+	
+	.content2_css1_a{
+		
+		width:40%;
+	 display:inline-block;
+	 float:left;
+		}
+		.content2_css1_b{
+		
+		width:60%;
+	 display:inline-block;
+	 float:left;
+		}
+		
+		.content2_css1_b1{
+			width:33%;
+	 display:inline-block;
+	 float:left;
+			
+			}
+			
+			.table1{
+				
+				width:80%;
+				}
+				.no_rap{
+					white-space:nowrap;
+					
+					}
+				.content1_css2_1,.content2_css2_1,.content4_css2_1,.content5_css2_1,.content7_css2_1,.content8_css2_1{
+					width:100%;
+					display:inline-block;
+					float:left;
+					
+					}
+					
+					.content6_css2_1{
+						width:70%;
+					display:inline-block;
+					float:left;
+					margin-left:22%;
+						}
+					.content3_css2_1{
+							width:80%;
+					display:inline-block;
+					float:left;
+						}
+					
+					
+					
+					.content2_css2_1,.content3_css2_1,.content4_css2_1,.content5_css2_1,.content6_css2_1,.content7_css2_1,.content8_css2_1{
+					margin-top:10px;
+					
+					}
+					
+					.table_2{
+						width:80%;
+						}
+				.content3_css2_1{
+					text-align:center;}
+				
+				
+				
+				.content1_css2_2,.content3_css2_2,.content4_css2_2,.content6_css2_2{
+					
+					width:100%;
+					display:inline-block;
+					float:left;}
+					
+					.content5_css2_2{
+					width:70%;
+					display:inline-block;
+					float:left;
+					margin-left:22%;}
+					.content2_css2_2{
+						width:80%;
+					display:inline-block;
+					float:left;
+						
+						}
+					
+					
+					
+					
+					.table2_1{
+						width:75%;}
+						
+						.content2_css2_2,.content3_css2_2,.content4_css2_2,.content5_css2_2,.content6_css2_2{
+							margin-top:7px;
+							}
+							
+				.content1_css3,.content4_css3{
+					
+					width:100%;
+					display:inline-block;
+					float:left;
+					
+					}
+					.content2_css3,.content3_css3,.content5_css3,.content6_css3,.content7_css3,.content8_css3,.content9_css3,.content10_css3{
+							width:95%;
+					display:inline-block;
+					float:left;
+					margin-left:5%;
+						}
+				.content2_css3,.content3_css3,.content5_css3,.content7_css3,.content9_css3,.content4_css3{
+					
+					margin-top:25px;}
+					.content6_css3,.content8_css3,.content10_css3{
+						margin-top:10px;}
+					
+					
+					
+				.table_3_1{
+					width:88%;}
+					.content4_css3{
+						
+						text-align:center;}
+				
+				
+				.content1_css4,.content2_css4,.content3_css4,.content4_css4,.content6_css4,.content7_css4,.content8_css4,.content9_css4,.content10_css4{
+					
+					width:100%;
+					display:inline-block;
+					float:left;}
+				
+				.po_neg{
+					width:70%;
+					}
+					.content1_css4{
+						text-align:center;
+						}
+				.content5_css4{
+					width:50%;
+					display:inline-block;
+					float:left;
+					border:2px solid #F06;
+					box-shadow: 4px 2px 2px #AEAEAE;
+					margin-left:20%;
+					text-align: center;
+    height: 40px;
+    padding-top: 10px;
+					}
+				.content5_css4,.content2_css4,.content3_css4,.content4_css4,.content6_css4,.content7_css4,.content8_css4,.content9_css4,.content10_css4{
+					margin-top:8px;
+					
+					}
+				
+			
+					.content10_css41{
+						width:55%;
+					display:inline-block;
+					float:left;
+						}
+						.content10_css42{
+						width:30%;
+					display:inline-block;
+					float:left;
+					padding-left: 125px;
+}
+					
+				.note1{
+					
+					width: 25%;
+    height: 30px;}
+	
+	.note2{
+					
+					width: 12%;
+    height: 30px;
+	cursor:pointer;
+	}
+	
+	.content12_css71{
+		
+		width:5%;
+		float:left;
+		display:inline-block;}
+		.content12_css72{
+		
+		width:95%;
+		float:left;
+		display:inline-block;}
+	
+	
+	
+	
+	.note1:hover, .buuton_2:hover{
+		background-image: linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -o-linear-gradient(top, #fff) 0%, #ffb380 100%);
+	background-image: -moz-linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -webkit-linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -ms-linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -webkit-gradient( linear, left top, left button, color-stop(0, #fff), color-stop(1, #ffb380) );
+	cursor:pointer;
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='white', endColorstr='#ffb380',GradientType=0 );
+	box-shadow:none;
+}
+.note1:active, .buuton_2:hover{
+		background-image: linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -o-linear-gradient(bottom, #fff) 0%, #ffb380 100%);
+	background-image: -moz-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -webkit-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -ms-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -webkit-gradient( linear, left bottom, left top, color-stop(0, #fff), color-stop(1, #ffb380) );
+	-webkit-transform: translate(0, 2px);
+	-moz-transform: translate(0, 2px);
+	-ms-transform: translate(0, 2px);
+	transform: translate(0, 2px);
+	box-shadow:none;
+}
+
+
+.note_1{
+	border:1px solid #f06;
+	width:85%;
+	height:306px;
+	margin-left:5%;
+	  margin-top:10px;
+	
+	}
+	
+	.note_2{
+	border:1px solid #f06;
+	width:85%;
+	height:306qpx;
+	margin-left:7%;
+	  margin-top:10px;
+	
+	}
+	.table_note{
+		width:100%;
+		}
+	.button_2 {
+    width: 50%;
+    height: 30px;
+}
+	
+	
+	.text_rig{
+		text-align:right;
+		}
+	
+	
+	.crossImg1,.crossImg2{
+		
+		width:3%;
+		}
+	
+	.not_1{
+		width:100%;
+		float:left;
+		display:inline-block;
+		
+		
+		
+		}
+		.h2_1{
+				width:40%;
+		float:left;
+		display:inline-block;
+		font-size:16px;
+		margin-left:5%
+			}
+	
+	.image11{
+		width:100%;
+		float:left;
+		display:inline-block;
+		text-align:right
+		}
+	
+	
+	
+	.not_2,.not_3,.not_4,.not_5,.not_6,.not_7,.not_8,.not_9{
+		width:85%;
+		float:left;
+		display:inline-block;
+		font-size:19px;
+		margin-left:8%;
+		margin-top:3px;
+		
+		
+		
+		}
+		
+		.note3_1,.note3_3{
+			width:33%;
+		float:left;
+		display:inline-block;
+		text-align:center;
+			
+			}
+			.arrow1{
+				width:100%;}
+.note3_2{
+	width:20%;
+    display:inline-block;
+	float:left;
+	}
+			.note4_1,.note4_2{
+		width:50%;
+		float:left;
+		display:inline-block;
+		text-align:center;
+				}
+		
+		
+		
+	.not_51,.not_52,.not_61,.not_62,.not_71,.not_72,.not_81,.not_82{
+		
+		width:50%;
+		float:left;
+		display:inline-block;
+		
+		}
+	
+	.content1_css5,.content3_css5,.content4_css5,.content5_css5,.content6_css5{
+		
+		width:100%;
+		float:left;
+		display:inline-block;
+		
+		}
+		
+		.content7_css5{
+			width:70%;
+		float:left;
+		display:inline-block;
+		margin-left:30%;
+			
+			}
+			
+			
+			.content2_css5,.content3_css5,.content4_css5,.content5_css5,.content6_css5,.content7_css5{
+				
+				margin-top:9px;
+				}
+		
+		
+	.content2_css5{
+		width:70%;
+		display:inline-block;
+		float:left;
+		margin-left:10%;
+		
+		/*height:370px;*/
+		
+		}
+		
+		
+		
+		
+	.visbility_hidd{
+		visibility:hidden;}
+	
+	.content2_css51,.content2_css52,.content2_css53,.content2_css54,.content2_css55,.content2_css56{
+		width:100%;
+		display:inline-block;
+		float:left;
+	  border:1px solid #f06;
+		
+		
+		}
+		
+		
+		.content2_css52,.content2_css53,.content2_css54,.content2_css55,.content2_css55{
+		width:100%;
+		display:inline-block;
+		float:left;
+		
+		;
+		
+		
+		
+		}
+	
+	.content2_css51_1{
+		
+		width:33%;
+		display:inline-block;
+		float:left;
+		text-align:center;
+		
+		}
+		
+		.content6_css51{
+			
+			width:30%;
+		display:inline-block;
+		float:left;
+			}
+			
+			.content6_css52{
+			
+			width:70%;
+		display:inline-block;
+		float:left;
+			}
+		
+		
+         .content1_css6,.content3_css6,.content4_css6,.content5_css6,.content6_css6,.content7_css6{
+			width:100%;
+		display:inline-block;
+		float:left;
+			
+			}
+			
+		
+				.content1_css6{
+					width:65%;
+					display:inline-block;
+		float:left;
+				margin-left:10%;
+					}
+					
+			.content3_css6,.content4_css6,.content5_css6,.content7_css6{
+				
+				margin-top:0px;}
+				
+				
+				.content6_css6{
+					margin-top:5px;}
+		.table6_1{
+			width:100%;
+			
+			}
+		.content1_css6{
+			
+			text-align:center;
+			}
+		
+		.content5_css61{
+			width:40%;
+			display:inline-block;
+			float:left;
+			}
+			
+			
+			.content5_css62{
+			width:10%;
+			display:inline-block;
+			float:left;
+			}
+			
+			.content5_css63{
+			width:40%;
+			display:inline-block;
+			float:left;
+			}
+		.table{
+			
+			width:100%;}
+	
+	.content5_css611{
+		width:42%;
+		display:inline-block;
+			float:left;
+			text-align:center;
+		}
+		
+		.content5_css612{
+		width:20%;
+		display:inline-block;
+			float:left;
+			text-align:center;
+		}
+	.content5_css613{
+		width:20%;
+		display:inline-block;
+			float:left;
+			text-align:center;
+		}
+	.padd_1{
+		
+		padding-top:20px;}
+	
+	.content2_css6_1,.content3_css6_1,.content4_css6_1,.content5_css6_1,.content6_css6_1,.content7_css6_1,.content8_css6_1{
+		width:100%;
+		display:inline-block;
+			float:left;
+		
+		}
+		
+		.content1_css6_1{
+			width:90%;
+		display:inline-block;
+			float:left;
+			text-align:center;
+			
+			}
+		
+		.content2_css6_1,.content3_css6_1,.content4_css6_1,.content5_css6_1,.content6_css6_1,.content7_css6_1,.content8_css6_1{
+			
+			margin-top:6px;}
+		
+		
+		.table6_2{
+			
+			width:75%;}
+		
+		
+		
+		.content1_css7,.content2_css7,.content3_css7,.content4_css7,.content5_css7,.content6_css7,.content7_css7,.content8_css7,.content11_css7,.content12_css7,.content13_css7,.content14_css7{
+			width:100%;
+		display:inline-block;
+			float:left;
+			}
+			
+			.content9_css7{
+				width:100%;
+		display:inline-block;
+			float:left;
+				}
+			
+			.content2_css7,.content3_css7,.content4_css7,.content5_css7,.content6_css7,.content7_css7,.content8_css7,.content9_css7,.content11_css7,.content12_css7,.content13_css7,.content14_css7,.content10_css7
+			{margin-top:15px;}
+			
+			.content10_css7{
+			width:100%;
+		display:inline-block;
+			float:left;
+
+			}
+			
+			.content2_css2_2{text-align:center;}
+			
+		.content6_css71,.content6_css72{
+			width:50%;
+		display:inline-block;
+			float:left;
+			text-align:center;
+			}
+		.text{
+			width:70%;
+			}
+		
+		.content14_css71{
+			width:70%;
+		display:inline-block;
+			float:left;
+			}
+			
+			.content14_css72{
+			width:22%;
+		display:inline-block;
+			float:left;
+			text-align:right;
+			}
+		
+	.note_2{
+		
+		display:none;}
+		
+		
+		
+		.content14_css71{
+			
+			
+			width:90%;
+			display:inline-block;
+			float:left;}
+		
+		
+		
+		
+				/*this is button section */
+				
+				.buttons1{
+	width:75%;
+	display:inline-block;
+	margin-left:0%;
+}
+				.buttons1{
+	width:73%;
+position:absolute;
+margin-left: -10px;
+}
+
+.SubBtn{
+	display: inline-block;
+	color: black;
+	font-weight: bold;
+	background-color: #ffb380;
+	background-image: linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -o-linear-gradient(bottom, #fff) 0%, #ffb380 100%);
+	background-image: -moz-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -webkit-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -ms-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -webkit-gradient( linear, left bottom, left top, color-stop(0, #fff), color-stop(1, #ffb380) );
+   -webkit-transition: all 0s ease-in-out;
+   -moz-transition: all 0s ease-in-out;
+    transition: all 0s ease-in-out;
+	-webkit-transform: rotateX(20deg);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffb380', endColorstr='white',GradientType=0 );
+	box-shadow:none;
+				
+}
+.SubBtn:hover{
+		background-image: linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -o-linear-gradient(top, #fff) 0%, #ffb380 100%);
+	background-image: -moz-linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -webkit-linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -ms-linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -webkit-gradient( linear, left top, left button, color-stop(0, #fff), color-stop(1, #ffb380) );
+	cursor:pointer;
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='white', endColorstr='#ffb380',GradientType=0 );
+	box-shadow:none;
+}
+.SubBtn:active{
+		background-image: linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -o-linear-gradient(bottom, #fff) 0%, #ffb380 100%);
+	background-image: -moz-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -webkit-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -ms-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -webkit-gradient( linear, left bottom, left top, color-stop(0, #fff), color-stop(1, #ffb380) );
+	-webkit-transform: translate(0, 2px);
+	-moz-transform: translate(0, 2px);
+	-ms-transform: translate(0, 2px);
+	transform: translate(0, 2px);
+	box-shadow:none;
+}
+
+
+
+
+
+
+
+.foont_size{
+	
+	font-size:30px;}
+
+
+.ml_1{
+	
+	
+	margin-left:-18px;}
+
+.forScroll{
+	cursor:pointer;}
+
+.content1_1{
+	width:100%;
+	display:inline-block;
+	float:left;}
+
+
+.content1_2{
+	width:70%;
+	display:inline-block;
+	float:left;
+	margin-left:15%;
+	margin-top:30px;
+	}
+	
+	.content2_1,.content2_3,.content2_5{
+		width:100%;
+	display:inline-block;
+	float:left;
+	
+
+		}
+		
+	.content2_2,.content2_4{
+		width:70%;
+	display:inline-block;
+	float:left;
+	margin-left:15%;
+
+		}.content2_3,.content2_5,.content2_2,.content2_4{
+			margin-top:5px;}
+			
+			.content3_1{
+					width:100%;
+	display:inline-block;
+	float:left;
+				}
+				
+				
+				.content3_2,.content3_3,.content3_4{
+					width:70%;
+	display:inline-block;
+	float:left;
+	margin-left:15%;
+	
+				}
+				
+				.content3_2,.content3_3,.content3_4{
+				margin-top:10px;
+				}
+				
+				.content4_1,.content4_2,.content4_3{
+					
+					width:100%;
+	display:inline-block;
+	float:left;
+					}
+					
+					
+				.content4_2,.content4_3{
+				margin-top:10px
+					}
+
+
+/*.content8_css8,.content8_css9{visibility:hidden;}
+*/
+
+
+/*// Small devices (landscape phones, 576px and up)*/
+.less{width:80%;}
+
+.left{margin-left:10%;}
+
+.wrap{
+	white-space:nowrap;	}
+
+.Content16_8,.Content16_9,.Content16_10{font-size:95%;}  
+
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+@media (min-width: 450px) and (max-width: 574px) and (orientation:landscape){ 
+.buttons1 {
+    height: 23px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 35px;
+    background: white;
+}
+	.tickA{
+		position:absolute;
+		color:#090;
+       font-size:8px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 18px;
+   
+	}
+	
+	.tick21,.tick22{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick31,.tick32,.tick33{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick41,.tick42,.tick43,.tick44{
+		
+	    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick51,.tick52,.tick53,.tick54,.tick55{
+		
+		     margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick61,.tick62,.tick63,.tick64,.tick65,.tick66{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	
+	.hand51,.hand52,.hand53,.hand54,.hand55{
+		
+  margin-top: 16px;
+    margin-left: -35px;
+	}
+	.hand61,.hand62,.hand63,.hand64,.hand65,.hand66{
+		
+		  margin-top: 16px;
+   		  margin-left: -35px;
+	}
+	.SubBtn{
+		height: 12px;
+		float: left;
+		font-size: 6px;
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+	
+	
+	
+	
+	
+	
+	.title{
+	float:left;
+	width:64%;
+	
+}
+.button {
+	font-size:6px;
+	font-family: "Times New Roman", Times, serif;
+	padding: 1px 2px;
+	float:left;
+
+}
+.link{
+	float:left;
+	padding-top:0%;
+	margin-top:0px;
+}
+
+
+.note3_1,.note3_3{
+			width:35%;
+		float:left;
+		display:inline-block;
+		text-align:center;
+			
+			}	
+	
+	
+	.note2 {
+    width: 18%;
+    height: 14px;
+}
+
+.font_aswome{
+	
+	font-size:10px;}
+	
+.h2_1 {
+    width: 40%;
+    float: left;
+    display: inline-block;
+    font-size: 7px;
+    margin-left: 5%;
+}
+
+
+
+.not_2, .not_3, .not_4, .not_5, .not_6, .not_7, .not_8, .not_9 {
+    width: 90%;
+    float: left;
+    display: inline-block;
+    font-size: 9px;
+    margin-left: 5%;
+    margin-top: 3px;
+}
+
+
+.note_2 {
+    border: 1px solid #f06;
+    width: 85%;
+    height: 156px;
+    margin-left: 7%;
+}
+
+.crossImg1, .crossImg2 {
+    width: 6%;
+}
+
+.content5_css4 {
+    width: 70%;
+    display: inline-block;
+    float: left;
+    border: 2px solid #f06;
+    box-shadow: 4px 2px 2px #;
+    margin-left: 15%;
+    text-align: center;
+    height: 18px;
+    padding-top: 7px;
+}
+
+
+.content10_css42 {
+    width: 30%;
+    display: inline-block;
+    float: left;
+    padding-left: 55px;
+}
+
+.note1 {
+    width: 42%;
+    height: 18px;
+	font-size:9px;
+}
+.note_1 {
+    border: 1px solid #f06;
+    width: 85%;
+    height: 177px;
+    margin-left: 7%;
+}
+
+
+.content2_css5 {
+    width: 80%;
+    display: inline-block;
+    float: left;
+    margin-left: 10%;
+  
+}
+.content2_css1, .content3_css1, .content4_css1, .content5_css1, .content6_css1, .content7_css1, .content8_css1, .content9_css1 {
+    margin-top: 10px;
+}
+
+.content2_css2_1, .content3_css2_1, .content4_css2_1, .content5_css2_1, .content6_css2_1, .content7_css2_1, .content8_css2_1 {
+    margin-top: 10px;
+}
+.content2_css2_2, .content3_css2_2, .content4_css2_2, .content5_css2_2, .content6_css2_2 {
+    margin-top: 10px;
+}
+
+.content2_css3, .content3_css3, .content5_css3, .content6_css3, .content7_css3, .content8_css3, .content9_css3, .content10_css3, .content4_css3 {
+    margin-top: 10px;
+}
+.content5_css4, .content2_css4, .content3_css4, .content4_css4, .content6_css4, .content7_css4, .content8_css4, .content9_css4, .content10_css4 {
+    margin-top: 10px;
+}
+
+
+.content2_css51, .content2_css52, .content2_css53, .content2_css54, .content2_css55, .content2_css56 {
+    width: 100%;
+    display: inline-block;
+    float: left;
+    border: 1px solid #f06;
+}
+
+
+.content2_css5, .content3_css5, .content4_css5, .content5_css5, .content6_css5, .content7_css5 {
+    margin-top:2px;
+}
+
+.content3_css6, .content4_css6, .content5_css6, .content6_css6, .content7_css6{
+	margin-top:10px;}
+	
+	.content2_css6_1, .content3_css6_1, .content4_css6_1, .content5_css6_1, .content6_css6_1, .content7_css6_1, .content8_css6_1 {
+    margin-top: 10px;
+}
+
+.content2_css7, .content3_css7, .content4_css7, .content5_css7, .content6_css7, .content7_css7, .content8_css7, .content9_css7, .content11_css7, .content12_css7, .content13_css7, .content14_css7, .content10_css7 {
+    margin-top: 10px;
+}
+
+.foont_size {
+    font-size: 20px;
+}
+.ml_1 {
+    margin-left: -6px;
+}
+
+.content1_2{
+	width:70%;
+	display:inline-block;
+	float:left;
+	margin-left:15%;
+	margin-top:5px;
+	}
+.content10_css41 {
+    width: 52%;
+    display: inline-block;
+    float: left;
+}
+}
+
+
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+@media (min-width: 575px) and (max-width: 675px) and (orientation:landscape){ 
+
+.buttons1 {
+    height: 31px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 43px;
+    background: white;
+}
+.SubBtn{
+		    height: 20px;
+    float: left;
+    font-size: 8px;
+	}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:11px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 22px;
+   
+	}
+	
+	.tick21,.tick22{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick31,.tick32,.tick33{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick41,.tick42,.tick43,.tick44{
+		
+	    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick51,.tick52,.tick53,.tick54,.tick55{
+		
+		     margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick61,.tick62,.tick63,.tick64,.tick65,.tick66{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+		
+	.hand51,.hand52,.hand53,.hand54,.hand55{
+		
+ 	margin-top: 23px;
+    margin-left: -48px;
+	
+	}
+	.hand61,.hand62,.hand63,.hand64,.hand65,.hand66{
+		
+ 	margin-top: 23px;
+    margin-left: -41px;
+	
+	}
+
+	
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+	
+	.content5_css4 {
+    width: 65%;
+    display: inline-block;
+    float: left;
+    border: 2px solid #f06;
+    box-shadow: 4px 2px 2px #aeaeae;
+    margin-left: 15%;
+    text-align: center;
+    height: 24px;
+    padding-top: 10px;
+}
+.content2_css5 {
+    width: 75%;
+    display: inline-block;
+    float: left;
+    margin-left: 10%;
+  
+}
+.note1 {    width: 50%;
+    height: 20px;
+    font-size: 10px;
+}
+.content10_css41{
+						width:31%;
+					display:inline-block;
+					float:left;
+						}
+						.content10_css42{
+						width:30%;
+					display:inline-block;
+					float:left;
+					
+}
+
+.note_1{
+	border:1px solid #f06;
+	width:85%;
+	height:200px;
+	margin-left:7%;
+	  
+	
+	}
+	.not_2, .not_3, .not_4, .not_5, .not_6, .not_7, .not_8, .not_9 {
+    width: 80%;
+    float: left;
+    display: inline-block;
+    font-size: 10px;
+    margin-left: 13%;
+    margin-top: 3px;
+}
+.h2_1 {
+    width: 40%;
+    float: left;
+    display: inline-block;
+    font-size: 10px;
+    margin-left: 5%;
+}
+.crossImg1, .crossImg2 {
+    width: 5%;
+}
+.note2 {
+    width: 18%;
+    height: 14px;
+}
+.content14_css71 {
+    width: 75%;
+    display: inline-block;
+    float: left;
+}
+
+.note_2 {
+    border: 1px solid #f06;
+    width: 85%;
+    height: 200px;
+    margin-left: 7%;
+}
+
+
+
+.title{
+	float:left;
+	width:55%;
+	
+}
+.button {
+	font-size:8px;
+	font-family: "Times New Roman", Times, serif;
+	padding: 1px 2px;
+	float:left;
+
+}
+.link{
+	float:left;
+	padding-top:0%;
+	margin-top:1px;
+}
+
+
+
+
+
+
+
+.content2_css1, .content3_css1, .content4_css1, .content5_css1, .content6_css1, .content7_css1, .content8_css1, .content9_css1 {
+    margin-top: 4px;
+}
+
+.content2_css2_1, .content3_css2_1, .content4_css2_1, .content5_css2_1, .content6_css2_1, .content7_css2_1, .content8_css2_1 {
+    margin-top: 4px;
+}
+.content2_css2_2, .content3_css2_2, .content4_css2_2, .content5_css2_2, .content6_css2_2 {
+    margin-top: 5px;
+}
+
+.content2_css3, .content3_css3, .content5_css3, .content6_css3, .content7_css3, .content8_css3, .content9_css3, .content10_css3, .content4_css3 {
+    margin-top: 5px;
+}
+.content5_css4, .content2_css4, .content3_css4, .content4_css4, .content6_css4, .content7_css4, .content8_css4, .content9_css4, .content10_css4 {
+    margin-top: 10px;
+}
+
+
+.content2_css51, .content2_css52, .content2_css53, .content2_css54, .content2_css55, .content2_css56 {
+    width: 100%;
+    display: inline-block;
+    float: left;
+    border: 1px solid #f06;
+}
+
+
+.content2_css5, .content3_css5, .content4_css5, .content5_css5, .content6_css5, .content7_css5 {
+    margin-top: 10px;
+}
+
+.content3_css6, .content4_css6, .content5_css6, .content6_css6, .content7_css6{
+	margin-top:10px;}
+	
+	.content2_css6_1, .content3_css6_1, .content4_css6_1, .content5_css6_1, .content6_css6_1, .content7_css6_1, .content8_css6_1 {
+    margin-top: 5px;
+}
+
+.content2_css7, .content3_css7, .content4_css7, .content5_css7, .content6_css7, .content7_css7, .content8_css7, .content9_css7, .content11_css7, .content12_css7, .content13_css7, .content14_css7, .content10_css7 {
+    margin-top: 5px;
+}
+
+
+
+
+.foont_size {
+    font-size: 26px;
+}
+
+.ml_1 {
+    margin-left: -6px;
+}
+
+
+
+
+.content5_css611 {
+    width: 52%;
+    display: inline-block;
+    float: left;
+    text-align: center;
+}
+
+
+
+
+}
+ /*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+@media (min-width: 676px) and (max-width: 775px) and (orientation:landscape){ 
+.SpaceBarButton{
+	width:95%;
+	}
+.buttons1 {
+    height: 42px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 46px;
+    background: white;
+}
+
+.SubBtn{
+		      height: 30px;
+    float: left;
+    font-size: 11px;
+	}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:15px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 27px;
+   
+	}
+	
+	.tick21,.tick22{
+		
+		       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick31,.tick32,.tick33{
+		
+		     margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick41,.tick42,.tick43,.tick44{
+		
+	       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick51,.tick52,.tick53,.tick54,.tick55{
+		
+		        margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick61,.tick62,.tick63,.tick64,.tick65,.tick66{
+		
+		       margin-left: -10px;
+    margin-top: -3px;
+	}
+	
+	.hand51,.hand52,.hand53,.hand54,.hand55{
+		
+ 	margin-top: 28px;
+    margin-left: -58px;
+	
+	}
+	.hand61,.hand62,.hand63,.hand64,.hand65,.hand66{
+		
+ 	    margin-top: 28px;
+    margin-left: -47px;
+	
+	}
+	
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+	
+	
+	
+	.content5_css4 {
+    width: 65%;
+    display: inline-block;
+    float: left;
+    border: 2px solid #f06;
+    box-shadow: 4px 2px 2px #aeaeae;
+    margin-left: 13%;
+    text-align: center;
+    height: 25px;
+    padding-top: 10px;
+}
+
+.content10_css42 {
+    width: 30%;
+    display: inline-block;
+    float: left;
+    padding-left: 70px;
+}
+
+.note1 {
+    width: 43%;
+    height: 15px;
+}
+.h2_1 {
+    width: 40%;
+    float: left;
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 5%;
+}
+.crossImg1, .crossImg2 {
+    width: 4%;
+}
+
+.not_2, .not_3, .not_4, .not_5, .not_6, .not_7, .not_8, .not_9 {
+    width: 80%;
+    float: left;
+    display: inline-block;
+    font-size: 13px;
+    margin-left: 13%;
+    margin-top: 3px;
+}
+
+.note_1 {
+    border: 1px solid #f06;
+    width: 85%;
+    height: 245px;
+    margin-left: 7%;
+}
+
+.content2_css5 {
+    width: 75%;
+    display: inline-block;
+    float: left;
+    margin-left: 10%;
+   
+}
+.note2 {
+    width: 16%;
+    height: 16px;
+    font-size: 11px;
+}	
+
+.note_2 {
+    border: 1px solid #f06;
+    width: 85%;
+    height: 225px;
+    margin-left: 7%;
+}
+	
+	
+.title{
+	float:left;
+	width:55%;
+	
+}
+.button {
+	font-size:11px;
+	font-family: "Times New Roman", Times, serif;
+	padding: 1px 2px;
+	float:left;
+
+}
+.link{
+	float:left;
+	padding-top:0%;
+	margin-top:1px;
+}
+	
+	
+	.content5_css611 {
+    width: 53%;
+    display: inline-block;
+    float: left;
+    text-align: center;
+}
+	
+	
+	
+	
+	
+	.content2_css1, .content3_css1, .content4_css1, .content5_css1, .content6_css1, .content7_css1, .content8_css1, .content9_css1 {
+    margin-top: 5px;
+}
+
+.content2_css2_1, .content3_css2_1, .content4_css2_1, .content5_css2_1, .content6_css2_1, .content7_css2_1, .content8_css2_1 {
+    margin-top: 5px;
+}
+.content2_css2_2, .content3_css2_2, .content4_css2_2, .content5_css2_2, .content6_css2_2 {
+    margin-top: 5px;
+}
+
+.content2_css3, .content3_css3, .content5_css3, .content6_css3, .content7_css3, .content8_css3, .content9_css3, .content10_css3, .content4_css3 {
+    margin-top: 10px;
+}
+.content5_css4, .content2_css4, .content3_css4, .content4_css4, .content6_css4, .content7_css4, .content8_css4, .content9_css4, .content10_css4 {
+    margin-top: 10px;
+}
+
+
+.content2_css51, .content2_css52, .content2_css53, .content2_css54, .content2_css55, .content2_css56 {
+    width: 100%;
+    display: inline-block;
+    float: left;
+    border: 1px solid #f06;
+}
+
+
+.content2_css5, .content3_css5, .content4_css5, .content5_css5, .content6_css5, .content7_css5 {
+    margin-top: 10px;
+}
+
+.content3_css6, .content4_css6, .content5_css6, .content6_css6, .content7_css6{
+	margin-top:10px;}
+	
+	.content2_css6_1, .content3_css6_1, .content4_css6_1, .content5_css6_1, .content6_css6_1, .content7_css6_1, .content8_css6_1 {
+    margin-top: 10px;
+}
+
+.content2_css7, .content3_css7, .content4_css7, .content5_css7, .content6_css7, .content7_css7, .content8_css7, .content9_css7, .content11_css7, .content12_css7, .content13_css7, .content14_css7, .content10_css7 {
+    margin-top: 10px;
+}
+
+
+	
+	.foont_size {
+    font-size: 32px;
+}
+
+.ml_1 {
+    margin-left: -8px;
+}
+	
+	
+	
+	
+	
+	
+}
+ /*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 776px) and (max-width: 876px) and (orientation:landscape)
+{
+
+.buttons1 {
+    height: 46px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 56px;
+    background: white;
+}
+
+
+.SubBtn{
+    height: 35px;
+    float: left;
+    font-size: 12px;
+	}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:15px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 30px;
+   
+	}
+	
+	.tick21,.tick22{
+		
+	margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick31,.tick32,.tick33{
+		
+		     margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick41,.tick42,.tick43,.tick44{
+		
+	       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick51,.tick52,.tick53,.tick54,.tick55{
+		
+		        margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick61,.tick62,.tick63,.tick64,.tick65,.tick66{
+		
+		       margin-left: -10px;
+    margin-top: -3px;
+	}
+	
+	.hand51,.hand52,.hand53,.hand54,.hand55{
+		
+ 	margin-top: 31px;
+    margin-left: -65px;
+	
+	}
+	.hand61,.hand62,.hand63,.hand64,.hand65,.hand66{
+		
+ 	     margin-top: 31px;
+    margin-left: -52px;
+
+	
+	}
+	
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+	
+	
+	.content5_css4 {
+    width: 70%;
+    display: inline-block;
+    float: left;
+    border: 2px solid #f06;
+    box-shadow: 4px 2px 2px #aeaeae;
+    margin-left: 15%;
+    text-align: center;
+    height: 33px;
+    padding-top: 10px;
+}
+
+
+
+.note1 {
+    width: 40%;
+    height: 22px;
+}
+
+
+.content10_css42 {
+    width: 30%;
+    display: inline-block;
+    float: left;
+    padding-left: 90px;
+}
+
+
+
+.not_2, .not_3, .not_4, .not_5, .not_6, .not_7, .not_8, .not_9 {
+    width: 80%;
+    float: left;
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 13%;
+    margin-top: 3px;
+}
+
+
+.h2_1 {
+    width: 40%;
+    float: left;
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 5%;
+}
+
+
+.crossImg1, .crossImg2 {
+    width: 4%;
+}
+
+
+.content2_css5 {
+    width: 81%;
+    display: inline-block;
+    float: left;
+    margin-left: 10%;
+ 
+}
+
+.note2 {
+    width: 20%;
+    height: 23px;
+}
+
+
+.title{
+	float:left;
+	width:55%;
+	
+}
+.button {
+	font-size:13px;
+	font-family: "Times New Roman", Times, serif;
+	padding: 1px 2px;
+	float:left;
+
+}
+.link{
+	float:left;
+	padding-top:0%;
+	margin-top:1px;
+}
+
+
+
+
+
+.content2_css1, .content3_css1, .content4_css1, .content5_css1, .content6_css1, .content7_css1, .content8_css1, .content9_css1 {
+    margin-top: 7px;
+}
+
+.content2_css2_1, .content3_css2_1, .content4_css2_1, .content5_css2_1, .content6_css2_1, .content7_css2_1, .content8_css2_1 {
+    margin-top: 7px;
+}
+.content2_css2_2, .content3_css2_2, .content4_css2_2, .content5_css2_2, .content6_css2_2 {
+    margin-top: 7px;
+}
+
+.content2_css3, .content3_css3, .content5_css3, .content6_css3, .content7_css3, .content8_css3, .content9_css3, .content10_css3, .content4_css3 {
+    margin-top: 10px;
+}
+.content5_css4, .content2_css4, .content3_css4, .content4_css4, .content6_css4, .content7_css4, .content8_css4, .content9_css4, .content10_css4 {
+    margin-top: 10px;
+}
+
+
+.content2_css51, .content2_css52, .content2_css53, .content2_css54, .content2_css55, .content2_css56 {
+    width: 100%;
+    display: inline-block;
+    float: left;
+    border: 1px solid #f06;
+}
+
+
+.content2_css5, .content3_css5, .content4_css5, .content5_css5, .content6_css5, .content7_css5 {
+    margin-top: 15px;
+}
+
+.content3_css6, .content4_css6, .content5_css6, .content6_css6, .content7_css6{
+	margin-top:15px;}
+	
+	.content2_css6_1, .content3_css6_1, .content4_css6_1, .content5_css6_1, .content6_css6_1, .content7_css6_1, .content8_css6_1 {
+    margin-top: 15px;
+}
+
+.content2_css7, .content3_css7, .content4_css7, .content5_css7, .content6_css7, .content7_css7, .content8_css7, .content9_css7, .content11_css7, .content12_css7, .content13_css7, .content14_css7, .content10_css7 {
+    margin-top: 15px;
+}
+
+.foont_size {
+    font-size: 34px;
+}
+
+.ml_1 {
+    margin-left: -7px;
+}
+
+.content5_css611 {
+    width: 59%;
+    display: inline-block;
+    float: left;
+    text-align: center;
+}         
+.content10_css41 {
+    width: 52%;
+    display: inline-block;
+    float: left;
+}
+}
+ 
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 877px) and (max-width: 980px) and (orientation:landscape)
+{
+.buttons1 {
+    height: 36px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 56px;
+    background: white;
+}
+
+
+.SubBtn{
+    height: 35px;
+    float: left;
+    font-size: 12px;
+	}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:15px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 30px;
+   
+	}
+	
+	.tick21,.tick22{
+		
+	margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick31,.tick32,.tick33{
+		
+		     margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick41,.tick42,.tick43,.tick44{
+		
+	       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick51,.tick52,.tick53,.tick54,.tick55{
+		
+		        margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick61,.tick62,.tick63,.tick64,.tick65,.tick66{
+		
+		       margin-left: -10px;
+    margin-top: -3px;
+	}
+	
+	.hand51,.hand52,.hand53,.hand54,.hand55{
+		
+ 	margin-top: 31px;
+    margin-left: -65px;
+	
+	}
+	.hand61,.hand62,.hand63,.hand64,.hand65,.hand66{
+		
+ 	     margin-top: 31px;
+    margin-left: -52px;
+
+	
+	}
+	
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+
+
+
+
+
+.content5_css4 {
+    width: 70%;
+    display: inline-block;
+    float: left;
+    border: 2px solid #f06;
+    box-shadow: 4px 2px 2px #aeaeae;
+    margin-left: 13%;
+    text-align: center;
+    height: 33px;
+    padding-top: 10px;
+}
+
+
+
+
+
+
+ .content2_css5 {
+    width: 75%;
+    display: inline-block;
+    float: left;
+    margin-left: 10%;
+ 
+}
+
+
+
+
+.content10_css42 {
+    width: 30%;
+    display: inline-block;
+    float: left;
+    padding-left: 100px;
+}
+
+.note1 {
+    width: 40%;
+    height: 22px;
+}
+
+
+.not_2, .not_3, .not_4, .not_5, .not_6, .not_7, .not_8, .not_9 {
+    width: 80%;
+    float: left;
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 13%;
+    margin-top: 3px;
+}
+
+.h2_1 {
+    width: 40%;
+    float: left;
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 5%;
+}
+
+.crossImg1, .crossImg2 {
+    width: 4%;
+}
+
+
+.note2 {
+    width: 17%;
+    height: 24px;
+}
+
+
+.note_21 {
+    border: 1px solid #f06;
+    width: 85%;
+    height: 248px;
+    margin-left: 7%;
+}
+
+.title{
+	float:left;
+	width:63%;
+	
+}
+.button {
+	font-size: 18.5px;
+    font-family: "Times New Roman", Times, serif;
+    padding: 2px 10px;
+    float: left;
+
+}
+.link{
+	float:left;
+	padding-top:0%;
+	margin-top:4px;
+}
+
+	
+
+
+.content2_css1, .content3_css1, .content4_css1, .content5_css1, .content6_css1, .content7_css1, .content8_css1, .content9_css1 {
+    margin-top: 15px;
+}
+
+.content2_css2_1, .content3_css2_1, .content4_css2_1, .content5_css2_1, .content6_css2_1, .content7_css2_1, .content8_css2_1 {
+    margin-top: 15px;
+}
+.content2_css2_2, .content3_css2_2, .content4_css2_2, .content5_css2_2, .content6_css2_2 {
+    margin-top: 15px;
+}
+
+.content2_css3, .content3_css3, .content5_css3, .content6_css3, .content7_css3, .content8_css3, .content9_css3, .content10_css3, .content4_css3 {
+    margin-top: 15px;
+}
+.content5_css4, .content2_css4, .content3_css4, .content4_css4, .content6_css4, .content7_css4, .content8_css4, .content9_css4, .content10_css4 {
+    margin-top: 15px;
+}
+
+
+.content2_css51, .content2_css52, .content2_css53, .content2_css54, .content2_css55, .content2_css56 {
+    width: 100%;
+    display: inline-block;
+    float: left;
+    border: 1px solid #f06;
+}
+
+
+.content2_css5, .content3_css5, .content4_css5, .content5_css5, .content6_css5, .content7_css5 {
+    margin-top: 20px;
+}
+
+.content3_css6, .content4_css6, .content5_css6, .content6_css6, .content7_css6{
+	margin-top:15px;}
+	
+	.content2_css6_1, .content3_css6_1, .content4_css6_1, .content5_css6_1, .content6_css6_1, .content7_css6_1, .content8_css6_1 {
+    margin-top: 15px;
+}
+
+.content2_css7, .content3_css7, .content4_css7, .content5_css7, .content6_css7, .content7_css7, .content8_css7, .content9_css7, .content11_css7, .content12_css7, .content13_css7, .content14_css7, .content10_css7 {
+    margin-top: 20px;
+}
+
+.foont_size {
+    font-size: 34px;
+}
+
+.ml_1 {
+    margin-left: -7px;
+}
+
+
+.content5_css611 {
+    width: 54%;
+    display: inline-block;
+    float: left;
+    text-align: center;
+}
+.content10_css41 {
+    width: 53%;
+    display: inline-block;
+    float: left;
+}
+}
+
+ /*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 981px) and (max-width: 1100px) and (orientation:landscape)
+{
+	
+	.buttons1 {
+    height: 60px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 90px;
+    background: white;
+}
+
+
+
+	
+.SubBtn{
+	height: 49px;
+    float: left;
+    font-size: 16.5px;	
+	}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:21px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 45px;
+   
+	}
+	
+	.tick21,.tick22{
+		
+		      margin-left: -13px;
+    margin-top: -6px;
+	}
+	.tick31,.tick32,.tick33{
+		
+		    margin-left: -13px;
+    margin-top: -6px;
+	}
+	.tick41,.tick42,.tick43,.tick44{
+		
+	      margin-left: -13px;
+    margin-top: -6px;
+	}
+	.tick51,.tick52,.tick53,.tick54,.tick55{
+		
+		       margin-left: -13px;
+    margin-top: -6px;
+	}
+	.tick61,.tick62,.tick63,.tick64,.tick65,.tick66{
+		
+		     margin-left: -13px;
+    margin-top: -6px;
+	}
+	.hand51,.hand52,.hand53,.hand54,.hand55{
+		
+       margin-top: 55px;
+    margin-left: -75px;
+	
+	}
+	.hand61,.hand62,.hand63,.hand64,.hand65,.hand66{
+		
+		
+       margin-top: 55px;
+    margin-left: -87px;
+	}
+	
+
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+
+
+.content5_css4 {
+    width: 70%;
+    display: inline-block;
+    float: left;
+    border: 2px solid #f06;
+    box-shadow: 4px 2px 2px #aeaeae;
+    margin-left: 15%;
+    text-align: center;
+    height: 36px;
+    padding-top: 10px;
+}
+
+
+
+
+.content10_css42 {
+    width: 30%;
+    display: inline-block;
+    float: left;
+    padding-left: 121px;
+}
+
+
+.note1 {
+    width: 39%;
+    height: 27px;
+}
+
+.not_2, .not_3, .not_4, .not_5, .not_6, .not_7, .not_8, .not_9 {
+    width: 80%;
+    float: left;
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 13%;
+    margin-top: 3px;
+}
+
+
+.crossImg1, .crossImg2 {
+    width: 4%;
+}
+
+
+.content2_css5 {
+    width: 77%;
+    display: inline-block;
+    float: left;
+    margin-left: 10%;
+  
+}
+
+.content14_css71 {
+    width: 75%;
+    display: inline-block;
+    float: left;
+}
+
+
+.note2 {
+    width: 18%;
+    height: 25px;
+}
+
+
+.note_21 {
+    border: 1px solid #f06;
+    width: 85%;
+    height: 268px;
+    margin-left: 7%;
+}
+
+
+.title{
+	float:left;
+	width:64%;
+	
+}
+.button {
+	font-size: 21px;
+    font-family: "Times New Roman", Times, serif;
+    padding: 2px 10px;
+    float: left;
+
+}
+.link{
+	float:left;
+	padding-top:0%;
+	margin-top:6px;
+}
+
+
+
+
+.content2_css1, .content3_css1, .content4_css1, .content5_css1, .content6_css1, .content7_css1, .content8_css1, .content9_css1 {
+    margin-top: 8px;
+}
+
+.content2_css2_1, .content3_css2_1, .content4_css2_1, .content5_css2_1, .content6_css2_1, .content7_css2_1, .content8_css2_1 {
+    margin-top: 7px;
+}
+.content2_css2_2, .content3_css2_2, .content4_css2_2, .content5_css2_2, .content6_css2_2 {
+    margin-top: 10px;
+}
+
+.content2_css3, .content3_css3, .content5_css3, .content6_css3, .content7_css3, .content8_css3, .content9_css3, .content10_css3, .content4_css3 {
+    margin-top: 20px;
+}
+.content5_css4, .content2_css4, .content3_css4, .content4_css4, .content6_css4, .content7_css4, .content8_css4, .content9_css4, .content10_css4 {
+    margin-top: 20px;
+}
+
+
+.content2_css51, .content2_css52, .content2_css53, .content2_css54, .content2_css55, .content2_css56 {
+    width: 100%;
+    display: inline-block;
+    float: left;
+    border: 1px solid #f06;
+}
+
+
+.content2_css5, .content3_css5, .content4_css5, .content5_css5, .content6_css5, .content7_css5 {
+    margin-top:6px;
+}
+
+.content3_css6, .content4_css6, .content5_css6, .content6_css6, .content7_css6{
+	margin-top:20px;}
+	
+	.content2_css6_1, .content3_css6_1, .content4_css6_1, .content5_css6_1, .content6_css6_1, .content7_css6_1, .content8_css6_1 {
+    margin-top: 10px;
+}
+
+.content2_css7, .content3_css7, .content4_css7, .content5_css7, .content6_css7, .content7_css7, .content8_css7, .content9_css7, .content11_css7, .content12_css7, .content13_css7, .content14_css7, .content10_css7 {
+    margin-top: 20px;
+}
+
+
+.foont_size {
+    font-size: 34px;
+}
+
+.ml_1 {
+    margin-left: -7px;
+}
+
+
+.content5_css611 {
+    width: 54%;
+    display: inline-block;
+    float: left;
+    text-align: center;
+}
+.content10_css41 {
+    width: 51%;
+    display: inline-block;
+    float: left;
+}
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+ /*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 1101px) and (max-width: 1300px) and (orientation:landscape)
+{
+		.buttons1{
+	 
+	height: 65px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 95px;
+    background: white;
+}
+
+	.tickA{
+		position:absolute;
+		color:#090;
+       font-size:25px;
+   
+	}
+	.handARot{
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 45px;
+   
+	}
+	
+	.tick21,.tick22{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick31,.tick32,.tick33{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick41,.tick42,.tick43,.tick44{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick51,.tick52,.tick53,.tick54,.tick55{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick61,.tick62,.tick63,.tick64,.tick65,.tick66{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.hand51,.hand52,.hand53,.hand54,.hand55{
+		
+		 margin-top: 54px;
+    margin-left: -82px;
+	}
+	.hand61,.hand62,.hand63,.hand64,.hand65,.hand66{
+		
+		 margin-top: 54px;
+    margin-left: -82px;
+	}
+	
+	
+	.SubBtn{
+		    height: 49px;
+			float: left;
+			font-size: 19px;
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    margin-left: 1%;
+	}
+
+
+
+.title{
+	float:left;
+	width:66%;
+	
+}
+.button {
+	font-size:16px;
+	font-family: "Times New Roman", Times, serif;
+	 
+
+}
+.link{
+	float:left;
+	padding-top:0%;
+	margin-top:10px;
+}
+
+
+
+
+.content5_css4 {
+    width: 65%;
+    display: inline-block;
+    float: left;
+    border: 2px solid #f06;
+    box-shadow: 4px 2px 2px #aeaeae;
+    margin-left: 15%;
+    text-align: center;
+    height: 40px;
+    padding-top: 10px;
+}
+
+
+.note_1 {
+    border: 1px solid #f06;
+    width: 85%;
+    height: 386px;
+    margin-left: 7%;
+}
+
+.crossImg1, .crossImg2 {
+    width: 4%;
+}
+
+.note1 {
+    width: 30%;
+    height: 27px;
+}
+
+
+
+.content2_css5 {
+    width: 81%;
+    display: inline-block;
+    float: left;
+    margin-left: 8%;
+   
+}
+
+
+
+
+.content2_css1, .content3_css1, .content4_css1, .content5_css1, .content6_css1, .content7_css1, .content8_css1, .content9_css1 {
+    margin-top: 9px;
+}
+
+.content2_css2_1, .content3_css2_1, .content4_css2_1, .content5_css2_1, .content6_css2_1, .content7_css2_1, .content8_css2_1 {
+    margin-top: 5px;
+}
+.content2_css2_2, .content3_css2_2, .content4_css2_2, .content5_css2_2, .content6_css2_2 {
+    margin-top: 8px;
+}
+
+.content2_css3, .content3_css3, .content5_css3, .content6_css3, .content7_css3, .content8_css3, .content9_css3, .content10_css3, .content4_css3 {
+    margin-top: 15px;
+}
+.content5_css4, .content2_css4, .content3_css4, .content4_css4, .content6_css4, .content7_css4, .content8_css4, .content9_css4, .content10_css4 {
+    margin-top: 8px;
+}
+
+
+.content2_css51, .content2_css52, .content2_css53, .content2_css54, .content2_css55, .content2_css56 {
+    width: 100%;
+    display: inline-block;
+    float: left;
+    border: 1px solid #f06;
+}
+
+
+.content2_css5, .content3_css5, .content4_css5, .content5_css5, .content6_css5, .content7_css5 {
+    margin-top: 8px;
+}
+
+.content3_css6, .content4_css6, .content5_css6, .content6_css6, .content7_css6{
+	margin-top:25px;}
+	
+	.content2_css6_1, .content3_css6_1, .content4_css6_1, .content5_css6_1, .content6_css6_1, .content7_css6_1, .content8_css6_1 {
+    margin-top: 25px;
+}
+
+.content2_css7, .content3_css7, .content4_css7, .content5_css7, .content6_css7, .content7_css7, .content8_css7, .content9_css7, .content11_css7, .content12_css7, .content13_css7, .content14_css7, .content10_css7 {
+    margin-top: 12px;
+}
+
+
+.content5_css61 {
+    width: 50%;
+    display: inline-block;
+    float: left;
+}
+
+.content5_css611 {
+    width: 56%;
+    display: inline-block;
+    float: left;
+    text-align: center;
+}
+
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+ @media (min-width: 1301px) and (max-width: 1500px) and (orientation:landscape)
+{
+	
+.buttons1{
+	 
+	height: 50px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 95px;
+    background: white;
+}
+
+
+	.tickA{
+		position:absolute;
+		color:#090;
+       font-size:25px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 53px;
+		    margin-top: 10px;
+   
+	}
+	
+	.tick21,.tick22{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick31,.tick32,.tick33{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick41,.tick42,.tick43,.tick44{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick51,.tick52,.tick53,.tick54,.tick55{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick61,.tick62,.tick63,.tick64,.tick65,.tick66{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.hand51,.hand52,.hand53,.hand54,.hand55{
+		
+		    margin-top: 56px;
+   			margin-left: -115px;
+	}
+	.hand61,.hand62,.hand63,.hand64,.hand65,.hand66{
+		
+		    margin-top: 56px;
+    		margin-left: -95px;
+	}
+	
+
+	.SubBtn{
+		    height: 49px;
+    float: left;
+    font-size: 18.5px;
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    margin-left: 1%;
+	}
+	
+	.title{
+	float:left;
+	width:55%;
+	
+}
+.title{
+	float:left;
+	width:55%;
+	
+}
+.button {
+	font-size:22px;
+	font-family: "Times New Roman", Times, serif;
+	padding: 2px 10px;
+}
+.link{
+	float:left;
+	padding-top:0%;
+	margin-top:5px;
+}	
+
+
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+ @media (min-width: 1501px) and (max-width: 1800px) and (orientation:landscape)
+{
+
+	.buttons1{
+	 
+	height: 85px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 125px;
+    background: white;
+}
+
+
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:30px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size:60px;
+		    margin-top:10px;
+   
+	}
+	
+	.tick21,.tick22{
+		
+		    margin-left: -18px;
+   		 	margin-top: -10px;
+	}
+	.tick31,.tick32,.tick33{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	.tick41,.tick42,.tick43,.tick44{
+		
+		    margin-left: -18px;
+   		 	margin-top: -10px;
+	}
+	
+	.tick51,.tick52,.tick53,.tick54,.tick55{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	.tick61,.tick62,.tick63,.tick64,.tick65,.tick66{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	
+	.hand51,.hand52,.hand53,.hand54,.hand55{
+		
+		    margin-top: 73px;
+   			margin-left: -125px;
+	}
+	.hand61,.hand62,.hand63,.hand64,.hand65,.hand66{
+		
+		
+		    margin-top: 73px;
+   			margin-left: -130px;
+			
+			}
+	
+
+	.SubBtn{
+		
+		height: 70px;
+		float: left;
+		font-size: 28px;
+		
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    		margin-left: 1%;
+	}
+
+
+.title{
+	float:left;
+	width:60%;
+	
+}
+.button {
+	font-size:30px;
+	font-family: "Times New Roman", Times, serif;
+	padding: 2px 10px;
+}
+.link{
+	float:left;
+	padding-top:0%;
+	margin-top:15px;
+}
+
+
+
+
+
+.content5_css4 {
+    width: 60%;
+    display: inline-block;
+    float: left;
+    border: 2px solid #f06;
+    box-shadow: 4px 2px 2px #aeaeae;
+    margin-left: 20%;
+    text-align: center;
+    height: 50px;
+    padding-top: 10px;
+}
+
+
+.content10_css42 {
+    width: 30%;
+    display: inline-block;
+    float: left;
+    padding-left: 200px;
+}
+
+
+.note_1 {
+    border: 1px solid #f06;
+    width: 85%;
+    height: 400px;
+    margin-left: 7%;
+}
+
+.crossImg1, .crossImg2 {
+    width: 3%;
+}
+
+.h2_1 {
+    width: 40%;
+    float: left;
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 5%;
+}
+
+
+.content2_css5 {
+    width: 85%;
+    display: inline-block;
+    float: left;
+    margin-left: 10%;
+   
+}
+
+.note_2 {
+    border: 1px solid #f06;
+    width: 85%;
+    height: 338px;
+    margin-left: 7%;
+}
+
+
+
+.foont_size {
+    font-size: 32px;
+}
+
+.ml_1 {
+    margin-left: -8px;
+}
+
+
+
+.not_2, .not_3, .not_4, .not_5, .not_6, .not_7, .not_8, .not_9 {
+   
+    font-size: 22px;
+  
+}
+	
+.content5_css611 {
+    width: 52%;
+    display: inline-block;
+    float: left;
+    text-align: center;
+}
+.content10_css41 {
+    width: 51%;
+    display: inline-block;
+    float: left;
+}
+
+}
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+  @media (min-width: 1801px) and (max-width: 2000px) and (orientation:landscape)
+{
+.print {
+    margin-left: 25%;
+    width: 54%;
+}
+	.buttons1{
+	 
+	height: 95px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 140px;
+    background: white;
+}
+
+
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:35px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size:65px;
+		    margin-top:15px;
+   
+	}
+	
+	.tick21,.tick22{
+		
+		    margin-left: -22px;
+   		 	margin-top: -15px;
+	}
+	.tick31,.tick32,.tick33{
+		
+		    margin-left: -22px;
+    		margin-top: -15px;
+	}
+	.tick41,.tick42,.tick43,.tick44{
+		
+		    margin-left: -22px;
+   		 	margin-top: -15px;
+	}
+	
+	.tick51,.tick52,.tick53,.tick54,.tick55{
+		
+		    margin-left: -22px;
+    		margin-top: -15px;
+	}
+	.tick61,.tick62,.tick63,.tick64,.tick65,.tick66{
+		
+		    margin-left: -22px;
+    		margin-top: -15px;
+	}
+	
+	.hand51,.hand52,.hand53,.hand54,.hand55{
+		
+		       margin-top: 81px;
+    margin-left: -146px;
+	}
+	.hand61,.hand62,.hand63,.hand64,.hand65,.hand66{
+		
+		   
+		       margin-top: 81px;
+    margin-left: -132px;
+	
+	}
+	
+
+	.SubBtn{
+		
+		height: 80px;
+		float: left;
+		font-size:30px;
+		
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left:12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    		margin-left: 1%;
+	}
+
+
+.title{
+	float:left;
+	width:60%;
+	
+}
+.button {
+	font-size:30px;
+	font-family: "Times New Roman", Times, serif;
+	padding: 2px 10px;
+}
+.link{
+	float:left;
+	padding-top:0%;
+	margin-top:15px;
+}
+
+
+
+
+
+.content5_css4 {
+    width: 60%;
+    display: inline-block;
+    float: left;
+    border: 2px solid #f06;
+    box-shadow: 4px 2px 2px #aeaeae;
+    margin-left: 20%;
+    text-align: center;
+    height: 50px;
+    padding-top: 10px;
+}
+
+
+.content10_css42 {
+    width: 30%;
+    display: inline-block;
+    float: left;
+    padding-left: 200px;
+}
+
+
+.note_1 {
+    border: 1px solid #f06;
+    width: 85%;
+    height: 440px;
+    margin-left: 7%;
+}
+
+.crossImg1, .crossImg2 {
+    width: 3%;
+}
+
+.h2_1 {
+    width: 40%;
+    float: left;
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 5%;
+}
+
+
+.content2_css5 {
+    width: 85%;
+    display: inline-block;
+    float: left;
+    margin-left: 10%;
+   
+}
+
+.note_2 {
+    border: 1px solid #f06;
+    width: 85%;
+    height: 410px;
+    margin-left: 7%;
+}
+
+
+.foont_size {
+    font-size: 50px;
+}
+
+.ml_1 {
+    margin-left: -8px;
+}
+	
+.not_2, .not_3, .not_4, .not_5, .not_6, .not_7, .not_8, .not_9 {
+   
+    font-size: 25px;
+  
+}
+.content2_css1, .content3_css1, .content4_css1, .content5_css1, .content6_css1, .content7_css1, .content8_css1, .content9_css1 {
+    margin-top: 3px;
+}
+
+.content2_css2_1, .content3_css2_1, .content4_css2_1, .content5_css2_1, .content6_css2_1, .content7_css2_1, .content8_css2_1 {
+    margin-top: 5px;
+}
+
+
+.content5_css611 {
+    width: 50%;
+    display: inline-block;
+    float: left;
+    text-align: center;
+}
+.content3_css6, .content4_css6, .content5_css6, .content7_css6 {
+    margin-top: 7px;
+}
+.content2_css6_1, .content3_css6_1, .content4_css6_1, .content5_css6_1, .content6_css6_1, .content7_css6_1, .content8_css6_1 {
+    margin-top: 9px;
+}
+}
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+  @media (min-width: 2001px) and (orientation:landscape)
+{
+
+	.buttons1{
+	 
+	height: 90px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 145px;
+    background: white;
+}
+
+
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:30px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size:60px;
+		    margin-top:10px;
+   
+	}
+	
+	.tick21,.tick22{
+		
+		    margin-left: -18px;
+   		 	margin-top: -10px;
+	}
+	.tick31,.tick32,.tick33{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	.tick41,.tick42,.tick43,.tick44{
+		
+		    margin-left: -18px;
+   		 	margin-top: -10px;
+	}
+	
+	.tick51,.tick52,.tick53,.tick54,.tick55{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	.tick61,.tick62,.tick63,.tick64,.tick65,.tick66{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	
+	.hand51,.hand52,.hand53,.hand54,.hand55{
+		
+		    margin-top: 75px;
+   			margin-left: -165px;
+	}
+	.hand61,.hand62,.hand63,.hand64,.hand65,.hand66{
+		
+		
+		    margin-top: 75px;
+   			margin-left: -135px;
+			
+			}
+	
+
+	.SubBtn{
+		
+		height: 70px;
+		float: left;
+		font-size: 28px;
+		
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    		margin-left: 1%;
+	}
+
+
+.title{
+	float:left;
+	width:60%;
+	
+}
+.button {
+	font-size:30px;
+	font-family: "Times New Roman", Times, serif;
+	padding: 2px 10px;
+}
+.link{
+	float:left;
+	padding-top:0%;
+	margin-top:15px;
+}
+
+
+
+
+
+.content5_css4 {
+    width: 60%;
+    display: inline-block;
+    float: left;
+    border: 2px solid #f06;
+    box-shadow: 4px 2px 2px #aeaeae;
+    margin-left: 20%;
+    text-align: center;
+    height: 65px;
+    padding-top: 10px;
+}
+
+
+.content10_css42 {
+    width: 30%;
+    display: inline-block;
+    float: left;
+    padding-left: 200px;
+}
+
+
+.note_1 {
+    border: 1px solid #f06;
+    width: 85%;
+    height: 510px;
+    margin-left: 7%;
+}
+
+.crossImg1, .crossImg2 {
+    width: 3%;
+}
+
+.h2_1 {
+    width: 40%;
+    float: left;
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 5%;
+}
+
+
+.content2_css5 {
+    width: 85%;
+    display: inline-block;
+    float: left;
+    margin-left: 10%;
+   
+}
+
+.note_2 {
+    border: 1px solid #f06;
+    width: 85%;
+    height: 460px;
+    margin-left: 7%;
+}
+
+.font_aswome{
+font-size:20px;	
+	}
+
+.note1 {
+
+    width: 30%;
+    height: 35px;
+}
+.foont_size {
+    font-size: 60px;
+}
+
+.ml_1 {
+    margin-left: -8px;
+}
+
+.not_2, .not_3, .not_4, .not_5, .not_6, .not_7, .not_8, .not_9 {
+   
+    font-size: 28px;
+  
+}
+.content5_css611 {
+    width: 50%;
+    display: inline-block;
+    float: left;
+    text-align: center;
+}
+
+.content3_css6, .content4_css6, .content5_css6, .content7_css6 {
+    margin-top: 25px;
+}
+	
+	
+.content2_css6_1, .content3_css6_1, .content4_css6_1, .content5_css6_1, .content6_css6_1, .content7_css6_1, .content8_css6_1 {
+    margin-top: 21px;
+}
+
+	.content2_css1,.content3_css1,.content4_css1,.content5_css1,.content6_css1,.content7_css1,.content9_css1{
+	margin-top:19px;
+	
+	
+	}	
+	
+}
+	
+
