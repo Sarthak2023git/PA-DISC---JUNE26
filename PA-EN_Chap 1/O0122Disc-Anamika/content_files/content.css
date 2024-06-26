@@ -1,0 +1,3366 @@
+
+
+
+.MainBtnTable{
+	height:100%;
+	width:100%;
+}
+.MainBtnTable td{
+vertical-align:middle;
+}
+
+
+.SubBtn{
+	display: inline-block;
+	color: black;
+	font-weight: bold;
+	background-color: #ffb380;
+	background-image: linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -o-linear-gradient(bottom, #fff) 0%, #ffb380 100%);
+	background-image: -moz-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -webkit-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -ms-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -webkit-gradient( linear, left bottom, left top, color-stop(0, #fff), color-stop(1, #ffb380) );
+   -webkit-transition: all 0s ease-in-out;
+   -moz-transition: all 0s ease-in-out;
+    transition: all 0s ease-in-out;
+	-webkit-transform: rotateX(20deg);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffb380', endColorstr='white',GradientType=0 );
+	box-shadow:none;
+				
+}
+.SubBtn:hover{
+	background-image: linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -o-linear-gradient(top, #fff) 0%, #ffb380 100%);
+	background-image: -moz-linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -webkit-linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -ms-linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -webkit-gradient( linear, left top, left button, color-stop(0, #fff), color-stop(1, #ffb380) );
+	cursor:pointer;
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='white', endColorstr='#ffb380',GradientType=0 );
+	box-shadow:none;
+}
+.SubBtn:active{
+		background-image: linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -o-linear-gradient(bottom, #fff) 0%, #ffb380 100%);
+	background-image: -moz-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -webkit-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -ms-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -webkit-gradient( linear, left bottom, left top, color-stop(0, #fff), color-stop(1, #ffb380) );
+	-webkit-transform: translate(0, 2px);
+	-moz-transform: translate(0, 2px);
+	-ms-transform: translate(0, 2px);
+	transform: translate(0, 2px);
+	box-shadow:none;
+}
+
+ 
+.buttons1,.buttons2{
+	width:75%;
+	position:absolute;
+	z-index:10;
+}
+
+
+/*/////////////////////////////////////////////////////////////////////*/
+
+
+.img11,.img13{
+	width:50%;
+	display:inline-block;
+}
+
+
+.img12{
+	width:40%;
+	display:inline-block;
+}
+
+.m_top{
+	margin-top:89px;
+}
+.m_top2{
+	margin-top:30px;
+}
+
+.m_top1{
+	margin-top:20px;
+}
+.no_line{
+	width:100%;
+	display:inline-block;
+}
+.Number_Line{
+	width:70%;
+	margin-left:10px;
+}
+.Line_Height{
+	line-height:135%;
+}
+.M_Left{
+	margin-left:160px;
+}
+.M_Left1{
+	margin-left:271px;
+}
+.FSize{
+	font-size:18px;
+}
+
+.Div_Width{
+	width:50%;
+	float:right;
+	margin-bottom:0px;
+	margin-top:10px;
+}
+
+.img_down{
+	width:72%;
+	display:inline-block;
+}
+.image_down{
+	width:4%;
+	margin-left:34px;
+}
+
+
+.img_right{
+	width:10%;
+	display:inline-block;
+}
+.image_right{
+	width:7%;
+	margin-left:125px;
+}
+.AS,.ASA{
+	width:33%;
+	float:left;
+	margin-left:97px;
+}
+
+.hide1{
+	visibility:hidden;
+}
+
+.AS1{
+	width:32%;
+	float:left;
+	/*margin-left:97px;*/
+}
+
+
+.AS2{
+	width:10%;
+	float:left;
+	/*margin-left:97px;*/
+}
+
+
+
+.ASA1{
+	width:50%;
+	float:left;
+	margin-top:0px;
+}
+
+
+.img_up{
+	width:100%;
+	display:inline-block;
+}
+.image_up{
+	width:3%;
+	margin-left:60px;
+}
+
+
+
+.note_img{
+	width:100%;
+	display:inline-block;
+}
+
+.note_image{
+	width:15px;
+	margin-left:60px;
+	float:left;
+}
+
+.ltrspcng{
+	letter-spacing:7px;
+}
+
+
+
+
+
+
+
+
+.A123{
+	margin-left:15px;
+}
+
+
+
+.img_cross{
+	width:20%;
+	display:inline-block;
+}
+.image_cross{
+	width:12%;
+	margin-left:38px;
+}
+
+
+.image_cross1{
+	width:12%;
+	margin-left:79px;
+}
+
+
+
+.A22{
+	width:52%;
+}
+.bull_left{
+	float:left;
+	width:20%;
+}
+.bull_left1{
+	float:left;
+	width:30%;
+	margin-left:53px;
+}
+.An1{
+	width:32%;
+	display:inline-block;
+	float:left;
+}
+
+.An2{
+	width:10%;
+	display:inline-block;
+	float:left;
+	margin-left:232px;
+}
+.MTop{
+	margin-top:0px;
+}
+
+.m_top3{
+	margin-top:4px;
+}
+
+
+
+
+.inlineBlock{
+	display:inline-block;
+}
+
+.ML1{
+	margin-left:28px;
+}
+
+.ML2{
+	margin-left:112px;
+}
+
+.ML3{
+	margin-left:16px;
+}
+.AN1{
+	width:6%;
+	float:left;
+}
+
+.AN2{
+	width:17%;
+	float:left;
+}
+
+.AN3{
+	width:9%;
+	float:left;
+}
+.AN21{
+	margin-left:97px;
+}
+
+.AN22{
+	margin-left:25px;
+}
+.MT{
+	margin-top:5px;
+	
+}
+.Div1,.Div2,.Div3{
+	width:100%;
+	display:inline-block;
+	
+}
+.Div_1{
+	width:96%;
+	float:left;
+	text-align:center;
+	margin-top:20px;
+	
+	}
+	
+.Div_2{
+	width:50%;
+	float:left;
+	text-align:center;
+margin-top:20px;
+	}	
+.Div11{
+	width:7%;
+	float:left;
+	
+}
+.fs{
+	font-size:21px;
+}
+.Div_11{
+	width:10%;
+	float:left;
+	
+}
+
+
+.Div111{
+	width:7%;
+	float:left;
+	
+}
+
+.Div12{
+	width:85%;
+	float:left;
+	text-align:left;
+	margin-left:21px;
+}
+.TAL{
+	text-align:left;
+}
+	
+.Div_22{
+	width:15%;
+	float:left;
+	text-align:center;
+margin-top:0px;
+margin-left:199px;
+	}	
+
+	.Div_222{
+	width:30%;
+	float:left;
+
+margin-top:2px;
+margin-left:191px;
+	}	
+	
+.Div_A1{
+	margin-left:191px;
+	width:50%;
+	float:left;
+	
+    margin-top:0px;
+}
+.Div_A2{
+	margin-left:48px;
+	width:30%;
+	float:left;
+	
+    margin-top:9px;
+}
+.VAM{
+	margin-top:0px;
+	margin-left:6%;
+	
+}
+.Div_A3{
+	margin-left:13px;
+	width:30%;
+	float:left;
+	text-align:center;
+    margin-top:9px;
+}
+.Margin_Left{
+	margin-left:399px;
+}
+.Left{
+	margin-left:13px;
+}
+.Left2{
+	margin-left:83px;
+}
+
+	
+.Left1{
+	margin-left:89px;
+}	
+.img_up1{
+	width:100%;
+	display:inline-block;
+}
+.image_up1{
+	width:7%;
+	margin-left:75px;
+}	
+
+
+.img_up2{
+	width:100%;
+	display:inline-block;
+}
+.image_up2{
+	width:6%;
+	margin-left:87px;
+}
+.TAC{
+	text-align:center;
+}
+.left{
+	margin-left:57px;
+}
+
+.img_up3{
+	width:100%;
+	display:inline-block;
+}
+.image_up3{
+	width:7%;
+	margin-left:87px;
+}
+.new_table{
+	width:100%;
+	display:inline-block;
+}
+.new_table tr td {
+	padding-top:8px;
+	
+}
+.VAT{
+	vertical-align:top;
+}
+.Box{
+	border:2px outset #999;
+	box-shadow:3px 3px 3px #999;
+	width:87%;
+	display:inline-block;
+	padding-left:20px;
+	margin-top:0px;
+}
+.Left_M{
+	margin-left:105px;
+}
+.P_Bottom{
+	    margin-top: 9px;
+	padding-bottom:10px;
+}
+
+.M_L{
+	margin-left:66px;
+}
+.MT1{
+	margin-top:25px;
+}
+
+
+.MT2{
+	margin-top:7px;
+}
+.pding_Top{
+	padding-top:0px;
+}
+
+.Content3_2{
+	margin-left:238px;
+}
+
+
+.Content3_3{
+	margin-left:238px;
+}
+
+.Content3_4{
+	margin-left:98px;
+}
+
+
+
+
+/*//////////////////////////////////////////////////////*/
+
+
+
+.buttons1 {
+
+position: absolute;
+min-height:20px;
+width: 75%;
+}
+.tickA,.handA {
+	display:none;
+}
+
+
+
+.tab3{width:55%; margin-left:0%; text-align:center; white-space:nowrap;}
+.tab3_td1{width:8%;}
+.tab3_td2{width:10%;}
+.tab3_td3{width:10%;}
+.tab3_td4{width:8%;}
+.tab3_td5{width:14%;}
+.tab3_td6{width:10%;}
+.tab3_td7{width:40%;}
+
+
+.A222 {
+    width: 27%;
+    margin-left: 34%;
+    display: inline-block;
+}
+
+.wrap{white-space:nowrap;}
+
+.tab4{width:85%; margin-left:7%;}
+
+
+.tab4_1{width:30%; text-align:left;}
+.tab4_2{width:11%; text-align:left;}
+.tab4_3{width:45%; text-align:left; padding-left:5%;}
+
+.image_rightt{width:38%;}
+
+.img{width:100%}
+tr,td{
+	border:0px solid #000;
+}
+
+.tc{padding-left:4%;}
+
+.lh{line-height:10%;}
+
+/*// Small devices (landscape phones, 576px and up)*/
+/*// Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 450px) and (max-width: 574px) and (orientation:landscape){ 
+.buttons1 {
+    height: 23px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 35px;
+    background: white;
+}
+	.tickA{
+		position:absolute;
+		color:#090;
+       font-size:8px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 18px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+	    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		     margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+  margin-top: 16px;
+    margin-left: -35px;
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+		  margin-top: 16px;
+   		  margin-left: -35px;
+	}
+	.SubBtn{
+		height: 12px;
+		float: left;
+		font-size: 6px;
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+
+.m_top1 {
+    margin-top:7px;
+}
+.M_Left1 {
+    margin-left: 160px;
+}
+.FSize {
+    font-size: 8px;
+}
+.AS, .ASA {
+    width: 33%;
+    float: left;
+    margin-left: 29px;
+}
+
+.image_right {
+    width: 7%;
+    margin-left: 29px;
+}
+
+.image_up {
+    width: 5%;
+    margin-left: 28px;
+}
+.image_down {
+    width: 8%;
+    margin-left: 18px;
+}
+.bull_left1 {
+    float: left;
+    width: 35%;
+    margin-left: 18px;
+}
+.MTop {
+    margin-top: 36px;
+}
+.image_cross1 {
+    width: 55%;
+    margin-left: 33px;
+}
+.An2 {
+    width: 10%;
+    display: inline-block;
+    float: left;
+    margin-left: 109px;
+}
+.A22 {
+    width: 53%;
+    margin-left: 34px;
+}
+.cross1{
+	margin-left:19px;
+}
+.ML2 {
+     margin-left: 0px; 
+}
+
+.M_Left {
+    margin-left: 67px;
+}
+.ltrspcng {
+    letter-spacing: 3px;
+}
+.note_image {
+    width: 7px;}
+
+.Box {
+    
+    width: 87%;
+}
+.fs {
+    font-size: 8px;
+}
+.AN21 {
+    margin-left: 49px;
+}
+.AN2 {
+    width: 30%;
+    float: left;
+}
+.ML2 {
+    margin-left: 54px;
+}
+.ML1 {
+    margin-left: 12px;
+}
+.AN22 {
+    margin-left: 12px;
+}
+.Div11 {
+    width:9%;
+    float: left;
+}
+
+.Div111 {
+    width: 11%;
+    float: left;
+}
+
+.Div_1 {
+    width: 96%;
+    float: left;
+    text-align: center;
+    margin-top: 1px;
+}
+.Div_11{
+    width: 18%;
+    float: left;
+}
+
+
+
+.Div_2 {
+    width: 70%;
+    float: left;
+    text-align: center;
+    margin-top: 7px;
+}
+
+
+
+
+
+.Div12 {
+    width: 67%;
+    margin-left:4px;
+}
+.Div_22 {
+    width: 15%;
+    margin-left: 71px;
+}
+
+.Div_222 {
+    width: 37%;
+    margin-left: 83px;
+}
+.Div_A1,.Div_A2 {
+    margin-left: 83px;
+    width: 53%;
+}
+.Div_A3 {
+    margin-left: 0px;
+    width: 30%;
+}
+.Left1 {
+    margin-left: 21px;
+}
+.Margin_Left {
+    margin-left: 156px;
+}
+.Left2 {
+    margin-left: 21px;
+}
+.MT1 {
+    margin-top: 7px;
+}
+
+
+.Content3_2{
+	margin-left:149px;
+}
+
+
+.Content3_3{
+	margin-left:149px;
+}
+
+.Content3_4{
+	margin-left:82px;
+}
+.no_line{
+	width:95%;
+	
+}
+.m_top2 {
+    margin-top: 9px;
+}
+
+.ASA1{
+	
+	margin-top:10px;
+}
+
+.A222 {
+    width: 27%;
+    margin-left: 48%;
+    display: inline-block;
+}
+
+.FSize {
+    font-size: 14px;
+}
+}
+
+
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+@media (min-width: 575px) and (max-width: 675px) and (orientation:landscape){ 
+
+.buttons1 {
+    height: 32px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 43px;
+    background: white;
+}
+.SubBtn{
+		    height: 20px;
+    float: left;
+    font-size: 8px;
+	}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:11px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 22px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+	    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		     margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+		
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+ 	margin-top: 23px;
+    margin-left: -48px;
+	
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+ 	margin-top: 23px;
+    margin-left: -41px;
+	
+	}
+
+	
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+	
+	
+.m_top1 {
+    margin-top: 8px;
+}	
+.M_Left1 {
+    margin-left: 177px;
+}	
+	
+.FSize {
+    font-size:8px;
+}	
+	
+.AS, .ASA {
+    width: 35%;
+    float: left;
+    margin-left: 34px;
+}	
+.image_right {
+    width: 7%;
+    margin-left: 50px;
+}	
+.image_up {
+    width: 5%;
+    margin-left: 31px;
+}	
+.AS1 {
+    width: 34%;
+  
+}
+.MTop {
+    margin-top: 33px;
+}	
+.image_cross1 {
+    margin-left: 40px;
+}	
+	
+.An2 {
+    width: 10%;
+    display: inline-block;
+    float: left;
+    margin-left: 149px;
+}	
+.A123 {
+    margin-left: 7px;
+}	
+.image_down {
+    width: 4%;
+    margin-left: 17px;
+}
+.A22 {
+    width: 57%;
+    margin-left: 40px;
+}
+.Box {
+     width: 87%;	
+}
+.M_Left {
+    margin-left: 83px;
+}
+.ltrspcng {
+    letter-spacing: 3px;
+}
+.fs{
+	font-size:15px;
+}
+.note_image {
+    width: 9px;
+}
+.ML1 {
+    margin-left: 11px;
+}
+.AN22 {
+    margin-left: 15px;
+}
+.AN3 {
+    margin-left: 13px;
+	}
+.AN21 {
+    margin-left: 52px;
+}
+.ML2 {
+    margin-left: 59px;
+}
+.Div11 {
+    width: 9%;
+    float: left;
+}
+.Div_11 {
+    width: 9%;
+    float: left;
+}
+
+
+
+
+.Div111 {
+    width: 10%;
+    float: left;
+}
+
+.Div_1 {
+    width: 96%;
+    float: left;
+    text-align: center;
+    margin-top: 2px;
+}
+.Div_2 {
+    width:66%;
+    float: left;
+    text-align: center;
+    margin-top: 6px;
+}
+.Div12 {
+    width: 70%;
+}
+
+.Div_22 {
+    margin-left: 88px;
+}
+
+.Div_222 {
+    width: 37%;
+    margin-left: 95px;
+}
+.Div_A1,.Div_A2 {
+    margin-left: 13px;
+    width: 30%;
+}
+.Div_A1 {
+    margin-left: 95px;
+    width: 57%;
+    float: left;
+    margin-top: 0px;
+}
+.Div_A3 {
+    margin-left: 0px;
+    width: 30%;
+}
+.Left1 {
+    margin-left: 21px;
+}
+.Margin_Left {
+    margin-left: 185px;
+}
+.Left2 {
+    margin-left: 21px;
+}
+.MT1 {
+    margin-top: 8px;
+}
+.fs{
+	font-size:11px;
+}
+.cross1 {
+    margin-left: 22px;
+}
+
+.Content3_2{
+	margin-left:165px;
+}
+
+
+.Content3_3{
+	margin-left:165px;
+}
+
+.Content3_4{
+	margin-left:85px;
+}
+
+.no_line{
+	width:95%;
+	
+}
+.m_top2 {
+    margin-top: 9px;
+}
+
+.ASA1{
+	
+	margin-top:10px;
+}
+.div_A{
+	margin-top:1%;
+}
+
+.A222 {
+    width: 27%;
+    margin-left: 45%;
+    display: inline-block;
+}
+
+.FSize {
+    font-size: 15px;
+}
+}
+ /*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+@media (min-width: 676px) and (max-width: 775px) and (orientation:landscape){ 
+.SpaceBarDiv{
+	width:63%;
+	}
+.buttons1 {
+    height:36px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 46px;
+    background: white;
+}
+
+.SubBtn{
+		      height: 25px;
+    float: left;
+    font-size: 10px;
+	}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:15px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 27px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+	margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+    margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+	       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		        margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		       margin-left: -10px;
+    margin-top: -3px;
+	}
+	
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+ 	margin-top: 28px;
+    margin-left: -58px;
+	
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+ 	    margin-top: 28px;
+    margin-left: -47px;
+	
+	}
+	
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+.m_top1 {
+    margin-top: 15px;
+}	
+.M_Left1 {
+    margin-left: 195px;
+}	
+	
+.FSize {
+    font-size: 11px;
+}	
+	
+.AS, .ASA {
+    width: 35%;
+    float: left;
+    margin-left: 34px;
+}	
+.image_right {
+    width: 7%;
+    margin-left: 50px;
+}	
+.image_up {
+    width: 5%;
+    margin-left: 31px;
+}	
+.AS1 {
+    width: 34%;
+  
+}
+.MTop {
+    margin-top: 38px;
+}	
+.image_cross1 {
+    margin-left: 40px;
+}	
+	
+.An2 {
+    width: 10%;
+    display: inline-block;
+    float: left;
+    margin-left: 174px;
+}	
+.A123 {
+    margin-left: 7px;
+}	
+.image_down {
+    width: 4%;
+    margin-left: 17px;
+}
+.A22 {
+    width: 57%;
+    margin-left: 25px;
+}
+.Box {
+     width: 87%;	
+}
+.M_Left {
+    margin-left: 83px;
+}
+.ltrspcng {
+    letter-spacing: 3px;
+}
+.note_image {
+    width: 9px;
+}
+.ML1 {
+    margin-left: 11px;
+}
+.AN22 {
+    margin-left: 0px;
+}
+.AN3 {
+    margin-left: 13px;
+	}
+.AN21 {
+    margin-left: 52px;
+}
+.ML2 {
+    margin-left: 59px;
+}
+.Div11 {
+    width: 11%;
+    float: left;
+}
+
+.Div_11 {
+    width: 16%;
+    float: left;
+}
+
+
+
+.Div111 {
+    width: 10%;
+    float: left;
+}
+
+.Div_2 {
+    width: 71%;
+    float: left;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.Div12 {
+    width: 70%;
+}
+
+.Div_22 {
+    margin-left: 106px;
+}
+
+.Div_222 {
+    width: 37%;
+    margin-left:136px;
+}
+.Div_A1,.Div_A2 {
+    margin-left: 137px;
+    width: 59%;
+}
+.Div_A3 {
+    margin-left: 0px;
+    width: 30%;
+}
+.Div_1 {
+    width: 96%;
+    float: left;
+    text-align: center;
+    margin-top: 1px;
+}
+.Left1 {
+    margin-left: 21px;
+}
+.Margin_Left {
+    margin-left: 216px;
+}
+.Left2 {
+    margin-left: 35px;
+}
+.MT1 {
+    margin-top: 2px;
+}
+
+.Content3_2{
+	margin-left:181px;
+}
+
+
+.Content3_3{
+	margin-left:181px;
+}
+
+.Content3_4{
+	margin-left:88px;
+}
+.m_top2{
+	margin-top: 6px;
+	
+	}
+.M_Btm{
+	margin-bottom:0%;
+}
+.ASA1{
+	margin-top: 5px;
+	}
+.fs{
+	font-size:13px;
+}	
+	
+	
+	
+.A222 {
+    width: 27%;
+    margin-left: 47%;
+    display: inline-block;
+}
+
+.FSize {
+    font-size: 16px;
+}
+
+
+}
+ /*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 776px) and (max-width: 876px) and (orientation:landscape)
+{
+
+.buttons1 {
+    height: 48px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 56px;
+    background: white;
+}
+
+
+.SubBtn{
+    height: 35px;
+    float: left;
+    font-size: 12px;
+	}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:15px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 30px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+	margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		     margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+	       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		        margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		       margin-left: -10px;
+    margin-top: -3px;
+	}
+	
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+ 	margin-top: 31px;
+    margin-left: -65px;
+	
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+ 	     margin-top: 31px;
+    margin-left: -52px;
+
+	
+	}
+	
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+.FSize {
+    font-size: 14px;
+}
+.m_top1 {
+    margin-top: 16px;
+}
+.m_top {
+    margin-top: 45px;
+}
+.AS, .ASA {
+    width: 33%;
+    float: left;
+    margin-left: 78px;
+}
+.image_right {
+    width: 28%;
+    margin-left: 50px;
+}
+.AS1 {
+    width: 39%;
+    float: left;
+}
+.A22 {
+    width: 53%;}
+
+.image_cross1 {
+    margin-left: 58px;
+	}
+.AN1 {
+    width: 13%;
+    float: left;
+    margin-left: 12px;}
+
+.MTop {
+    margin-top: 49px;
+}
+.ML1 {
+    margin-left: 6px;}
+.AN21 {
+    margin-left: 57px;}
+
+.AN22 {
+    margin-left: 29px;}
+.note_image {
+    width: 13px;
+    margin-left: 60px;
+    float: left;}
+
+
+.An2 {
+    width: 10%;
+    display: inline-block;
+    float: left;
+    margin-left: 229px;
+}
+.Div11 {
+    width: 10%;
+    float: left;
+}
+
+.Div_11 {
+    width: 10%;
+    float: left;
+}
+.Div_2 {
+    width: 70%;
+    float: left;
+    text-align: center;
+    margin-top: 2px;
+}
+.Div_1 {
+    width: 96%;
+    float: left;
+    text-align: center;
+    margin-top: 3px;
+}
+
+.Div111 {
+    width:10%;
+    float: left;
+}
+.fs{
+	font-size:16px;
+}
+
+
+.Div_222 {
+    width: 37%;
+    float: left;
+    text-align: center;
+    margin-top: 11px;
+    margin-left:142px;
+}
+.Div_A1 {
+    margin-left:151px;
+}
+.Div_A2 {
+    margin-left: 31px;
+}
+.Div_A3 {
+    margin-left: 5px;
+}
+.Div_22 {
+    width: 15%;
+    float: left;
+    text-align: center;
+    margin-top: 1px;
+    margin-left: 125px;
+}
+
+.M_Left1 {
+    margin-left: 233px;
+}
+.A12{
+	margin-left:335px;
+}
+.ML1 {
+    margin-left: 5px;}
+.Left2 {
+    margin-left: 39px;
+}	
+	
+.ML3 {
+    margin-left: 40px;}	
+	
+.Content3_2{
+	margin-left:215px;
+}
+
+
+.Content3_3{
+	margin-left:217px;
+}
+
+.Content3_4{
+	margin-left:98px;
+}
+.m_top2{
+	margin-top: 6px;
+	
+	}
+.M_Btm{
+	margin-bottom:0%;
+}
+.ASA1{
+	margin-top: 5px;
+	}
+.fs{
+	font-size:17px;
+}
+
+.MT1 {
+    margin-top: 6px;
+}
+.A222 {
+    width: 27%;
+    margin-left: 48%;
+    display: inline-block;
+}
+
+.FSize {
+    font-size: 16px;
+}
+
+}
+ 
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 877px) and (max-width: 980px) and (orientation:landscape)
+{
+	
+	.buttons1 {
+    height: 45px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 67px;
+    background: white;
+}
+
+
+
+.SubBtn{
+	height: 35px;
+    float: left;
+    font-size: 14px;
+	}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:15px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 35px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		     margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+	       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		        margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+    margin-top: 40px;
+    margin-left: -73px;
+	
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+    margin-top: 38px;
+    margin-left: -58px;	
+	}
+	
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+
+
+.M_Left1 {
+    margin-left: 242px;
+}
+
+.image_right {
+    width: 7%;
+    margin-left: 57px;
+}
+.AS1 {
+    width: 34%;
+    float: left;
+}
+.MTop {
+    margin-top: 48px;
+}
+.A22 {
+    width: 59%;
+	margin-left:39px;
+}
+.fs{
+	font-size:17px;
+}
+.A3{
+	    margin-left: 0px;
+}
+.An2 {
+    width: 10%;
+    display: inline-block;
+    float: left;
+    margin-left: 226px;
+}
+.cross1{
+	margin-left:35px;
+}
+.ML3 {
+    margin-left: 70px;
+}
+.AN22 {
+    margin-left: 39px;
+}
+.AN21 {
+    margin-left: 85px;
+}
+.AN22 {
+    margin-left: 38px;
+}
+.Div11 {
+    width:9%;
+    float: left;
+}
+.Div_11 {
+    width: 9%;
+    float: left;
+}
+
+
+
+
+.Div111 {
+    width: 9%;
+    float: left;
+}
+.Div_2 {
+    width: 65%;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+.Div_22 {
+    
+    margin-left: 138px;
+}
+
+.Div_222 {
+    width: 35%;
+   
+    margin-left: 161px;
+}
+.Div_A1 {
+    margin-left: 162px;}
+.Div_A2 {
+    margin-left: 25px;}
+.Div_A3 {
+    margin-left: 0px;
+}
+.Margin_Left {
+    margin-left: 352px;
+}
+.Content3_2{
+	margin-left:222px;
+}
+
+
+.Content3_3{
+	margin-left:222px;
+}
+
+.Content3_4{
+	margin-left:98px;
+}
+
+
+.A222 {
+    width: 27%;
+    margin-left: 45%;
+    display: inline-block;
+}
+
+.FSize {
+    font-size: 15px;
+}
+
+}
+
+ /*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 981px) and (max-width: 1100px) and (orientation:landscape)
+{
+	
+	.buttons1 {
+    height: 60px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 90px;
+    background: white;
+}
+
+
+
+	
+.SubBtn{
+	height: 49px;
+    float: left;
+    font-size: 16.5px;	
+	}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:21px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 45px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		      margin-left: -13px;
+    margin-top: -6px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		    margin-left: -13px;
+    margin-top: -6px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+	      margin-left: -13px;
+    margin-top: -6px;
+	}
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		       margin-left: -13px;
+    margin-top: -6px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		     margin-left: -13px;
+    margin-top: -6px;
+	}
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+       margin-top: 55px;
+    margin-left: -75px;
+	
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+		
+       margin-top: 55px;
+    margin-left: -87px;
+	}
+	
+
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+
+.m_top1 {
+    margin-top: 26px;
+}
+.image_right {
+    width: 7%;
+    margin-left: 66px;
+}
+.bull_left1 {
+    float: left;
+    width: 35%;
+    margin-left: 53px;
+}
+.AN3 {
+    width: 9%;
+    float: left;
+    margin-left: 62px;
+}
+.Div11 {
+    width:9%;
+    float: left;
+}
+
+.Div_11 {
+    width: 10%;
+    float: left;
+}
+
+
+
+.Div111 {
+    width: 9%;
+    float: left;
+}
+
+.Div_2 {
+    width: 70%;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+.Div_22 {
+    width: 15%;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 154px;
+}
+.Div_222 {
+    width: 37%;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 184px;
+}
+.Div_A1 {
+    margin-left: 198px;
+}
+.Div_A2 {
+    margin-left: 31px;
+}
+.Div_A3 {
+    margin-left: 0px;
+}
+.Margin_Left {
+    margin-left: 397px;
+}
+.Left2 {
+    margin-left: 48px;
+}
+
+.M_Left1 {
+    margin-left: 269px;
+}
+.ML2{
+	margin-left:121px;
+}
+.AN21 {
+    margin-left: 101px;
+}
+
+.ML3{
+	margin-left:5px;
+}
+
+.Content3_2{
+	margin-left:247px;
+}
+
+
+.Content3_3{
+	margin-left:247px;
+}
+
+.Content3_4{
+	margin-left:101px;
+}
+
+
+
+.A222 {
+    width: 27%;
+    margin-left: 48%;
+    display: inline-block;
+}
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+ /*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 1101px) and (max-width: 1300px) and (orientation:landscape)
+{
+	.buttons1{
+	 
+	height: 65px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 95px;
+    background: white;
+}
+
+	.tickA{
+		position:absolute;
+		color:#090;
+       font-size:25px;
+   
+	}
+	.handARot{
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 45px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+		 margin-top: 54px;
+    margin-left: -82px;
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+		 margin-top: 54px;
+    margin-left: -82px;
+	}
+	
+	
+	.SubBtn{
+		    height: 49px;
+			float: left;
+			font-size: 16.5px;
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    margin-left: 1%;
+	}
+
+.MainBtns
+{
+	font-size:22px;  /* to be provided to programmer*/
+}
+.header h2
+{
+	font-size:23px;
+	margin-left:20px;
+	padding-top:7px;
+	
+}
+.container-right
+{
+	font-size: 21px;
+}
+.M_Left1 {
+    margin-left: 260px;
+}
+
+.image_right {
+    width: 7%;
+    margin-left: 57px;
+}
+.AS1 {
+    width: 34%;
+    float: left;
+}
+.MTop {
+    margin-top: 48px;
+}
+.A22 {
+    width: 59%;
+	margin-left:65px;
+}
+.A3{
+	    margin-left: 0px;
+}
+.An2 {
+    width: 10%;
+    display: inline-block;
+    float: left;
+    margin-left: 282px;
+}
+
+.ASA1 {
+    margin-top: 48px;
+}
+
+
+.Sou1{
+	margin-left:7%;
+}
+.cross1{
+	margin-left:35px;
+}
+.ML3 {
+    margin-left: 38px;
+}
+.AN22 {
+    margin-left: 39px;
+}
+.AN21 {
+    margin-left: 99px;
+}
+.AN22 {
+    margin-left: 38px;
+}
+.Div11 {
+    width: 8%;
+    float: left;
+}
+.Div_11 {
+    width: 11%;
+    float: left;
+}
+
+.Div111 {
+    width:8%;
+    float: left;
+}
+
+
+
+.Div_22 {
+    
+    margin-left: 212px;
+}
+
+.Div_222 {
+    width: 35%;
+   
+    margin-left: 191px;
+}
+.Div_A1 {
+    margin-left: 192px;}
+.Div_A2 {
+    margin-left: 39px;}
+.Div_A3 {
+    margin-left: 7px;
+}
+.Margin_Left {
+    margin-left: 382px;
+}
+.MT1 {
+
+    margin-top: 43px;
+
+}
+
+.Div_2 {
+    width: 60%;
+    float: left;
+    text-align: center;
+    margin-top: 33px;
+}
+.Left2 {
+    margin-left: 67px;
+}
+.Content3_2{
+	margin-left:238px;
+}
+
+
+.Content3_3{
+	margin-left:238px;
+	margin-bottom:17px;
+}
+
+.Content3_4{
+	margin-left:98px;
+}
+
+
+.Content4_1{
+	
+	margin-bottom:40px;
+}
+
+
+.A222 {
+    width: 27%;
+    margin-left: 41%;
+    display: inline-block;
+}
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+ @media (min-width: 1301px) and (max-width: 1500px) and (orientation:landscape)
+{
+	
+.buttons1{
+	 
+	height: 65px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 95px;
+    background: white;
+}
+
+
+	.tickA{
+		position:absolute;
+		color:#090;
+       font-size:25px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 53px;
+		    margin-top: 10px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+		    margin-top: 56px;
+   			margin-left: -115px;
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+		    margin-top: 56px;
+    		margin-left: -95px;
+	}
+	
+
+.SubBtn{
+	height: 49px;
+    float: left;
+    font-size: 17.5px;
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    margin-left: 1%;
+	}
+
+
+.ASA1{
+	
+	margin-left:3px;
+}
+/*.AS1{
+	
+	margin-left:2px;
+}*/
+.Sou1{
+	
+	display:inline-block;
+	width:80%;
+	    margin-left:13%;
+}
+.visHidn{
+	visibility:hidden;
+}
+.An2{
+	 
+	margin-left:279px;
+}
+.Content3_2{
+	margin-left:246px;
+}
+
+
+.Content3_3{
+	margin-left:246px;
+}
+
+.Content3_4{
+	margin-left:102px;
+}
+
+.lf{
+	margin-left:20%;
+}
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+ @media (min-width: 1501px) and (max-width: 1800px) and (orientation:landscape)
+{
+
+	.buttons1{
+	 
+	height: 82px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 95px;
+    background: white;
+}
+.Sou1{
+	margin-left:7%;
+}
+.lf{
+	margin-left:25%;
+}
+.fs {
+    font-size: 31px;
+}
+
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:30px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size:60px;
+		    margin-top:10px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		    margin-left: -18px;
+   		 	margin-top: -10px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+		    margin-left: -18px;
+   		 	margin-top: -10px;
+	}
+	
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+		    margin-top: 56px;
+   			margin-left: -115px;
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+		    margin-top: 56px;
+    		margin-left: -95px;
+	}
+	
+
+	.SubBtn{
+		height: 70px;
+		float: left;
+		font-size: 22px;
+		
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    		margin-left: 1%;
+	}
+.M_Left1 {
+    margin-left: 364px;
+}
+
+.image_right {
+    width: 7%;
+    margin-left: 57px;
+}
+.AS1 {
+    width: 34%;
+    float: left;
+}
+.MTop {
+    margin-top: 0px;
+}
+.A22 {
+    width: 59%;
+	margin-left:65px;
+}
+.A3{
+	    margin-left: 0px;
+}
+.An2 {
+    width: 10%;
+    display: inline-block;
+    float: left;
+    margin-left:375px;
+}
+.cross1{
+	margin-left:35px;
+}
+.ML3 {
+    margin-left: 51px;
+}
+.AN22 {
+    margin-left: 39px;
+}
+.AN21 {
+    margin-left: 32px;
+}
+.AN22 {
+    margin-left: 38px;
+}
+.Div11 {
+    width: 9%;
+    float: left;
+}
+.Div_11 {
+    width:9%;
+    float: left;
+}
+.Div_2 {
+    width: 63%;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
+.Div111 {
+    width: 10%;
+    float: left;
+}
+
+
+
+.Div_22 {
+    
+    margin-left: 242px;
+}
+
+.Div_222 {
+    width: 35%;
+   
+    margin-left: 58px;
+}
+.Div_A1 {
+    margin-left: 24px;}
+.Div_A2 {
+    margin-left: 25px;}
+.Div_A3 {
+    margin-left: 0px;
+}
+.Margin_Left {
+    margin-left: 352px;
+}
+.MT1 {
+
+    margin-top: 35px;
+
+}
+.m_top1 {
+    margin-top: 35px;
+}
+.FSize {
+    font-size: 26px;
+}
+.image_down {
+    width: 4%;
+    margin-left: 58px;
+}
+.An2 {
+    width: 10%;
+    display: inline-block;
+    float: left;
+    margin-left: 375px;
+}
+.A22 {
+    width: 59%;
+    margin-left: 106px;
+}
+
+.cross1{
+    width: 59%;
+    margin-left: 69px;
+}
+.ML2 {
+    margin-left: 143px;
+}
+.AN21 {
+    margin-left: 132px;
+}
+.ML3 {
+    margin-left: 33px;
+}
+.AN22 {
+    margin-left: 54px;
+}
+.Div_222 {
+    width: 35%;
+    margin-left:273px;
+}
+.Div_A1 {
+    margin-left: 274px;
+}
+
+.Div_A2 {
+    margin-left: 52px;
+}
+
+.Margin_Left {
+    margin-left:523px;
+}
+
+.ML1 {
+    margin-left: 35px;
+}
+
+.Content3_2{
+	margin-left:325px;
+}
+
+
+.Content3_3{
+	margin-left:325px;
+}
+
+.Content3_4{
+	margin-left:98px;
+}
+
+.A222 {
+    width: 27%;
+    margin-left: 43.4%;
+    display: inline-block;
+}
+
+}
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+  @media (min-width: 1801px) and (max-width: 2000px) and (orientation:landscape)
+{
+
+.Sou1{
+	margin-left:7%;
+}
+	.buttons1{
+	 
+	height: 90px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 105px;
+    background: white;
+}
+
+
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:35px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size:65px;
+		    margin-top:15px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		    margin-left: -22px;
+   		 	margin-top: -15px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		    margin-left: -22px;
+    		margin-top: -15px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+		    margin-left: -22px;
+   		 	margin-top: -15px;
+	}
+	
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		    margin-left: -22px;
+    		margin-top: -15px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		    margin-left: -22px;
+    		margin-top: -15px;
+	}
+	
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+		    margin-top: 65px;
+   			margin-left: -125px;
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+		    margin-top: 70px;
+    		margin-left: -50px;
+	}
+	
+
+	.SubBtn{
+		
+		height: 80px;
+		float: left;
+		font-size:26px;
+		
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left:12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    		margin-left: 1%;
+	}
+
+.M_Left1 {
+    margin-left: 397px;
+}
+
+.image_right {
+    width: 7%;
+    margin-left: 57px;
+}
+.AS1 {
+    width: 34%;
+    float: left;
+}
+.MTop {
+    margin-top: 0px;
+}
+.A22 {
+    width: 59%;
+	margin-left:65px;
+}
+.A3{
+	    margin-left: 0px;
+}
+.An2 {
+    width: 10%;
+    display: inline-block;
+    float: left;
+    margin-left: 269px;
+}
+.cross1{
+	margin-left:35px;
+}
+.ML3 {
+    margin-left: 51px;
+}
+.AN22 {
+    margin-left: 39px;
+}
+.AN21 {
+    margin-left: 85px;
+}
+.AN22 {
+    margin-left: 38px;
+}
+.Div11 {
+    width: 9%;
+    float: left;
+}
+.Div_11 {
+    width: 9%;
+    float: left;
+}
+
+.Div111 {
+    width: 10%;
+    float: left;
+}
+
+
+
+.Div_22 {
+    
+    margin-left: 290px;
+}
+
+.Div_222 {
+    width: 35%;
+   
+    margin-left: 58px;
+}
+.Div_A1 {
+    margin-left: 24px;}
+.Div_A2 {
+    margin-left: 25px;}
+.Div_A3 {
+    margin-left: 0px;
+}
+.Margin_Left {
+    margin-left: 635px;
+}
+.MT1 {
+
+    margin-top: 43px;
+
+}
+.m_top1 {
+    margin-top: 43px;
+}
+.FSize {
+    font-size: 26px;
+}
+.image_down {
+    width: 4%;
+    margin-left: 58px;
+}
+.An2 {
+    width: 10%;
+    display: inline-block;
+    float: left;
+    margin-left: 464px;
+}
+.A22 {
+    width: 59%;
+    margin-left: 127px;
+}
+
+.cross1{
+    width: 59%;
+    margin-left: 69px;
+}
+.ML2 {
+    margin-left: 143px;
+}
+.AN21 {
+    margin-left: 147px;
+}
+.ML3 {
+    margin-left: 33px;
+}
+.AN22 {
+    margin-left: 32px;
+}
+.Div_222 {
+    width: 35%;
+    margin-left: 315px;
+}
+.Div_A1 {
+    margin-left: 317px;
+}
+
+.Div_A2 {
+    margin-left: 65px;
+}
+
+.Margin_Left {
+    margin-left: 575px;
+}
+
+
+.ML1{
+	margin-left:46px;
+}
+.sub{
+	margin-left:20px;
+}
+.Div_2 {
+    width: 60%;
+    float: left;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.Content3_2{
+	margin-left:363px;
+}
+
+
+.Content3_3{
+	margin-left:364px;
+}
+
+.Content3_4{
+	margin-left:123px;
+}
+
+.Sou1{
+	margin-left:7%;
+}
+.lf{
+	margin-left:25%;
+}
+.fs {
+    font-size: 31px;
+}
+
+.Box {
+    width: 94%;
+}
+.A222 {
+    width: 27%;
+    margin-left: 40%;
+    display: inline-block;
+}
+
+}
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+  @media (min-width: 2001px) and (orientation:landscape)
+{
+	
+	.buttons1{
+	 
+	height: 82px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 95px;
+    background: white;
+}
+
+
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:30px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size:60px;
+		    margin-top:10px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		    margin-left: -18px;
+   		 	margin-top: -10px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+		    margin-left: -18px;
+   		 	margin-top: -10px;
+	}
+	
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+		    margin-top: 56px;
+   			margin-left: -115px;
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+		    margin-top: 56px;
+    		margin-left: -95px;
+	}
+	
+
+	.SubBtn{
+		
+		height: 70px;
+		float: left;
+		font-size: 28px;
+		
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    		margin-left: 1%;
+	}
+
+.M_Left1 {
+    margin-left: 452px;
+}
+
+.image_right {
+    width: 7%;
+    margin-left: 57px;
+}
+.AS1 {
+    width: 34%;
+    float: left;
+}
+.MTop {
+    margin-top: 0px;
+}
+.A22 {
+    width: 59%;
+	margin-left:65px;
+}
+.A3{
+	    margin-left: 0px;
+}
+.A1{
+	    margin-left: 25px;
+}
+
+.An2 {
+    width: 10%;
+    display: inline-block;
+    float: left;
+    margin-left: 269px;
+}
+.cross1{
+	margin-left:35px;
+}
+.ML3 {
+    margin-left: 51px;
+}
+.AN22 {
+    margin-left: 39px;
+}
+.AN21 {
+    margin-left: 85px;
+}
+.AN22 {
+    margin-left: 38px;
+}
+.Div11 {
+    width: 9%;
+    float: left;
+}
+.Div_11 {
+    width: 10%;
+    float: left;
+}
+
+
+
+.Div111 {
+    width:9%;
+    float: left;
+}
+
+
+
+
+.Div_22 {
+    
+    margin-left: 315px;
+}
+
+.Div_222 {
+    width: 35%;
+   
+    margin-left: 347px;
+}
+.Div_A1 {
+    margin-left:348px;}
+.Div_A2 {
+    margin-left: 25px;}
+.Div_A3 {
+    margin-left: 0px;
+}
+.Margin_Left {
+    margin-left: 737px;
+}
+.MT1 {
+
+    margin-top: 23px;
+
+}
+.m_top1 {
+    margin-top: 43px;
+}
+.FSize {
+    font-size: 30px;
+}
+.image_down {
+    width: 6%;
+    margin-left: 56px;
+}
+.An2 {
+    width: 10%;
+    display: inline-block;
+    float: left;
+    margin-left: 514px;
+}
+.A22 {
+    width: 59%;
+    margin-left: 127px;
+}
+
+.cross1{
+    width: 59%;
+    margin-left: 80px;
+}
+.ML2 {
+    margin-left: 155px;
+}
+.AN21 {
+    margin-left: 147px;
+}
+.ML3 {
+    margin-left: 70px;
+}
+.AN22 {
+    margin-left: 53px;
+}
+.Div_222 {
+    width: 35%;
+    margin-left: 349px;
+}
+.Div_A1 {
+    margin-left: 349px;
+}
+
+.Div_A2 {
+    margin-left: 65px;
+}
+
+
+
+.image_up{
+	width:5%;
+	margin-left:122px;
+}
+.image_cross1{
+	margin-left:142px;
+}
+.note_image{
+	width:25px;
+}
+.AN1{
+	margin-left:20px;
+}
+.AN2{
+	width:18%;
+	margin-left:2px;
+}
+AN3{
+	margin-left:80px;
+}
+
+.Box{
+	width:68%;
+	padding-left:110px;
+	margin-left:20px;
+}
+.MT2{
+	margin-top:65px;
+}
+.Content3_2{
+	margin-left:410px;
+}
+
+
+.Content3_3{
+	margin-left:410px;
+}
+
+.Content3_4{
+	margin-left:128px;
+}
+.Margin_Left {
+    margin-left: 689px;
+}	
+.Div_2 {
+	width:62%;
+}
+
+.Sou1{
+	margin-left:7%;
+}
+.lf{
+	margin-left:25%;
+}
+.fs {
+    font-size: 31px;
+}
+
+.Box {
+    width: 85%;
+	
+}
+
+.fs {
+    font-size: 38px;
+}
+
+.A222 {
+    width: 27%;
+    margin-left: 42%;
+    display: inline-block;
+}
+}
+
+
+
+
+.div_A{
+	margin-top:3%;
+}
+
+
+
+.buttons1,.middle4
+{
+	display:inline-block;
+}
+
+.Content1_1,.Content2_1,.Content3_1,.Content4_1,.Content5_1,.Content6_1,.Content7_1,.Content8_1,.Content9_1,.Content10_1,.Content11_1,.Content12_1{
+	margin-top:0px;
+}
+.Content12_3,.middle6{
+	width:100%;
+}
+
+.hide{
+	visibility:hidden;
+}
+.M_Btm{
+	margin-bottom:2%;
+}
+.Content12_3{
+	line-height:100%;
+}
+.alc{
+	text-align:center;
+}
+.lh{
+	line-height:100%;
+}
+.Content6_8{
+	margin-top:5px;
+}
+
+.notop{margin-top:0%;}
