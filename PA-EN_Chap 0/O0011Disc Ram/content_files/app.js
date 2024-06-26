@@ -4,7 +4,7 @@ $(document).ready(function(){
 					 window.abc=0;
 						   
 				      Local1=function(){
-						  console.log("Add a new Function")
+						  console.log("Add a new Function new change")
 						  }	
 			     	  Local2=function(){}
 			    	  Local3=function(){}
