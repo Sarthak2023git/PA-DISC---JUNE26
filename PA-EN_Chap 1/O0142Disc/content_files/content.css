@@ -1,0 +1,1670 @@
+.SubBtn{
+	display: inline-block;
+	color: black;
+	font-weight: bold;
+	background-color: #ffb380;
+	background-image: linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -o-linear-gradient(bottom, #fff) 0%, #ffb380 100%);
+	background-image: -moz-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -webkit-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -ms-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -webkit-gradient( linear, left bottom, left top, color-stop(0, #fff), color-stop(1, #ffb380) );
+   -webkit-transition: all 0s ease-in-out;
+   -moz-transition: all 0s ease-in-out;
+    transition: all 0s ease-in-out;
+	-webkit-transform: rotateX(20deg);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffb380', endColorstr='white',GradientType=0 );
+	box-shadow:none;
+				
+}
+.SubBtn:hover{
+	background-image: linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -o-linear-gradient(top, #fff) 0%, #ffb380 100%);
+	background-image: -moz-linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -webkit-linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -ms-linear-gradient(top, #fff 0%, #ffb380 100%);
+	background-image: -webkit-gradient( linear, left top, left button, color-stop(0, #fff), color-stop(1, #ffb380) );
+	cursor:pointer;
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='white', endColorstr='#ffb380',GradientType=0 );
+	box-shadow:none;
+}
+.SubBtn:active{
+		background-image: linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -o-linear-gradient(bottom, #fff) 0%, #ffb380 100%);
+	background-image: -moz-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -webkit-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -ms-linear-gradient(bottom, #fff 0%, #ffb380 100%);
+	background-image: -webkit-gradient( linear, left bottom, left top, color-stop(0, #fff), color-stop(1, #ffb380) );
+	-webkit-transform: translate(0, 2px);
+	-moz-transform: translate(0, 2px);
+	-ms-transform: translate(0, 2px);
+	transform: translate(0, 2px);
+	box-shadow:none;
+}
+
+ 
+.buttons1,.buttons2{
+	width:90%;
+	position:absolute;
+	z-index:10;
+}
+.container-right {
+    position: relative;
+}
+
+.MainBtnTable{
+	height:100%;
+	width:100%;
+}
+.MainBtnTable td{
+	vertical-align:middle;
+}
+
+
+.img1{width:100%; height:100%;}
+
+.bold
+{
+	font-weight:bold;
+}
+
+	float:left;
+
+.normalFont
+{
+	font-weight:normal;
+}
+
+.vert_align{vertical-align:top;}
+
+.tab1,.tab2,.tab3,.tab4{
+	width:100%;
+	text-align:center;
+	table-layout:fixed;}
+.tab2{text-align:left;}
+.padlft1{padding-left:5.5%}
+table,td{border:0px solid green;}
+.padtpt{padding-top:1.5%;}	
+.tw1{width:20%;}
+.tw2{width:10%;}
+.tw3{width:20%;}
+.tw4{width:50%;}
+.t_w1{width:40%;}
+.t_w2{width:60%;}
+	
+.tal{text-align:left;}
+.tar{text-align:right;}
+
+.step{float:left; width:10%;}
+.example{width:80%; margin-left:10%;}
+
+.FourthButtonCon4{width:100%; display:inline-block;}
+
+.FirstButtonCon2_1{width:10%;float:left}
+.FirstButtonCon2_2{width:30%;float:left;margin-left:2%;}
+.FirstButtonCon2_3{width:66%;margin-left:2%;float:left}
+.FirstButtonCon3{width:88%;}
+
+.SecondButtonCon2_1{float:left;margin-left:10%;}
+.SecondButtonCon2_2{float:left;margin-left:10%;}
+.SecondButtonCon2_3{float:left;margin-left:10%;}
+
+.SecondButtonCon4_1{float:left;}
+
+.SecondButtonCon4_2,.SecondButtonCon4_3,.SecondButtonCon4_4{float:left;margin-left:5%;}
+
+.SecondButtonCon5_1{float:left;}
+.SecondButtonCon5_2,.SecondButtonCon5_3,.SecondButtonCon5_4{float:left;margin-left:5%;}
+
+/*.SecondButtonCon1{margin-top:15px;}*/
+.SecondButtonCon2,.SecondButtonCon3,.SecondButtonCon4,.SecondButtonCon5{margin-top:30px;}
+
+.SecondButtonCon2,.SecondButtonCon4,.SecondButtonCon5{display:inline-block;width:100%;}
+.SecondButtonCon4,.SecondButtonCon5{margin-left:15%; width:85%;}
+
+.ThirdButtonCon1{display:inline-block;width:100%;}
+.ThirdButtonCon2,.ThirdButtonCon3{display:inline-block;width:85%;}
+
+.ThirdButtonCon2_1{float:left;}
+.ThirdButtonCon2_2,.ThirdButtonCon2_3,.ThirdButtonCon2_4{float:left;margin-left:5%;}
+
+.ThirdButtonCon3_1{float:left;}
+.ThirdButtonCon3_2,.ThirdButtonCon3_3,.ThirdButtonCon3_4{float:left;margin-left:5%;}
+
+/*.ThirdButtonCon1{margin-top:60px;}*/
+.ThirdButtonCon2,.ThirdButtonCon3{margin-top:35px; margin-left:15%;}
+
+.FirstButtonCon1{margin-top:15px;}
+.FirstButtonCon2,.FirstButtonCon3{margin-top:5px;}
+.FirstButtonCon3,.FirstButtonCon4,.FirstButtonCon5{margin-top:35px;}
+
+.FirstButtonCon2{width:80%;}
+
+.visihid{visibility:hidden;}
+
+.FirstButtonCon5_1{float:left;width:40%;}
+.FirstButtonCon5_2{width:50%;margin-left:41%;}
+
+.EX1,.EX2,.EX3,.EX4,.EX5,.EX6{
+	margin-top:0px;
+	padding-top:0px;
+}
+.LH{
+	line-height:0px;
+}
+
+.ltrspcg{letter-spacing:2px;}
+
+
+
+/*.ThirdButtonCon3,.ThirdButtonCon3_1,.ThirdButtonCon3_2,.ThirdButtonCon3_3,.ThirdButtonCon3_4{border:1px solid green;}*/
+
+.ThirdButtonCon2,.ThirdButtonCon3{width:80%;}
+.ThirdButtonCon2_2,.ThirdButtonCon3_2,.SecondButtonCon4_2,.SecondButtonCon5_2{margin-top:-1%;}
+
+.padleft{padding-left:50px;}
+
+.step{float:left; width:10%;}
+.example{width:80%; margin-left:10%;}
+.ContentFourthButton{line-height:100%;}
+.FourthButtonCon3,.FourthButtonCon5{margin-left:30%; width:70%;}
+.FourthButtonCon7{margin-left:24%; width:76%;}
+.FourthButtonCon5{display:inline-block;}
+.FourthButtonCon9{margin-left:10%; width:90%;}
+/*// Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 450px) and (max-width: 574px) and (orientation:landscape){ 
+.MainBtns
+{
+	font-size:7px; 
+	border:1px solid rgb(38,103,191);
+}
+
+.SubBtn {
+    height: 18px;
+    float: left;
+    font-size: 6px;
+}
+.buttons1 {
+    height: 24px;
+    background: white;
+	width:86%;
+}
+.buttons2{
+	 
+	height: 35px;
+    background: white;
+}
+	.tickA{
+		position:absolute;
+		color:#090;
+       font-size:8px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 18px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+	    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		     margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+  margin-top: 16px;
+    margin-left: -35px;
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+		  margin-top: 16px;
+   		  margin-left: -35px;
+	}
+
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 11%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 5%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+
+.FirstButtonCon2,.FirstButtonCon3{width:90%;}
+
+.FirstButtonCon5_2{margin-left:45%;}
+/*.SecondButtonCon1{margin-top:2px;}*/
+/*.SecondButtonCon2,.SecondButtonCon3,.SecondButtonCon4,.SecondButtonCon5{margin-top:15px;}*/
+/*.ThirdButtonCon1{margin-top:60px;}
+.ThirdButtonCon2,.ThirdButtonCon3{margin-top:17px;}*/
+
+
+.tab4{line-height:12px;}
+
+.arrow1{width:10%;margin-left:36px;}
+.arrow2{width:4.5%;margin-left:89px;}
+.arrow3{width:4%;margin-left:119px;}
+.arrow4{width:4%;margin-left:120px;}
+.arrow5{width:5%;margin-left:68px;}
+
+.padl{padding-left:58px;}
+.pad2{padding-left:104px;}
+.pad3{padding-left:93px;}
+.pad4{padding-left:21px;}
+.ml{margin-left:2%;}
+
+.tabptp{padding-top:5%;}
+.padlft{padding-left:4%;}
+
+.font{font-size:8px;}
+.SecondButtonCon2,.SecondButtonCon3,.SecondButtonCon4,.SecondButtonCon5{margin-top:4px;}
+.FirstButtonCon3,.FirstButtonCon4,.FirstButtonCon5{margin-top:10px;}
+.ThirdButtonCon2,.ThirdButtonCon3{margin-top:15px; margin-left:15%;}
+
+.SecondButtonCon3{margin-top:8px;} 
+.FirstButtonCon3,.FirstButtonCon4,.FirstButtonCon5{margin-top:20px;}
+.FourthButtonCon2,.FourthButtonCon4,.FourthButtonCon6,.FourthButtonCon8{margin-top:3%;}
+.FourthButtonCon3,.FourthButtonCon5,.FourthButtonCon7,.FourthButtonCon9{margin-top:1%;}
+.ContentFourthButton{line-height:110%;}
+
+.FirstButtonCon3{width:99%;}
+.padlft1{padding-left: 3.5%;}
+.FirstButtonCon5_2 {
+    width: 60%;
+    margin-left: 38%;
+}
+
+}
+
+
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+@media (min-width: 575px) and (max-width: 675px) and (orientation:landscape) { 
+
+.buttons1 {
+    height: 29px;
+    background: white;
+}
+.buttons1 {
+    width: 89.7%;
+    position: absolute;
+    z-index: 10;
+}
+.buttons2{
+	 
+	height: 43px;
+    background: white;
+}
+.SubBtn {
+    height: 24px;
+    float: left;
+    font-size: 7px;
+}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:11px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 22px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+	    margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		     margin-left: -6px;
+    margin-top: -3px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		    margin-left: -6px;
+    margin-top: -3px;
+	}
+		
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+ 	margin-top: 23px;
+    margin-left: -48px;
+	
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+ 	margin-top: 23px;
+    margin-left: -41px;
+	
+	}
+
+	
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left:6%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+	
+
+.FirstButtonCon2,.FirstButtonCon3{width:90%;}
+
+.FirstButtonCon5_2{margin-left:45%;}
+
+
+
+.tab4{line-height:25px;}
+
+.arrow1{width:10%;margin-left:44px;}
+.arrow2{width:4.5%;margin-left:105px;}
+.arrow3{width:3.5%;margin-left:151px;}
+.arrow4{width:3.5%;margin-left:153px;}
+.arrow5{width:5%;margin-left:90px;}
+
+.padl{padding-left:56px;}
+.pad2{padding-left:131px;}
+.pad3{padding-left:122px;}
+.pad4{padding-left:23px;}
+.ml{margin-left:2%;}
+
+.tabptp{padding-top:2%;}
+.padlft{padding-left:4%;}
+
+.font{font-size:9px;}
+.SecondButtonCon2,.SecondButtonCon3,.SecondButtonCon4,.SecondButtonCon5{margin-top:4px;}
+.FirstButtonCon3,.FirstButtonCon4,.FirstButtonCon5{margin-top:10px;}
+.ThirdButtonCon2,.ThirdButtonCon3{margin-top:15px; margin-left:15%;}
+
+.example{margin-left:14%;}
+.SecondButtonCon3{margin-top:8px;} 
+.FirstButtonCon3,.FirstButtonCon4,.FirstButtonCon5{margin-top:6px;}
+.FourthButtonCon2,.FourthButtonCon4,.FourthButtonCon6,.FourthButtonCon8{margin-top:3%;}
+.FourthButtonCon3,.FourthButtonCon5,.FourthButtonCon7,.FourthButtonCon9{margin-top:1%;}
+.ContentFourthButton{line-height:110%;}
+
+.FirstButtonCon3{width:99%;}
+.padlft1{padding-left: 4.5%;}
+.FirstButtonCon5_2 {
+    width: 60%;
+    margin-left: 38%;
+}
+}
+ /*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+@media (min-width: 676px) and (max-width: 775px) and (orientation:landscape){ 
+
+.buttons1 {
+    height: 35px;
+    background: white;
+}
+.buttons1{
+    width: 89%;
+    position: absolute;
+    z-index: 10;
+}
+.buttons2{
+	 
+	height: 46px;
+    background: white;
+}
+
+.SubBtn {
+    height: 30px;
+    float: left;
+    font-size: 11px;
+}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:15px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 27px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+	margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+    margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+	       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		        margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		       margin-left: -10px;
+    margin-top: -3px;
+	}
+	
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+ 	margin-top: 28px;
+    margin-left: -58px;
+	
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+ 	    margin-top: 28px;
+    margin-left: -47px;
+	
+	}
+	
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4 {
+    width: 19%;
+    margin-left: 4.5%;
+}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+	
+.FirstButtonCon2{width:90%;}
+.FirstButtonCon5_2{margin-left:45%;}
+
+
+.tab4{line-height:25px;}
+
+.arrow1{width:10%;margin-left:53px;}
+.arrow2{width:4.5%;margin-left:122px;}
+.arrow3{width:3.5%;margin-left:185px;}
+.arrow4{width:3.5%;margin-left:191px;}
+.arrow5{width:5%;margin-left:110px;}
+
+.padl{padding-left:75px;}
+.pad2{padding-left:156px;}
+.pad3{padding-left:161px;}
+.pad4{padding-left:58px;}
+.ml{margin-left:2%;}
+
+.tabptp{padding-top:2%;}
+.padlft{padding-left:4%;}
+.font{font-size:12px;}
+.SecondButtonCon2,.SecondButtonCon3,.SecondButtonCon4,.SecondButtonCon5{margin-top:10px;}
+.FirstButtonCon3,.FirstButtonCon4,.FirstButtonCon5{margin-top:10px;}
+.ThirdButtonCon2,.ThirdButtonCon3{margin-top:15px; margin-left:15%;}
+
+.SecondButtonCon3{margin-top:15px;} 
+.FirstButtonCon3,.FirstButtonCon4,.FirstButtonCon5{margin-top:20px;}
+.FourthButtonCon2,.FourthButtonCon4,.FourthButtonCon6,.FourthButtonCon8{margin-top:3%;}
+.FourthButtonCon3,.FourthButtonCon5,.FourthButtonCon7,.FourthButtonCon9{margin-top:1%;}
+.ContentFourthButton{line-height:110%;}
+
+.FirstButtonCon3{width:99%;}
+.padlft1{padding-left: 4.5%;}
+.FirstButtonCon5_2 {
+    width: 60%;
+    margin-left: 38%;
+}
+}
+ /*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 776px) and (max-width: 876px) and (orientation:landscape)
+{
+
+.buttons1 {
+    height: 42px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 56px;
+    background: white;
+}
+
+
+.SubBtn {
+    height: 32px;
+    float: left;
+    font-size: 12px;
+}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:15px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 30px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+	margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		     margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+	       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		        margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		       margin-left: -10px;
+    margin-top: -3px;
+	}
+	
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+ 	margin-top: 31px;
+    margin-left: -65px;
+	
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+ 	     margin-top: 31px;
+    margin-left: -52px;
+
+	
+	}
+	
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 6%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+.FirstButtonCon2{width:90%;}
+.FirstButtonCon5_2{margin-left:45%;}
+
+
+.tab4{line-height:25px;}
+
+.arrow1{width:10%;margin-left:64px;}
+.arrow2{width:4.5%;margin-left:157px;}
+.arrow3{width:3.5%;margin-left:226px;}
+.arrow4{width:3.5%;margin-left:226px;}
+.arrow5{width:5%;margin-left:134px;}
+
+.padl{padding-left:105px;}
+.pad2{padding-left:156px;}
+.pad3{padding-left:161px;}
+.pad4{padding-left:58px;}
+.ml{margin-left:2%;}
+
+.tabptp{padding-top:5%;}
+.padlft{padding-left:4%;}
+.font{font-size:16px;}
+
+.example{width:80%; margin-left:12%;}
+.SecondButtonCon3{margin-top:15px;} 
+.FirstButtonCon3,.FirstButtonCon4,.FirstButtonCon5{margin-top:20px;}
+.FourthButtonCon2,.FourthButtonCon4,.FourthButtonCon6,.FourthButtonCon8{margin-top:3%;}
+.FourthButtonCon3,.FourthButtonCon5,.FourthButtonCon7,.FourthButtonCon9{margin-top:1%;}
+.ContentFourthButton{line-height:110%;}
+
+.FirstButtonCon3{width:99%;}
+.padlft1{padding-left: 3.5%;}
+.FirstButtonCon5_2 {
+    width: 60%;
+    margin-left: 38%;
+}
+}
+ 
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 877px) and (max-width: 980px) and (orientation:landscape)
+{
+.buttons1 {
+    height: 47px;
+    background: white;
+	
+    width: 89%;
+    position: absolute;
+    z-index: 10;
+}
+
+.buttons2{
+	 
+	height: 67px;
+    background: white;
+}
+
+
+
+.SubBtn{
+	height: 38px;
+    float: left;
+    font-size: 14px;
+	}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:15px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 35px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		     margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+	       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		        margin-left: -10px;
+    margin-top: -3px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		       margin-left: -10px;
+    margin-top: -3px;
+	}
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+    margin-top: 40px;
+    margin-left: -73px;
+	
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+    margin-top: 38px;
+    margin-left: -58px;	
+	}
+	
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 19%;
+   			margin-left: 5%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+.FirstButtonCon2{width:90%;}
+.FirstButtonCon5_2{margin-left:45%;}
+
+
+.tab4{line-height:25px;}
+
+.arrow1{width:9%;margin-left:71px;}
+.arrow2{width:4.5%;margin-left:166px;}
+.arrow3{width:3.5%;margin-left:248px;}
+.arrow4{width:3.5%;margin-left:253px;}
+.arrow5{width:3.5%;margin-left:147px;}
+
+.padl{padding-left:105px;}
+.pad2{padding-left:196px;}
+.pad3{padding-left:200px;}
+.pad4{padding-left:58px;}
+.ml{margin-left:2%;}
+
+.tabptp{padding-top:5%;}
+.padlft{padding-left:4%;}
+.font{font-size:16px;}
+
+.FirstButtonCon3,.FirstButtonCon4,.FirstButtonCon5{margin-top:20px;}
+.FourthButtonCon2,.FourthButtonCon4,.FourthButtonCon6,.FourthButtonCon8{margin-top:4%;}
+.FourthButtonCon3,.FourthButtonCon5,.FourthButtonCon7,.FourthButtonCon9{margin-top:1.5%;}
+.ContentFourthButton{line-height:110%;}
+
+.FirstButtonCon3{width:99%;}
+.padlft1{padding-left: 4.5%;}
+.FirstButtonCon5_2 {
+    width: 60%;
+    margin-left: 38%;
+}
+
+}
+
+ /*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 981px) and (max-width: 1100px) and (orientation:landscape)
+{
+.buttons1 {
+    height: 60px;
+	width: 90%;
+    background: white;
+}
+.buttons2{
+	 
+	height: 90px;
+    background: white;
+}
+
+
+
+.SubBtn {
+    height: 35px;
+    float: left;
+    font-size: 12px;
+}
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:21px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 45px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		      margin-left: -13px;
+    margin-top: -6px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		    margin-left: -13px;
+    margin-top: -6px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+	      margin-left: -13px;
+    margin-top: -6px;
+	}
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		       margin-left: -13px;
+    margin-top: -6px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		     margin-left: -13px;
+    margin-top: -6px;
+	}
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+       margin-top: 55px;
+    margin-left: -75px;
+	
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+		
+       margin-top: 55px;
+    margin-left: -87px;
+	}
+	
+
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		     width: 18%;
+   			 margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 14%;
+   		 	margin-left: 2%;
+	}
+.FirstButtonCon2{width:90%;}
+.FirstButtonCon5_2{margin-left:45%;}
+
+
+.tab4{line-height:25px;}
+
+.arrow1{width:10%;margin-left:81px;}
+.arrow2{width:4.5%;margin-left:192px;}
+.arrow3{width:3.5%;margin-left:288px;}
+.arrow4{width:3.5%;margin-left:288px;}
+.arrow5{width:3.5%;margin-left:177px;}
+
+.padl{padding-left:144px;}
+.pad2{padding-left:219px;}
+.pad3{padding-left:218px;}
+.pad4{padding-left:58px;}
+.ml{margin-left:2%;}
+
+.tabptp{padding-top:5%;}
+.padlft{padding-left:4%;}
+
+.font{font-size:20px;}
+
+
+.FirstButtonCon3,.FirstButtonCon4,.FirstButtonCon5{margin-top:20px;}
+.FourthButtonCon2,.FourthButtonCon4,.FourthButtonCon6,.FourthButtonCon8{margin-top:3.5%;}
+.FourthButtonCon3,.FourthButtonCon5,.FourthButtonCon7,.FourthButtonCon9{margin-top:1.5%;}
+.ContentFourthButton{line-height:110%;}
+
+.FirstButtonCon3{width:99%;}
+.padlft1{padding-left: 4.5%;}
+.FirstButtonCon5_2 {
+    width: 60%;
+    margin-left: 38%;
+}
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+ /*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 1101px) and (max-width: 1300px) and (orientation:landscape)
+{
+	.buttons1 {
+  height: 55px;
+  background: white;
+}
+.buttons2{
+	 
+	height: 95px;
+    background: white;
+}
+
+	.tickA{
+		position:absolute;
+		color:#090;
+       font-size:25px;
+   
+	}
+	.handARot{
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 45px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+}
+.tick41A,.tick42A,.tick43A,.tick44A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+}
+.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+}
+.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+}
+.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+		 margin-top: 54px;
+    margin-left: -82px;
+}
+.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+		 margin-top: 54px;
+    margin-left: -82px;
+}
+	
+	
+.SubBtn{
+		    height: 38px;
+			float: left;
+			font-size: 19px;
+}
+.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+}
+	
+.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+}
+.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+}
+.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+}
+.SubBtn6{
+		    width: 15%;
+    margin-left: 1%;
+}
+.FirstButtonCon2{width:90%;}
+.FirstButtonCon5_2{margin-left:45%;}
+
+.tab4{line-height:25px;}
+
+.arrow1{width:10%;margin-left:95px;}
+.arrow2{width:4.5%;margin-left:227px;}
+.arrow3{width:3.5%;margin-left:327px;}
+.arrow4{width:3.5%;margin-left:331px;}
+.arrow5{width:3.5%;margin-left:177px;}
+
+.padl{padding-left:112px;}
+.pad2{padding-left:255px;}
+.pad3{padding-left:253px;}
+.pad4{padding-left:58px;}
+.ml{margin-left:2%;}
+
+.tabptp{padding-top:5%;}
+.padlft{padding-left:4%;}
+
+.font{font-size:20px;}
+
+.ContentFourthButton{line-height:125%;}
+.FirstButtonCon3,.FirstButtonCon4,.FirstButtonCon5{margin-top:35px;}
+.FourthButtonCon2,.FourthButtonCon4,.FourthButtonCon6,.FourthButtonCon8{margin-top:3%;}
+.FourthButtonCon3,.FourthButtonCon5,.FourthButtonCon7,.FourthButtonCon9{margin-top:0%;}
+.FirstButtonCon3{width:99%;}
+.padlft1{padding-left: 4.5%;}
+.FirstButtonCon5_2 {
+    width: 55%;
+    margin-left: 41%;
+}
+
+}
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+ @media (min-width: 1301px) and (max-width: 1500px) and (orientation:landscape)
+{
+.buttons1{
+	 
+	height: 49px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 95px;
+    background: white;
+}
+
+
+	.tickA{
+		position:absolute;
+		color:#090;
+       font-size:25px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size: 53px;
+		    margin-top: 10px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		 margin-left: -14px;
+    	 margin-top: -9px;
+	}
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+		    margin-top: 56px;
+   			margin-left: -115px;
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+		    margin-top: 56px;
+    		margin-left: -95px;
+	}
+	
+
+	.SubBtn{
+		    height: 42px;
+    float: left;
+    font-size: 16px;
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 8%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    margin-left: 1%;
+	}
+
+.arrow1{width:10%;margin-left:92px;}
+.arrow2{width:4.5%;margin-left:194px;}
+.arrow3{width:3.5%;margin-left:345px;}
+.arrow4{width:3.5%;margin-left:384px;}
+.arrow5{width:3.5%;margin-left:220px;}
+
+.ml{margin-left:3%;}
+.padlft{padding-left:4%;}
+
+.padl{padding-left:58px;}
+.pad2{padding-left:250px;}
+.pad3{padding-left:282px;}
+.pad4{padding-left:95px;}
+
+.font{font-size:20px;}
+.arrow{
+	width:2%;
+	padding-left:1%;}
+	
+	
+.tabptp{padding-top:3%;}
+.ContentFourthButton {
+    line-height: 120%;
+}
+.FirstButtonCon3,.FirstButtonCon4,.FirstButtonCon5{margin-top:20px;}
+.FourthButtonCon2,.FourthButtonCon4,.FourthButtonCon6,.FourthButtonCon8{margin-top:2%;}
+.FourthButtonCon3,.FourthButtonCon5,.FourthButtonCon7,.FourthButtonCon9{margin-top:1%;}
+
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+ @media (min-width: 1501px) and (max-width: 1800px) and (orientation:landscape)
+{
+
+.buttons1{
+	 
+	height: 69px;
+    background: white;
+	width: 91.4%;
+}
+.buttons2{
+	 
+	height: 95px;
+    background: white;
+}
+
+
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:30px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size:60px;
+		    margin-top:10px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		    margin-left: -18px;
+   		 	margin-top: -10px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+		    margin-left: -18px;
+   		 	margin-top: -10px;
+	}
+	
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+		    margin-top: 56px;
+   			margin-left: -115px;
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+		    margin-top: 56px;
+    		margin-left: -95px;
+	}
+	
+
+	.SubBtn{
+		
+		height: 60px;
+		float: left;
+		font-size: 22px;
+		
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 5.5%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    		margin-left: 1%;
+	}
+.arrow1{width:12%;margin-left:111px;}
+.arrow2{width:5%;margin-left:277px;}
+.arrow3{width:3.7%;margin-left:425px;}
+.arrow4{width:3.7%;margin-left:463px;}
+.arrow5{width:4.5%;margin-left:241px;}
+
+.ml{margin-left:3%;}
+.padlft{padding-left:4%;}
+
+.padl{padding-left:165px;}
+.pad2{padding-left:311px;}
+.pad3{padding-left:387px;}
+.pad4{padding-left:95px;}
+
+.font{font-size:25px;}
+.arrow{
+	width:2%;
+	padding-left:1%;}
+	
+	
+.tabptp{padding-top:3%;}
+.FourthButtonCon2,.FourthButtonCon4,.FourthButtonCon6,.FourthButtonCon8{margin-top:5%;}
+.FourthButtonCon3,.FourthButtonCon5,.FourthButtonCon7,.FourthButtonCon9{margin-top:2%;}
+
+.padlft1 {
+    padding-left: 3.5%;
+}
+.pad3 {
+    padding-left: 360px;
+}
+
+.FirstButtonCon3{width:88%;}
+.padlft1{padding-left: 3.5%;}
+.FirstButtonCon5_2 {
+    width: 55%;
+    margin-left: 41%;
+}
+
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+  @media (min-width: 1801px) and (max-width: 2000px) and (orientation:landscape)
+{
+.buttons1{
+	 width: 90%;
+	height: 75px;
+    background: white;
+}
+.buttons2{
+	 
+	height: 105px;
+    background: white;
+}
+
+
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:35px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size:65px;
+		    margin-top:15px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		    margin-left: -22px;
+   		 	margin-top: -15px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		    margin-left: -22px;
+    		margin-top: -15px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+		    margin-left: -22px;
+   		 	margin-top: -15px;
+	}
+	
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		    margin-left: -22px;
+    		margin-top: -15px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		    margin-left: -22px;
+    		margin-top: -15px;
+	}
+	
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+		    margin-top: 65px;
+   			margin-left: -125px;
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+		    margin-top: 70px;
+    		margin-left: -50px;
+	}
+	
+
+	.SubBtn{
+		
+		height:70px;
+		float: left;
+		font-size:27px;
+		
+	}
+ 	.SubBtn2{
+		width:30%;
+		margin-left:12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 7%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    		margin-left: 1%;
+	}
+.arrow1{width:12%;margin-left:128px;}
+.arrow2{width:5%;margin-left:312px;}
+.arrow3{width:3.7%;margin-left:522px;}
+.arrow4{width:3.7%;margin-left:552px;}
+.arrow5{width:4.5%;margin-left:291px;}
+
+.ml{margin-left:3%;}
+.padlft{padding-left:4%;}
+
+.padl{padding-left:159px;}
+.pad2{padding-left:401px;}
+.pad3{padding-left:437px;}
+.pad4{padding-left:95px;}
+
+.font{font-size:30px;}
+.arrow{
+	width:2%;
+	padding-left:1%;}
+	
+.FirstButtonCon5{margin-top:25px;}	
+.tabptp{padding-top:3%;}
+.FourthButtonCon2,.FourthButtonCon4,.FourthButtonCon6,.FourthButtonCon8{margin-top:3%;}
+.FourthButtonCon3,.FourthButtonCon5,.FourthButtonCon7,.FourthButtonCon9{margin-top:1.5%;}
+.padlft1 {
+    padding-left: 4.5%;
+}
+.pad3 {
+    padding-left: 425px;
+}
+
+.FirstButtonCon3{width:88%;}
+.padlft1{padding-left: 3.5%;}
+.FirstButtonCon5_2 {
+    width: 55%;
+    margin-left: 41%;
+}
+}
+/*-------------------------------------------------------------------------------------------------------------------------------------*/
+
+  @media (min-width: 2001px) and (orientation:landscape)
+{
+.buttons1{
+	 
+	height: 79px;
+    background: white;
+}
+.buttons1{
+    width: 90%;
+    position: absolute;
+    z-index: 10;
+}
+.buttons2{
+	 
+	height: 95px;
+    background: white;
+}
+
+
+.tickA{
+		position:absolute;
+		color:#090;
+       font-size:30px;
+   
+	}
+	.handA{
+		position:absolute;
+		color:#000;
+        font-size:60px;
+		    margin-top:10px;
+   
+	}
+	
+	.tick21A,.tick22A{
+		
+		    margin-left: -18px;
+   		 	margin-top: -10px;
+	}
+	.tick31A,.tick32A,.tick33A{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	.tick41A,.tick42A,.tick43A,.tick44A{
+		
+		    margin-left: -18px;
+   		 	margin-top: -10px;
+	}
+	
+	.tick51A,.tick52A,.tick53A,.tick54A,.tick55A{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	.tick61A,.tick62A,.tick63A,.tick64A,.tick65A,.tick66A{
+		
+		    margin-left: -18px;
+    		margin-top: -10px;
+	}
+	
+	.hand51A,.hand52A,.hand53A,.hand54A,.hand55A{
+		
+		    margin-top: 56px;
+   			margin-left: -115px;
+	}
+	.hand61A,.hand62A,.hand63A,.hand64A,.hand65A,.hand66A{
+		
+		    margin-top: 56px;
+    		margin-left: -95px;
+	}
+	
+
+	.SubBtn {
+    height: 70px;
+    float: left;
+    font-size: 28px;
+}
+ 	.SubBtn2{
+		width:30%;
+		margin-left: 12%;
+	}
+	
+	.SubBtn3{
+		width: 25%;
+		margin-left: 6%;
+	}
+	.SubBtn4{
+		    width: 18%;
+   			margin-left: 6%;
+	}
+	.SubBtn5{
+		       width: 18%;
+    		   margin-left: 2%;
+	}
+	.SubBtn6{
+		    width: 15%;
+    		margin-left: 1%;
+	}
+	
+.arrow1{width:10%;margin-left:157px;}
+.arrow2{width:4.5%;margin-left:364px;}
+.arrow3{width:3.5%;margin-left:589px;}
+.arrow4{width:3.5%;margin-left:634px;}
+.arrow5{width:3.5%;margin-left:332px;}
+
+.ml{margin-left:3%;}
+.padlft{padding-left:4%;}
+
+.padl{padding-left:232px;}
+.pad2{padding-left:438px;}
+.pad3{padding-left:532px;}
+.pad4{padding-left:94px;}
+
+.font{font-size:32px;}
+.arrow{
+	width:2%;
+	padding-left:1%;}
+	
+	
+.tabptp{padding-top:3%;}
+	
+.FourthButtonCon2,.FourthButtonCon4,.FourthButtonCon6,.FourthButtonCon8{margin-top:3%;}
+.FourthButtonCon3,.FourthButtonCon5,.FourthButtonCon7,.FourthButtonCon9{margin-top:2%;}
+
+.FirstButtonCon3{width:88%;}
+.padlft1{padding-left: 3.5%;}
+.FirstButtonCon5_2 {
+    width: 55%;
+    margin-left: 41%;
+}
+.pad3 {
+    padding-left: 489px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*tr,td{
+	border:1px solid #000;
+}*/
